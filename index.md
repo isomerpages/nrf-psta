@@ -12,16 +12,6 @@ sections:
       background: /images/psta-web-main-1920x560px.jpg
       button: NOMINATE NOW
       url: /cfn-form/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
