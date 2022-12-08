@@ -9,18 +9,18 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/PSTA Home Page/psta-web-main-1920x560px.jpg
+      background: /images/psta-web-main-1920x560px.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: ""
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: ""
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: ""
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
