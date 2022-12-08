@@ -7,21 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Recognising Brilliant Minds
+      subtitle: Celebrate outstanding contributions in research and development
       background: /images/psta-web-main-1920x560px.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: NOMINATE NOW
+      url: /cfn-form/
       key_highlights:
         - title: ""
           description: ""
-          url: https://google.com
+          url: ""
         - title: ""
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: ""
           description: ""
-          url: /privacy/
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
