@@ -16,8 +16,8 @@ sections:
       subtitle: "Celebrate "
       description: " in research and development"
   - infopic:
-      title: Bats led to more robust Vaccines for COVID-19
-      subtitle: His expertise in
+      title: ...bats led to more robust Vaccines for COVID-19
+      subtitle: His expertise in...
       description: President’s Science Award 2021 Winner
       image: /images/infopic-guide-1a.png
   - infopic:
@@ -28,4 +28,3 @@ sections:
       alt: Image alt text
       image: /images/infopic-guide-2a.png
 ---
-
