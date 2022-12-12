@@ -24,4 +24,10 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/infopic-guide-1a.png
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
