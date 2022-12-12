@@ -16,18 +16,15 @@ sections:
       subtitle: "Celebrate "
       description: " in research and development"
   - infopic:
-      title: Recognising Brilliant Minds
-      subtitle: Infopic Subtitle
-      description: The President's Science and Technology Awards (PSTA) are the
-        highest honours bestowed on exceptional research scientists and
-        engineers in Singapore for their ex
-      button: Button Text
-      alt: Image alt text
+      title: Bats led to more robust Vaccines for COVID-19
+      subtitle: His expertise in
+      description: President’s Science Award 2021 Winner
       image: /images/infopic-guide-1a.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: ...failure was just a stepping stone to realising my dream.”
+      subtitle: “I told myself...
+      description: President’s Science Award 2021 Winner Performance Computing
+        Researcher, School of Computing, NUS
       alt: Image alt text
+      image: /images/infopic-guide-2a.png
 ---
