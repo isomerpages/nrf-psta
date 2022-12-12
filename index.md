@@ -15,6 +15,8 @@ sections:
       title: outstanding contributions
       subtitle: "Celebrate "
       description: " in research and development"
+      button: nominate now
+      url: /nominate-now/
   - infopic:
       title: ...bats led to more robust Vaccines for COVID-19
       subtitle: His expertise in...
