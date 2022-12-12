@@ -23,5 +23,5 @@ sections:
         engineers in Singapore for their ex
       button: Button Text
       alt: Image alt text
-      image: /images/infopic-1.jpg
+      image: /images/infopic-1b.jpg
 ---
