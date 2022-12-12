@@ -13,9 +13,11 @@ sections:
       button: NOMINATE NOW
       url: /cfn-form/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Brilliant Minds
+      subtitle: "Recognising "
+      description: The President's Science and Technology Awards (PSTA) are the
+        highest honours bestowed on exceptional research scientists and
+        engineers in Singapore for their ex
       button: Button text
       url: /faq/
 ---
