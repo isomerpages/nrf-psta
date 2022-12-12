@@ -22,6 +22,7 @@ sections:
       subtitle: His expertise in...
       description: President’s Science Award 2021 Winner
       image: /images/infopic-guide-1a.png
+      alt: bats
   - infopic:
       title: ...failure was just a stepping stone to realising my dream.”
       subtitle: “I told myself...
