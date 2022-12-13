@@ -26,8 +26,5 @@ Visiting Professor, Department of Obstetrics and Gynaecology, Yong Loo Lin Schoo
 Director, Koi Tū: The Centre for Informed Futures, University of Auckland  
 Director Emeritus and University Distinguished Professor, Liggins Institute, University of Auckland  
 President, International Science Council  
-  
-
-  
 
 “For his outstanding leadership in advancing health, clinical and biomedical sciences research, particularly the strengthening of developmental and early life research and enhancing Singapore’s human health and potential R&D capabilities” [Download Full Citation](/files/PSTM%202021_Prof%20Sir%20Peter%20Gluckman.pdf)
