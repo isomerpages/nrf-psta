@@ -2,8 +2,8 @@ collections:
   past-winners:
     output: true
     order:
-      - PSTM/.keep
       - Winners.md
       - 2021/.keep
       - 2021/Professor Ivy Ng.md
       - 2021/Professor Sir Peter Gluckman.md
+      - PSTM/.keep
