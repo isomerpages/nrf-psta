@@ -8,7 +8,7 @@ description: ""
 ## 2021
 
 * ### **President’s Science and Technology Medal, PSTM**
- ##### **Professor Ivy Ng**  
+ ##### **Professor Ivy Ng**
 Group CEO, SingHealth  
 Clinical Professor, Duke-NUS Medical School  
 Clinical Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)  
