@@ -17,4 +17,3 @@ President, International Science Council
 
 “For his outstanding leadership in advancing health, clinical and biomedical sciences research, particularly the strengthening of developmental and early life research and enhancing Singapore’s human health and potential R&D capabilities”
 [View Full Citation](/files/past-winners/PSTM 2021_Prof Ivy Ng.pdf)
-
