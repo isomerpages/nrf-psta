@@ -21,7 +21,7 @@ sections:
       title: ...bats led to more robust Vaccines for COVID-19
       subtitle: His expertise in...
       description: President’s Science Award 2021 Winner
-      image: /images/infopic-guide-1a.png
+      image: /images/Infopic/infopic-guide-1a.png
       alt: bats
   - infopic:
       title: ...failure was just a stepping stone to realising my dream.”
@@ -29,5 +29,5 @@ sections:
       description: President’s Science Award 2021 Winner Performance Computing
         Researcher, School of Computing, NUS
       alt: Image alt text
-      image: /images/infopic-guide-2a.png
+      image: /images/Infopic/infopic-guide-2a.png
 ---
