@@ -4,10 +4,6 @@ permalink: /past-winners/2021/Gluckman/
 description: ""
 third_nav_title: 2021 PSTM
 ---
-
-
-
-
 ## Professor Sir Peter Gluckman
 Chief Scientific Officer, Singapore Institute for Clinical Sciences, Agency for Science, Technology and Research (A\*STAR)  
 Visiting Professor, Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine, National University of Singapore (NUS)  
