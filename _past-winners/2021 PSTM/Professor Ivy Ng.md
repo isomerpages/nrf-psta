@@ -5,7 +5,7 @@ third_nav_title: 2021 PSTM
 description: ""
 ---
 ![Professor Ivy Ng](/images/Past%20Winners/2021/Ivy%20Ng.png)
-## **Professor Ivy Ng**
+### **Professor Ivy Ng**
 Group CEO, SingHealth  
 Clinical Professor, Duke-NUS Medical School  
 Clinical Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)  
