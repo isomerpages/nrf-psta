@@ -19,5 +19,3 @@ Member, Human Health and Potential Executive Committee, National Research Founda
 
 “For her outstanding leadership in the development of academic medicine in Singapore through advancing health and biomedical sciences research and innovation, nurturing clinical research talent, and establishing strategic partnerships among academia, healthcare and industry, to improve health and healthcare delivery.”
 [View Full Citation](https://astarapp.a-star.edu.sg/psta/All%20Citations/2021/PSTM%202021_Prof%20Ivy%20Ng.pdf)
-
-
