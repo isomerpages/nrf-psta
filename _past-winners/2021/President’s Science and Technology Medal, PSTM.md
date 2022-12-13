@@ -4,11 +4,6 @@ permalink: /past-winners-main/2021/pstm/
 third_nav_title: "2021"
 description: ""
 ---
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
 ## Professor Ivy Ng
 Group CEO, SingHealth  
 Clinical Professor, Duke-NUS Medical School  
@@ -24,17 +19,3 @@ Member, Human Health and Potential Executive Committee, National Research Founda
 [View Full Citation](/files/past-winners/PSTM 2021_Prof Ivy Ng.pdf)
 
 ![Professor Ivy Ng](/images/Past%20Winners/2021/Ivy%20Ng.png)
-## Professor Sir Peter Gluckman
-Chief Scientific Officer, Singapore Institute for Clinical Sciences, Agency for Science, Technology and Research (A\*STAR)  
-Visiting Professor, Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine, National University of Singapore (NUS)  
-Director, Koi Tū: The Centre for Informed Futures, University of Auckland  
-Director Emeritus and University Distinguished Professor, Liggins Institute, University of Auckland  
-President, International Science Council  
-  
-
-  
-
-“For his outstanding leadership in advancing health, clinical and biomedical sciences research, particularly the strengthening of developmental and early life research and enhancing Singapore’s human health and potential R&D capabilities”
-[View Full Citation](/files/past-winners/PSTM 2021_Prof Ivy Ng.pdf)
-
-![Professor Sir Peter Gluckman](/images/Past%20Winners/2021/Peter%20Gluckman.png)
