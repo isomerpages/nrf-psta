@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Past Winners.md
-      - example-subfolder/.keep
-      - example-subfolder/2021.md
+      - 2021/.keep
+      - 2021/2021.md
