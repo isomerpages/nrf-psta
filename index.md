@@ -11,6 +11,7 @@ sections:
       background: /images/Hero/psta-web-hero-1920x560px.jpg
       button: NOMINATE NOW
       url: /cfn-form/
+      subtitle: CELEBRATE outstanding contributions in research and development
   - infobar:
       title: outstanding contributions
       subtitle: "Celebrate "
@@ -30,4 +31,8 @@ sections:
         Researcher, School of Computing, NUS
       alt: Image alt text
       image: /images/Infopic/infopic-guide-2a.png
+  - infobar:
+      title: Who will be the groundbreaker in 2023?
+      button: Nominations now open
+      url: /sgforms/
 ---
