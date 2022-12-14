@@ -4,7 +4,6 @@ permalink: /winners/2021/psa/
 description: ""
 third_nav_title: "2021"
 ---
-
 ![Professor Chen Xiaodong](/images/Past%20Winners/2021/Chen%20XiaoDong.png)
 ### **Professor Chen Xiaodong**
 President’s Chair Professor, School of Materials Science and Engineering, Nanyang Technological University (NTU)  
