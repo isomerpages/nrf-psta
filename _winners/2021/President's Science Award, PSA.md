@@ -13,9 +13,6 @@ Deputy Director, Singapore Hybrid-Integrated Next-Generation μ-Electronics Cent
 
 “For his outstanding contribution to advanced materials research for soft bioelectronics capable of digitising biological senses and extending human sensing capabilities, and their application to advanced manufacturing and healthcare wearables.”
 [Download Full Citation]
-   
-	 
-	 
 
 ![Professor Wang Linfa](/images/Winners/2021/Wang%20Linfa.png)
 ### **Professor Wang Linfa**
