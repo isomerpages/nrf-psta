@@ -1,5 +1,5 @@
 collections:
-  past-winners:
+  winners:
     output: true
     order:
       - Winners.md
