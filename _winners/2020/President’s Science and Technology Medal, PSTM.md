@@ -4,15 +4,11 @@ permalink: /winners/2020/pstm/
 description: ""
 third_nav_title: "2020"
 ---
-![Professor Ivy Ng](/images/Winners/2021/Ivy%20Ng.png)
-### **Professor Ivy Ng**
-Group CEO, SingHealth  
-Clinical Professor, Duke-NUS Medical School  
-Clinical Professor, Yong Loo Lin School of Medicine, National University of Singapore (NUS)  
-Governing Board Member, Duke-NUS Medical School  
-Board Member, National Medical Research Council (NMRC)  
-Member, Human Health and Potential Executive Committee, National Research Foundation (NRF)  
 
-“For her outstanding leadership in the development of academic medicine in Singapore through advancing health and biomedical sciences research and innovation, nurturing clinical research talent, and establishing strategic partnerships among academia, healthcare and industry, to improve health and healthcare delivery.”
-[Download Full Citation](/files/Past%20Winners/PSTM%202021_Prof%20Ivy%20Ng.pdf)
-   
+### **Professor Ranga Rama Krishnan**
+Chairman, National Medical Research Council  
+Chief Executive Officer, Rush University System for Health  
+
+  
+
+“For his outstanding leadership contributions to advancing the health and biomedical sciences research and innovation sector in Singapore, particularly through the strengthening of academic medicine, translational and clinical research, and the promotion of technology transfer and entrepreneurship to enhance health and support economic development in Singapore”
