@@ -12,7 +12,3 @@ Co-founder, Chief Scientific Advisor and Non-Executive Chairman, MiRXES
 
 “For his groundbreaking work in developing a method for accurate, versatile detection of microRNA disease biomarkers, leading to the clinical implementation of blood tests for early detection of diseases such as cancer”
 [Download Full Citation]()
-
-
-
-  
