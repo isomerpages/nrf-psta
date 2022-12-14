@@ -16,5 +16,3 @@ Co-founder, Chief Scientific Advisor and Non-Executive Chairman, MiRXES
 
 
   
-
-“F
