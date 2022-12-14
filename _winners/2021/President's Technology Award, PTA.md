@@ -11,4 +11,4 @@ Associate Professor, NUS Centre for Cancer Research, Yong Loo Lin School of Medi
 Co-founder, Chief Scientific Advisor and Non-Executive Chairman, MiRXES  
 
 “For his groundbreaking work in developing a method for accurate, versatile detection of microRNA disease biomarkers, leading to the clinical implementation of blood tests for early detection of diseases such as cancer”
-[Download Full Citation]()
+[Download Full Citation](/files/Winners/2021/PTA%202021_Prof%20Too%20Heng-Phon.pdf)
