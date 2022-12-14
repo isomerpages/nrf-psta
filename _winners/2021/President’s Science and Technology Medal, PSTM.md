@@ -14,7 +14,7 @@ Board Member, National Medical Research Council (NMRC)
 Member, Human Health and Potential Executive Committee, National Research Foundation (NRF)  
 
 “For her outstanding leadership in the development of academic medicine in Singapore through advancing health and biomedical sciences research and innovation, nurturing clinical research talent, and establishing strategic partnerships among academia, healthcare and industry, to improve health and healthcare delivery.”
-[Download Full Citation](/files/Past%20Winners/PSTM%202021_Prof%20Ivy%20Ng.pdf)
+[Download Full Citation](/files/Winners/2021/PSTM%202021_Prof%20Ivy%20Ng.pdf)
    
 	 
 	 
