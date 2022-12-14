@@ -12,7 +12,7 @@ Scientific Director, Institute of Materials Research and Engineering, Agency for
 Deputy Director, Singapore Hybrid-Integrated Next-Generation μ-Electronics Centre (SHINE)  
 
 “For his outstanding contribution to advanced materials research for soft bioelectronics capable of digitising biological senses and extending human sensing capabilities, and their application to advanced manufacturing and healthcare wearables.”
-[Download Full Citation]
+[Download Full Citation](/files/Winners/2021/PSA%202021_Prof%20Chen%20Xiaodong.pdf)
 
 ![Professor Wang Linfa](/images/Winners/2021/Wang%20Linfa.png)
 ### **Professor Wang Linfa**
@@ -20,4 +20,4 @@ Professor, Programme in Emerging Infectious Diseases, Duke-NUS Medical School
 Executive Director, Programme for Research in Epidemic Preparedness and Responses (PREPARE), Ministry of Health  
 
 “In recognition of his stellar contributions to the field of bat biology and emerging viral diseases, and the successful translation of his discoveries into biomedical innovations that have helped combat several viral outbreaks, including the COVID-19 pandemic” 
-[Download Full Citation]
+[Download Full Citation](/files/Winners/2021/PSA%202021_Prof%20Wang%20Linfa.pdf)
