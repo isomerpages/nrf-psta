@@ -2,7 +2,6 @@ collections:
   winners:
     output: true
     order:
-      - 2020/Winners.md
       - 2020/.keep
       - 2021/.keep
       - 2021/President’s Science and Technology Medal, PSTM.md
