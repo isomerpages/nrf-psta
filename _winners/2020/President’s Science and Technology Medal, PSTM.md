@@ -12,3 +12,4 @@ Chief Executive Officer, Rush University System for Health
   
 
 “For his outstanding leadership contributions to advancing the health and biomedical sciences research and innovation sector in Singapore, particularly through the strengthening of academic medicine, translational and clinical research, and the promotion of technology transfer and entrepreneurship to enhance health and support economic development in Singapore”
+[Download Full Citation](/files/Winners/2020/1_PSTM%20Prof%20Ranga%20Krishnan.pdf)
