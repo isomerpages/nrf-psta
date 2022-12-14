@@ -18,7 +18,7 @@ sections:
       button: nominate now
       url: /nominate-now/
   - infopic:
-      title: ...bats led to more robust Vaccines for COVID-19
+      title: bats led to more robust Vaccines for COVID-19
       subtitle: His expertise in...
       description: President’s Science Award 2021 Winner
       image: /images/Infopic/infopic-guide-1a.png
