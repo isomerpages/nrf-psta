@@ -4,7 +4,7 @@ permalink: /winners/2020/pstm/
 description: ""
 third_nav_title: "2020"
 ---
-
+![Professor Ranga Rama Krishnan](/images/Winners/2020/PSTM-Prof%20Ranga.jpg)
 ### **Professor Ranga Rama Krishnan**
 Chairman, National Medical Research Council  
 Chief Executive Officer, Rush University System for Health  
