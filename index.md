@@ -13,8 +13,7 @@ sections:
       url: /cfn-form/
       subtitle: CELEBRATE outstanding contributions in research and development
   - infobar:
-      title: outstanding contributions
-      subtitle: "Celebrate "
+      title: Celebrate outstanding contributions
       description: " in research and development"
       button: nominate now
       url: /nominate-now/
