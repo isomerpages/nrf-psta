@@ -4,7 +4,6 @@ permalink: /winners/2021/pstm/
 third_nav_title: "2021"
 description: ""
 ---
-
 ![Professor Ivy Ng](/images/Past%20Winners/2021/Ivy%20Ng.png)
 ### **Professor Ivy Ng**
 Group CEO, SingHealth  
