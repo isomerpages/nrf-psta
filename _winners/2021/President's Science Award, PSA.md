@@ -4,7 +4,7 @@ permalink: /winners/2021/psa/
 description: ""
 third_nav_title: "2021"
 ---
-![Professor Chen Xiaodong](/images/Past%20Winners/2021/Chen%20XiaoDong.png)
+![Professor Chen Xiaodong](/images/Winners/2021/Chen%20XiaoDong.png)
 ### **Professor Chen Xiaodong**
 President’s Chair Professor, School of Materials Science and Engineering, Nanyang Technological University (NTU)  
 Director, Innovative Centre for Flexible Devices, NTU  
@@ -17,7 +17,7 @@ Deputy Director, Singapore Hybrid-Integrated Next-Generation μ-Electronics Cent
 	 
 	 
 
-![Professor Wang Linfa](/images/Past%20Winners/2021/Wang%20Linfa.png)
+![Professor Wang Linfa](/images/Winners/2021/Wang%20Linfa.png)
 ### **Professor Wang Linfa**
 Professor, Programme in Emerging Infectious Diseases, Duke-NUS Medical School  
 Executive Director, Programme for Research in Epidemic Preparedness and Responses (PREPARE), Ministry of Health  
