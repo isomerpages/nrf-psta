@@ -2,5 +2,5 @@ collections:
   highlights:
     output: true
     order:
-      - President's Foreword.md
       - Highlights.md
+      - President's Foreword.md
