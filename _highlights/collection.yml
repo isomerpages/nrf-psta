@@ -1,4 +1,5 @@
 collections:
   highlights:
     output: true
-    order: []
+    order:
+      - Highlights.md
