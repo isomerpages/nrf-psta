@@ -4,10 +4,6 @@ links:
     url: /about/
   - title: Winners
     url: /winners/
-  - title: FAQ
-    url: /faq/
-  - title: Contact
-    url: /contact-us/
   - title: Highlights
     url: /Highlights
     sublinks:
@@ -17,3 +13,7 @@ links:
         url: /speeches
       - title: Press Release & Media Kit
         url: /media
+  - title: FAQ
+    url: /faq/
+  - title: Contact
+    url: /contact-us/
