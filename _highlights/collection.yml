@@ -2,8 +2,8 @@ collections:
   highlights:
     output: true
     order:
-      - Speeches/.keep
       - President's Foreword.md
+      - Speeches/.keep
       - Press Release & Media Kit/.keep
       - Press Release & Media Kit/Press Release & Media Kit.md
       - Gallery/.keep
