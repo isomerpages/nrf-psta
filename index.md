@@ -11,7 +11,6 @@ sections:
       background: /images/Hero/psta-web-hero-1920x560px.jpg
       button: NOMINATE NOW
       url: /cfn-form/
-      subtitle: CELEBRATE outstanding contributions in research and development
   - infobar:
       title: Celebrate outstanding contributions
       description: " in research and development"
