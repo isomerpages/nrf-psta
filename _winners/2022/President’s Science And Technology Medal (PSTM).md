@@ -11,4 +11,3 @@ Professor, Yong Loo Lin School of Medicine, National University of Singapore
 
 “For his outstanding contributions in building up the biomedical sciences research ecosystem in Singapore, particularly through strengthening public sector, academic and clinical research partnerships, nurturing scientific talent, and promoting innovation to support Singapore’s economic development”
 [Download Full Citation](/files/Winners/2021/PSTM%202021_Prof%20Ivy%20Ng.pdf)
-
