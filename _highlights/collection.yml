@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Press Release & Media Kit/Press Release & Media Kit.md
       - Press Release & Media Kit/.keep
       - Speeches/Speeches.md
       - Speeches/.keep
