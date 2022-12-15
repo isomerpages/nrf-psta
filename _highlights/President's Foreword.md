@@ -3,6 +3,7 @@ title: President's Foreword
 permalink: /highlights/presidents-foreword/
 description: ""
 ---
+![Halimah Yacob](/images/Presidents%20foreword/psta2022-president's-foreword.jpg)
 The President’s Science and Technology Awards (PSTA) recognise Singapore’s top research talents in the fields of physical, engineering and life sciences. This year, we celebrate individuals who have made exceptional contributions to membrane science and biomedical research.
 
 We also recognise the outstanding efforts of our young scientists with the Young Scientist Awards (YSA). This year’s recipients have made breakthroughs in the areas of biophotonics, sustainable catalysis and radical chemistry.
