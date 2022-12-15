@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - President's Foreword.md
       - Highlights.md
       - President's Foreword/.keep
       - Press Release & Media Kit/.keep
