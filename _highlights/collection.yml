@@ -2,12 +2,12 @@ collections:
   highlights:
     output: true
     order:
-      - Gallery/Gallery.md
-      - Gallery/.keep
-      - Press Release & Media Kit/Press Release & Media Kit.md
-      - Press Release & Media Kit/.keep
-      - Speeches/Speeches.md
-      - Speeches/.keep
-      - President's Foreword/President's Foreword.md
       - President's Foreword/.keep
+      - President's Foreword/President's Foreword.md
+      - Speeches/.keep
+      - Speeches/Speeches.md
+      - Press Release & Media Kit/.keep
+      - Press Release & Media Kit/Press Release & Media Kit.md
+      - Gallery/.keep
+      - Gallery/Gallery.md
       - Highlights.md
