@@ -4,7 +4,7 @@ permalink: /winners/2022/pstm/
 description: ""
 third_nav_title: "2022"
 ---
-
+![Professor Hong Wanjin](/images/Winners/2022/pstm-prof-hong-wanjin.jpg)
 ### **Professor Hong Wanjin**
 Group CEO, SingHealth  
 Clinical Professor, Duke-NUS Medical School  
