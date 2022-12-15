@@ -5,7 +5,7 @@ links:
   - title: Winners
     url: /winners/
   - title: Highlights
-    url: /permalink
+    url: /highlights
     sublinks:
       - title: President's Foreword
         url: /foreword
