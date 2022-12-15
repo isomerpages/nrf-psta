@@ -2,5 +2,5 @@ collections:
   highlights:
     output: true
     order:
-      - President's Foreword/.keep
       - Highlights.md
+      - President's Foreword/.keep
