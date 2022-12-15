@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Speeches/Speeches.md
       - Speeches/.keep
       - President's Foreword/President's Foreword.md
       - President's Foreword/.keep
