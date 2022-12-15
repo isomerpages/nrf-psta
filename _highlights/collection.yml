@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Gallery/.keep
-      - Gallery.md
       - Press Release & Media Kit/Press Release & Media Kit.md
       - Press Release & Media Kit/.keep
       - Speeches/Speeches.md
