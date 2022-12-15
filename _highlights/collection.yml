@@ -4,6 +4,7 @@ collections:
     order:
       - President's Foreword/.keep
       - President's Foreword/President's Foreword.md
+      - Speeches/Example Title.md
       - Speeches/.keep
       - Speeches/Speeches.md
       - Press Release & Media Kit/.keep
