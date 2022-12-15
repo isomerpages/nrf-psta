@@ -4,16 +4,18 @@ links:
     url: /about/
   - title: Winners
     url: /winners/
-  - title: Highlights
-    url: /Highlights
-    sublinks:
-      - title: President's Foreword
-        url: /Foreword
-      - title: Speeches
-        url: /speeches
-      - title: Press Release & Media Kit
-        url: /media
   - title: FAQ
     url: /faq/
   - title: Contact
     url: /contact-us/
+  - title: Highlights
+    url: /permalink
+    sublinks:
+      - title: President's Foreword
+        url: /foreword
+      - title: Speeches
+        url: /speeches
+      - title: Press Release & Media Kit
+        url: /media
+      - title: Gallery
+        url: /gallery
