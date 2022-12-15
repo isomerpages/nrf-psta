@@ -4,10 +4,6 @@ links:
     url: /about/
   - title: Winners
     url: /winners/
-  - title: FAQ
-    url: /faq/
-  - title: Contact
-    url: /contact-us/
   - title: Highlights
     url: /permalink
     sublinks:
@@ -19,3 +15,7 @@ links:
         url: /media
       - title: Gallery
         url: /gallery
+  - title: FAQ
+    url: /faq/
+  - title: Contact
+    url: /contact-us/
