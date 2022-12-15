@@ -2,12 +2,12 @@ collections:
   highlights:
     output: true
     order:
-      - President's Foreword.md
       - Highlights.md
+      - President's Foreword.md
       - President's Foreword/.keep
       - Press Release & Media Kit/.keep
       - Press Release & Media Kit/Press Release & Media Kit.md
+      - Gallery/.keep
       - Gallery/2020 (sub folder required).md
       - Gallery/2022 (sub folder required).md
-      - Gallery/.keep
       - Gallery/2021 (sub folder required).md
