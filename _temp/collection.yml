@@ -1,4 +1,5 @@
 collections:
   temp:
     output: true
-    order: []
+    order:
+      - President's Foreword.md
