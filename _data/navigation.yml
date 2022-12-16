@@ -7,8 +7,10 @@ links:
   - title: Gallery
     url: /gallery
     sublinks:
-      - title: Gallery
-        url: /gallery
+      - title: "2022"
+        url: /2022
+      - title: "2021"
+        url: /2021
   - title: Resources
     resource_room: true
   - title: FAQ
