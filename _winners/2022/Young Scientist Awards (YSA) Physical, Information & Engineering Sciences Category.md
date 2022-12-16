@@ -11,3 +11,4 @@ third_nav_title: "2022"
 President’s Assistant Professor, Department of Chemistry, Faculty of Science, National University of Singapore
 
 “For his research in sustainable base metal catalysis and radical-based chemical technologies that revolutionise chemical synthesis”
+[Download Full Citation](/files/Winners/2022/2022%20YSA%20Dr%20Koh%20Ming%20Joo.pdf)
