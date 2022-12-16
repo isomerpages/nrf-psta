@@ -10,3 +10,5 @@ links:
     url: /faq/
   - title: Contact
     url: /contact-us/
+  - title: Gallery
+    collection: gallery
