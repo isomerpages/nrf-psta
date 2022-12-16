@@ -4,11 +4,9 @@ links:
     url: /about/
   - title: Winners
     url: /winners/
-  - title: Highlights
-    url: /highlights
+  - title: Gallery
+    url: /gallery
     sublinks:
-      - title: President's Foreword
-        url: /foreword
       - title: Gallery
         url: /gallery
   - title: Resources
