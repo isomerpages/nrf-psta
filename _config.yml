@@ -3,7 +3,7 @@ url: https://www.psta.gov.sg
 favicon: /images/Logos/PSTA Favicon.svg
 colors:
   primary-color: "#000080"
-  secondary-color: "#820d76"
+  secondary-color: "#005cc4"
   media-colors:
     - title: media-color-one
       color: "#5c05b2"
