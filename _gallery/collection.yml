@@ -2,4 +2,5 @@ collections:
   gallery:
     output: true
     order:
+      - 2022/Photos.md
       - 2022/.keep
