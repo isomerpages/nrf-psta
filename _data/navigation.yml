@@ -4,11 +4,11 @@ links:
     url: /about/
   - title: Winners
     url: /winners/
+  - title: Gallery
+    collection: gallery
   - title: Resources
     resource_room: true
   - title: FAQ
     url: /faq/
   - title: Contact
     url: /contact-us/
-  - title: Gallery
-    collection: gallery
