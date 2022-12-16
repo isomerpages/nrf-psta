@@ -5,3 +5,8 @@ permalink: /winners/2022/ysa-piesc/
 description: ""
 third_nav_title: "2022"
 ---
+Dr Koh Ming Joo
+
+President’s Assistant Professor, Department of Chemistry, Faculty of Science, National University of Singapore
+
+“For his research in sustainable base metal catalysis and radical-based chemical technologies that revolutionise chemical synthesis”
