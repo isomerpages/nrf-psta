@@ -4,6 +4,6 @@ collections:
     order:
       - President's Foreword.md
       - Gallery/.keep
-      - Gallery/2020 (sub folder required).md
       - Gallery/2022 (sub folder required).md
       - Gallery/2021 (sub folder required).md
+      - Gallery/2020 (sub folder required).md
