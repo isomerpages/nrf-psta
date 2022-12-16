@@ -13,9 +13,9 @@ links:
         url: /media
       - title: Gallery
         url: /gallery
+  - title: Speeches
+    resource_room: true
   - title: FAQ
     url: /faq/
   - title: Contact
     url: /contact-us/
-  - title: Speeches
-    resource_room: true
