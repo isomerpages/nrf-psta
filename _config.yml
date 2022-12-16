@@ -2,19 +2,19 @@ title: President's Science and Technology Awards (PSTA)
 url: https://www.psta.gov.sg
 favicon: /images/Logos/PSTA Favicon.svg
 colors:
-  primary-color: "#12426d"
+  primary-color: "#5c05b2"
   secondary-color: "#000080"
   media-colors:
     - title: media-color-one
-      color: "#12426d"
+      color: "#5c05b2"
     - title: media-color-two
-      color: "#000080"
+      color: "#820d76"
     - title: media-color-three
-      color: "#005cc4"
+      color: "#00615e"
     - title: media-color-four
-      color: "#00838f"
+      color: "#005cc4"
     - title: media-color-five
-      color: "#00838f"
+      color: "#005cc4"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
