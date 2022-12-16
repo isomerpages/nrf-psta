@@ -4,7 +4,7 @@ permalink: /winners/2022/ysa-bbsc/
 description: ""
 third_nav_title: "2022"
 ---
-
+![Dr Bi Renzhe](/images/Winners/2022/ysa-dr-bi-renzhe.jpg)
 ### **Dr Bi Renzhe**
 Senior Scientist, Institute of Bioengineering and Bioimaging, Agency for Science, Technology and Research
 
