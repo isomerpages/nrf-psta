@@ -4,3 +4,4 @@ permalink: /gallery/2021/photos/
 description: ""
 third_nav_title: "2021"
 ---
+# Template required
