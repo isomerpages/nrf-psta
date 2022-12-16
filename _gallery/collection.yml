@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - 2021/.keep
       - 2022/.keep
       - 2022/Photos 2022.md
       - 2022/Videos 2022.md
