@@ -4,6 +4,7 @@ permalink: /winners/2022/pta/
 description: ""
 third_nav_title: "2022"
 ---
+
 ### **Professor Wang Rong**
 
 President’s Chair in Civil and Environment Engineering, School of Civil and Environmental Engineering, Nanyang Technological University, Singapore (NTU Singapore)
