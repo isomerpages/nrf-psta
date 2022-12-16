@@ -1,0 +1,4 @@
+collections:
+  gallery:
+    output: true
+    order: []
