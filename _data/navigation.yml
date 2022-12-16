@@ -17,3 +17,5 @@ links:
     url: /faq/
   - title: Contact
     url: /contact-us/
+  - title: Speeches
+    resource_room: true
