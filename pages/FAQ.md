@@ -32,4 +32,5 @@ Yes, the same nominee can be nominated concurrently for all three awards, where 
 Nominee is to source for his/her own referee reports, and submit the referee reports together with his/her nomination form via the PSTA portal. The referees need not be in the same industry or research area as the nominees, but a referee has to understand the work that the nominee presented.
 
 #### 10. How do I know if my nomination has been shortlisted or awarded?
-PSTA Secretariat will send email notifications to the shortlisted PSA and PTA nominees to each do a presentation on their nomination at the judging session that will be held in August/September. For PSTM, the nominator is required to do a 10-minute presentation should his/her nomination be shortlisted. The award winners will be announced at the President's Science and Technology Awards Ceremony in December.
+PSTA Secretariat will send email notifications to the shortlisted PSA and PTA nominees to each do a presentation on their nomination at the judging session that will be held in August/September. For PSTM, the nominator is required to do a 10-minute presentation should his/her nomination be shortlisted. The award winners will be announced at the President's Science and Technology Awards Ceremony in December.  
+####  ---- **DATES  TBC** -----
