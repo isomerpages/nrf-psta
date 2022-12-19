@@ -2,4 +2,4 @@ collections:
   faq:
     output: true
     order:
-      - faq.md
+      - 1  How do I submit a nomination for an award?.md
