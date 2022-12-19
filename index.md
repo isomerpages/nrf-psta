@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Recognising Brilliant Minds
-      background: /images/Hero/psta-web-hero-1920x560px.jpg
+      background: /images/Hero/psta-web-hero-1920x1006px.jpg
       button: NOMINATE NOW
       url: /cfn-form/
   - infobar:
