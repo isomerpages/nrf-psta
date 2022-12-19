@@ -19,8 +19,6 @@ third_nav_title: "2021"
 
 
 
-
-
 Ref
 
 [https://youtu.be/-0859hfYcvA](https://youtu.be/-0859hfYcvA)
