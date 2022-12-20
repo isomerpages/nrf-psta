@@ -11,13 +11,12 @@ third_nav_title: "2020"
 
 | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) |
 | -------- | -------- | -------- |
-| 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     | 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     | 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     |
+
 
 |   |   |   |
 | -------- | -------- | -------- |
 | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>   | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>    |
 
 
-| Title of Video 1 | Title of Video 2 | Title of Video 3 |
+| 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) |
 | -------- | -------- | -------- |
-| 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     | 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     | 2022 President’s Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).     |
