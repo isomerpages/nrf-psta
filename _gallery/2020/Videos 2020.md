@@ -6,7 +6,7 @@ third_nav_title: "2020"
 ---
 |   |   |   |
 | -------- | -------- | -------- |
-| ![](/images/Video%20Thumbnails/thumbnail-v1.png) [image hyperlink](https://youtu.be/-0859hfYcvA)   | ![](/images/Video%20Thumbnails/thumbnail-v1.png)  [youtube](https://youtu.be/-0859hfYcvA)     | ![](/images/Video%20Thumbnails/thumbnail-v1.png)  [youtube](https://youtu.be/-0859hfYcvA)    |
+| <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>   | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>    |
 
 
 | Title of Video 1 | Title of Video 2 | Title of Video 3 |
@@ -15,7 +15,7 @@ third_nav_title: "2020"
 
 |   |   |   |
 | -------- | -------- | -------- |
-| ![](/images/Video%20Thumbnails/thumbnail-v1.png) [youtube](https://youtu.be/-0859hfYcvA)    | ![](/images/Video%20Thumbnails/thumbnail-v1.png)  [youtube](https://youtu.be/-0859hfYcvA)     | ![](/images/Video%20Thumbnails/thumbnail-v1.png)  [youtube](https://youtu.be/-0859hfYcvA)    |
+| <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>   | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>    |
 
 
 | Title of Video 1 | Title of Video 2 | Title of Video 3 |
