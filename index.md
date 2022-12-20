@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Recognising Brilliant Minds
+      title: Honouring the Leading Lights in Research Excellence
       background: /images/Hero/psta-web-hero-1920x1006px-b.jpg
       button: NOMINATE NOW
       url: /cfn-form/
