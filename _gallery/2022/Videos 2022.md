@@ -13,7 +13,7 @@ third_nav_title: "2022"
 
 
 
-| <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p> | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  |
+| A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. |
 | -------- | -------- | -------- |
 
 
@@ -23,7 +23,7 @@ third_nav_title: "2022"
 
 
 
-| <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p> | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  |
+| A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.  |
 | -------- | -------- | -------- |
 ```
 
