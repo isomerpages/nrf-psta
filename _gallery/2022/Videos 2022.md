@@ -10,7 +10,7 @@ third_nav_title: "2022"
 
 
 
-| A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. |
+| 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning). | 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning). | 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning). |
 | -------- | -------- | -------- |
 
 
@@ -20,7 +20,7 @@ third_nav_title: "2022"
 
 
 
-| A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology. | A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.  |
+| 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning). | 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning). | 2022 President's Science and Technology Awards (PSTA) Winners. (Text or title is only for layout positioning).  |
 | -------- | -------- | -------- |
 ```
 
