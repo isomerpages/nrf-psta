@@ -10,7 +10,5 @@ third_nav_title: "2022"
 
 
 
-| <p>this is the textthis is the textthis is the textthis is the textthis is the text</p> | <p>this is the text</p>  | <p>this is the text</p>  |
+| <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p> | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  | <p>A\*STAR is Singapore’s lead public sector agency that spearheads economic-oriented research to advance scientific discovery and develop innovative technology.</p>  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
