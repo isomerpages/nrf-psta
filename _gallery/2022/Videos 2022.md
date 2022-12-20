@@ -4,6 +4,6 @@ permalink: /gallery/2022/videos/
 description: ""
 third_nav_title: "2022"
 ---
-| Column 1 | Column 2 | Column 3 |
+| <p style="display:none">Column 1</p> | <p style="display:none">Column 2</p> | <p style="display:none">Column 3</p> |
 | -------- | -------- | -------- |
-| ![video](/images/Video%20Thumbnails/thumbnail-v1.png)     | ![video](/images/Video%20Thumbnails/thumbnail-v1.png)     | ![video](/images/Video%20Thumbnails/thumbnail-v1.png)     |
+|<a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     |<a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     | <a href="https://youtu.be/-0859hfYcvA">![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     |
