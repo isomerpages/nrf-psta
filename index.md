@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Honouring the Leading Lights in Research Excellence
-      background: /images/Hero Background/psta-web-hero-1920x1006px-b.jpg
       button: NOMINATE NOW
       url: /cfn-form/
   - infobar:
