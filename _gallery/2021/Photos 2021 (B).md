@@ -4,9 +4,10 @@ permalink: /gallery/2021/photos-b/
 description: ""
 third_nav_title: "2021"
 ---
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+|     |     |
+| -------- | -------- |
+| ![PSTA 2021 Gallery Photo 1](/images/Photos%202021/2021-president-1.jpg)     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
