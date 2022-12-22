@@ -10,7 +10,7 @@ sections:
       title: Honouring the Leading Lights in Research Excellence
       button: NOMINATE NOW
       url: /cfn-form/
-      background: /images/Hero Background/psta-web-hero-1920x1006px-b.jpg
+      background: /images/Hero Background/psta-web-hero-1920x1006px-c.jpg
   - infobar:
       title: Celebrate outstanding contributions
       description: " in research and development"
