@@ -12,8 +12,10 @@ sections:
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-1920x1006px-e.jpg
   - infobar:
-      title: Celebrate outstanding contributions
-      description: " in research and development"
+      title: The Scitech Changemakers  Impacting Lives
+      description: The President's Science and Technology Awards (PSTA) are the
+        highest honours bestowed on  outstanding research scientists and
+        engineers in Singapore... ...
       button: nominate now
       url: /nominate-now/
   - infopic:
