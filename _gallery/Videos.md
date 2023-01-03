@@ -23,3 +23,11 @@ description: ""
 	
 <a href="https://youtu.be/KqyX_5_fL_I" target="_blank"><img src = "/images/Video%20Thumbnails/thumbnail-v1.png"></a>
 <b>2021 President's Science and Technology Awards Event Ceremony Highlights
+	
+	
+	src\="https://www.youtube.com/embed/tgbNymZ7vqY"\>
+	
+<iframe width\="420" height\="315"
+	src\="https://youtu.be/KqyX_5_fL_I"><img src = "/images/Video%20Thumbnails/thumbnail-v1.png"></a>
+	</iframe\>
+<b>2021 President's Science and Technology Awards Event Ceremony Highlights
