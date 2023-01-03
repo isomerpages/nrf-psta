@@ -13,19 +13,19 @@ third_nav_title: "2021"
 <table> 
 	<tr>
 		<td><b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout) 
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout) 
 		</b>
 	</td>
 	
 <td>
 	<b>
-		2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+		2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 		</b>
 </td>
 
 <td>
 		<b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 	</b>
 </td>
 
@@ -39,19 +39,19 @@ third_nav_title: "2021"
 <table> 
 	<tr>
 		<td><b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout) 
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout) 
 		</b>
 	</td>
 	
 <td>
 	<b>
-		2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+		2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 		</b>
 </td>
 
 <td>
 		<b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 	</b>
 </td>
 		
@@ -65,18 +65,18 @@ third_nav_title: "2021"
 <table> 
 	<tr>
 		<td><b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout) 
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout) 
 		</b>
 	</td>
 	
 <td>
 	<b>
-		2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+		2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 		</b>
 </td>
 
 <td>
 		<b>
-			2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+			2021 President's Science and Technology Awards (PSTA) Winners (for layout)
 	</b>
 </td>
