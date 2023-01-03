@@ -30,7 +30,7 @@ sections:
       description: President’s Science Award 2021 Winner Performance Computing
         Researcher, School of Computing, NUS
       alt: Image alt text
-      image: /images/Infopic/infopic-guide-2a.png
+      image: /images/Infopic/infopic-guide-1b.png
   - infobar:
       title: Who will be the groundbreaker in 2023?
       button: Nominations now open
