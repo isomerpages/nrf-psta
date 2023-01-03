@@ -31,14 +31,24 @@ third_nav_title: "2022"
 </table>
 
 <table> 
-	 <tr>
-		 <td>2022 President's Science and Technology Awards (PSTA) Winners (for layout) 
+	<tr>
+		<td><b>
+			2022 President's Science and Technology Awards (PSTA) Winners (for layout) 
+		</b>
+	</td>
+	
+<td>
+	<b>
+		2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+		</b>
 </td>
-					<td>2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+
+<td>
+		<b>
+			2022 President's Science and Technology Awards (PSTA) Winners (for layout)
+	</b>
 </td>
-		 		 <td>2022 President's Science and Technology Awards (PSTA) Winners (for layout)
-</td>
- </table>
+</table>
  
  <table> 
 	<tr>
