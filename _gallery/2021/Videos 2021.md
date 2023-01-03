@@ -13,13 +13,13 @@ third_nav_title: "2021"
 <table> 
 	<tr>
 		<td><b>
-			2021 President's Science and Technology Awards (PSTA) Winners (for layout) 
+			2021 President's Science and Technology Awards (PSTA) Winners 
 		</b>
 	</td>
 	
 <td>
 	<b>
-		2021 President's Science and Technology Awards (PSTA) Winners (for layout)
+		President’s Science and Technology Medal 2021: Professor Sir Peter Gluckman
 		</b>
 </td>
 
