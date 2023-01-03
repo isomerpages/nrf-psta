@@ -4,17 +4,6 @@ permalink: /gallery/2021/videos/
 description: ""
 third_nav_title: "2021"
 ---
-<style>  
-a:link, a:visited {  background-color: #f44336;  
-  color: white;  
-  padding: 15px 25px;  
-  text-align: center;  
-  text-decoration: none;  
-  display: inline-block;}  
-  
-a:hover, a:active {  background-color: red;}  
-</style>
-
 <table> 
 	<tr>
 		<td><a href="https://youtu.be/-0859hfYcvA" target="_blank"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"> <b>2021 President's Science and Technology Awards (PSTA) Winners</a></td>
