@@ -10,7 +10,7 @@ description: ""
 </iframe>
 <b>President’s Science and Technology Medal 2021: Professor Sir Peter Gluckman
 	
-<a href="https://youtu.be/7XdeglS7_eU" target="_blank"><img src = "/images/Video%20Thumbnails/thumbnail-v1.png"></a>
+<iframe width="845" height="475" src="https://www.youtube.com/embed/7XdeglS7_eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <b>President’s Science and Technology Medal 2021: Professor Ivy Ng
 			
 <a href="https://youtu.be/V3neDn0oxZA" target="_blank"><img src = "/images/Video%20Thumbnails/thumbnail-v1.png"></a>
