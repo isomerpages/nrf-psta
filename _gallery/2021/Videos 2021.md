@@ -17,3 +17,10 @@ third_nav_title: "2021"
 		<td><a href="https://youtu.be/r4aTZTI9ug4"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png">President's Science Award 2021: Professor Wang Linfa</a></td>
 		<td><a href="https://youtu.be/5EJTtA6YKog"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png">President's Technology Award 2021: Associate Professor Too Heng-Phon</a></td>
 </tr>
+	
+<table> 
+	<tr>
+		<td><a href="https://youtu.be/KqyX_5_fL_I"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"> 2021 President's Science and Technology Awards Event Ceremony Highlights</a></td>
+		<td><a href="https://youtu.be/r4aTZTI9ug4"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png">blank</a></td>
+		<td><a href="https://youtu.be/5EJTtA6YKog"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png">blank</a></td>
+</tr>
