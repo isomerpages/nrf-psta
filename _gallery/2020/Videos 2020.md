@@ -12,14 +12,14 @@ third_nav_title: "2020"
 </tr>
 </table>
 
-| 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) |
-| -------- | -------- | -------- |
+<table> 
+	 <tr>
+		 <td>2020 President's Science and Technology Awards (PSTA) Winners (for layout)
+</td>
+		 		 <td>2020 President's Science and Technology Awards (PSTA) Winners (for layout)
+</td>
+		 		 <td>2020 President's Science and Technology Awards (PSTA) Winners (for layout)
+</td>
+ </table> 
 
-
-|   |   |   |
-| -------- | -------- | -------- |
-| <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>   | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>     | <a href="https://youtu.be/-0859hfYcvA"> ![video](/images/Video%20Thumbnails/thumbnail-v1.png)</a>    |
-
-
-| 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) | 2020 President's Science and Technology Awards (PSTA) Winners (for layout) |
-| -------- | -------- | -------- |
+	 
