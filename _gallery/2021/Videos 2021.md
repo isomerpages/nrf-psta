@@ -4,9 +4,9 @@ permalink: /gallery/2021/videos/
 description: ""
 third_nav_title: "2021"
 ---
-<table> 
-	<tr>
-		<td><a href="https://youtu.be/-0859hfYcvA" target="_blank"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"> <b>2021 President's Science and Technology Awards (PSTA) Winners</a></td>
+<a href="https://youtu.be/-0859hfYcvA" target="_blank"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"> <b>2021 President's Science and Technology Awards (PSTA) Winners</a>
+	
+	</td>
 		<td><a href="https://youtu.be/DJlFvGe_AcE" target="_blank"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"><b>President’s Science and Technology Medal 2021: Professor Sir Peter Gluckman</a></td>
 		<td><a href="https://youtu.be/7XdeglS7_eU" target="_blank"> <img src = "/images/Video%20Thumbnails/thumbnail-v1.png"><b>President’s Science and Technology Medal 2021: Professor Ivy Ng</a></td>
 </tr>
