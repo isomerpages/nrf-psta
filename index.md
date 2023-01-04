@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Honouring the Leading Lights in Research Excellence
+      title: Celebrating Singapore's *top researchers*
       button: NOMINATE NOW
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-1920x1006px-e.jpg
   - infobar:
-      title: The Scitech Changemakers  Impacting Lives
+      title: The science & technology changemakers
       description: The President's Science and Technology Awards (PSTA) are the
         highest honours bestowed on  outstanding research scientists and
         engineers in Singapore... ...
@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
       image: /images/Infopic/infopic-guide-1b.png
   - infobar:
-      title: Who will be the groundbreaker in 2023?
-      button: Nominations now open
+      title: Who will it be in 2023?
+      button: Nominations for PSTA now open
       url: /sgforms/
 ---
