@@ -4,7 +4,7 @@ permalink: /winners/2022/pstm/
 description: ""
 third_nav_title: "2022"
 ---
-<img src="images/Winners/2022/pstm-prof-hong-wanjin.jpg" alt="Prof Hong Wanjin" style="width:400px;"/>
+<img src="images/Winners/2022/pstm-prof-hong-wanjin.jpg" alt="Prof Hong Wanjin" style="width:400px" align="left"/>
 
 ![Professor Hong Wanjin](/images/Winners/2022/pstm-prof-hong-wanjin.jpg)
 ### **Professor Hong Wanjin**
