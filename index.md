@@ -27,8 +27,8 @@ sections:
   - infopic:
       title: “I told myself failure was just a stepping stone to realising my dream.”
       subtitle: Meet Our Winners
-      description: President’s Science Award 2021 Winner Performance Computing
-        Researcher, School of Computing, NUS
+      description: President’s Science Award 2021 Winner <br> Performance Computing
+        Researcher, <br> School of Computing, <br> NUS
       alt: Image alt text
       image: /images/Infopic/infopic-guide-1b.png
   - infobar:
