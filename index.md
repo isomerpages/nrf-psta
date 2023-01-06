@@ -41,9 +41,10 @@ sections:
       title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
       subtitle: 2022 YSA WINNER
       description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
-      button: Button Text
+      button: READ MORE
       image: /images/Infopic/infopic-dr-bi-renzhe.png
       alt: 2022 YSA WINNER 1
+      url: /winners/2022/young-scientist-awards-ysa-biological-biomedical-sciences-category
   - infobar:
       title: Who will it be in 2023?
       button: Nominations for PSTA now open
