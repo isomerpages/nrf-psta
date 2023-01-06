@@ -26,7 +26,7 @@ sections:
       image: /images/Infopic/infopic-prof-hong-wanjin.png
       alt: 2022 PSTM WINNER
       button: Read more
-      url: /winners/2022/president-s-science-and-technology-medal-pstm/
+      url: /winners/2022/pstm/
   - infopic:
       title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
       subtitle: 2022 PTA WINNER
