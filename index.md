@@ -45,6 +45,15 @@ sections:
       image: /images/Infopic/infopic-dr-bi-renzhe.png
       alt: 2022 YSA WINNER 1
       url: /winners/2022/young-scientist-awards-ysa-biological-biomedical-sciences-category
+  - infopic:
+      title: Infopic Title
+      subtitle: 2022 YSA WINNER
+      description: President’s Assistant Professor, Department of Chemistry, Faculty
+        of Science, NUS
+      button: READ MORE
+      url: /winners/2022/young-scientist-awards-ysa-physical-information-engineering-sciences-category
+      image: /images/Infopic/infopic-dr-koh-ming-joo.png
+      alt: Image alt text
   - infobar:
       title: Who will it be in 2023?
       button: Nominations for PSTA now open
