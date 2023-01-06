@@ -26,7 +26,7 @@ sections:
       image: /images/Infopic/infopic-guide-1a.png
       alt: PSTM
       button: Read more
-      url: /winner
+      url: images/Winners/2022/President’s Science And Technology Medal (PSTM)
   - infopic:
       title: “I told myself failure was just a stepping stone to realising my dream.”
       subtitle: Meet Our Winners
