@@ -22,7 +22,7 @@ sections:
       title: His expertise in bats bats led to more robust Vaccines for COVID-19
       subtitle: 2022 PSTM WINNER
       description: Executive Director, Institute of Molecular and Cell Biology, A*STAR
-        Professor, Yong Loo Lin School of Medicine, NUS
+        <br> Professor, Yong Loo Lin School of Medicine, NUS
       image: /images/Infopic/infopic-prof-hong-wanjin.png
       alt: 2022 PSTM WINNER
       button: Read more
