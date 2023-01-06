@@ -37,6 +37,13 @@ sections:
       image: /images/Infopic/infopic-prof-wang-rong.png
       url: home/Winners/2022/President’s%Technology%Award (PTA)
       button: Read more
+  - infopic:
+      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
+      subtitle: 2022 YSA WINNER
+      description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
+      button: Button Text
+      image: /images/Infopic/infopic-dr-bi-renzhe.png
+      alt: 2022 YSA WINNER 1
   - infobar:
       title: Who will it be in 2023?
       button: Nominations for PSTA now open
