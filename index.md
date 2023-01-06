@@ -26,7 +26,7 @@ sections:
       image: /images/Infopic/infopic-prof-hong-wanjin.png
       alt: 2022 PSTM WINNER
       button: Read more
-      url: /winners/2022/president-s-science-and-technology-medal-pst/
+      url: /winners/2022/president-s-science-and-technology-medal-pstm/
   - infopic:
       title: “I told myself failure was just a stepping stone to realising my dream.”
       subtitle: 2022 PTA WINNER
