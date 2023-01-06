@@ -35,7 +35,7 @@ sections:
         Technology Pte. Ltd. and ... ...
       alt: 2022 PTA WINNER
       image: /images/Infopic/infopic-prof-wang-rong.png
-      url: mages/Winners/2022/President’s%Technology%Award (PTA)
+      url: home/Winners/2022/President’s%Technology%Award (PTA)
       button: Read more
   - infobar:
       title: Who will it be in 2023?
