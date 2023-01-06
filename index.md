@@ -10,7 +10,7 @@ sections:
       title: Celebrating Singapore's *top researchers*
       button: NOMINATE NOW
       url: /cfn-form/
-      background: /images/Hero Background/psta-web-hero-1920x1006px-e.jpg
+      background: /images/Hero Background/psta-web-hero-constellation-1920x1006px.jpg
   - infobar:
       title: The science & technology changemakers
       description: The President's Science and Technology Awards (PSTA) are the
