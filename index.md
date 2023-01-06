@@ -21,18 +21,18 @@ sections:
   - infopic:
       title: His expertise in bats bats led to more robust Vaccines for COVID-19
       subtitle: 2022 PSTM WINNER
-      description: Executive Director, Institute of Molecular and Cell Biology, A*STAR
-        <br> Professor, Yong Loo Lin School of Medicine, NUS
+      description: Executive Director, Institute of Molecular and Cell Biology,
+        A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
       image: /images/Infopic/infopic-prof-hong-wanjin.png
       alt: 2022 PSTM WINNER
       button: Read more
       url: /winners/2022/president-s-science-and-technology-medal-pstm/
   - infopic:
-      title: “I told myself failure was just a stepping stone to realising my dream.”
+      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
       subtitle: 2022 PTA WINNER
       description: President’s Chair in Civil and Environment Engineering, NTU
-        Singapore Director (SMTC), NEWRI, NTU Singapore Co-Founder, H2MO
-        Technology Pte. Ltd. and ... ...
+        Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
+        Technology Pte... ... ...
       alt: 2022 PTA WINNER
       image: /images/Infopic/infopic-prof-wang-rong.png
       url: /winners/2022/president-technology-award-pta/
@@ -46,7 +46,7 @@ sections:
       alt: 2022 YSA WINNER 1
       url: /winners/2022/young-scientist-awards-ysa-biological-biomedical-sciences-category
   - infopic:
-      title: Infopic Title
+      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
       subtitle: 2022 YSA WINNER
       description: President’s Assistant Professor, Department of Chemistry, Faculty
         of Science, NUS
