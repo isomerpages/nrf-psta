@@ -20,20 +20,22 @@ sections:
       url: /nominate-now/
   - infopic:
       title: His expertise in bats bats led to more robust Vaccines for COVID-19
-      subtitle: President’s Science & Techn...
+      subtitle: 2022 PSTM WINNER
       description: Executive Director, Institute of Molecular and Cell Biology, A*STAR
         Professor, Yong Loo Lin School of Medicine, NUS
-      image: /images/Infopic/infopic-guide-1a.png
-      alt: PSTM
+      image: /images/Infopic/infopic-prof-hong-wanjin.png
+      alt: 2022 PSTM WINNER
       button: Read more
       url: images/Winners/2022/President’s Science And Technology Medal (PSTM)
   - infopic:
       title: “I told myself failure was just a stepping stone to realising my dream.”
-      subtitle: Meet Our Winners
-      description: President’s Science Award 2021 Winner <br> Performance Computing
-        Researcher, <br> School of Computing, <br> NUS
-      alt: Image alt text
-      image: /images/Infopic/infopic-guide-1b.png
+      subtitle: 2022 PTA WINNER
+      description: President’s Chair in Civil and Environment Engineering, NTU
+        Singapore Director (SMTC), NEWRI, NTU Singapore Co-Founder, H2MO
+        Technology Pte. Ltd. and ... ...
+      alt: 2022 PTA WINNER
+      image: /images/Infopic/infopic-prof-wang-rong.png
+      url: Read more
   - infobar:
       title: Who will it be in 2023?
       button: Nominations for PSTA now open
