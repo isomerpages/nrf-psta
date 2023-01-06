@@ -20,10 +20,13 @@ sections:
       url: /nominate-now/
   - infopic:
       title: His expertise in bats bats led to more robust Vaccines for COVID-19
-      subtitle: Meet Our Winners
-      description: President’s Science Award 2021 Winner
+      subtitle: President’s Science & Techn...
+      description: Executive Director, Institute of Molecular and Cell Biology, A*STAR
+        Professor, Yong Loo Lin School of Medicine, NUS
       image: /images/Infopic/infopic-guide-1a.png
-      alt: bats
+      alt: PSTM
+      button: Read more
+      url: /winner
   - infopic:
       title: “I told myself failure was just a stepping stone to realising my dream.”
       subtitle: Meet Our Winners
