@@ -24,7 +24,7 @@ sections:
       description: Executive Director, Institute of Molecular and Cell Biology,
         A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
       image: /images/Infopic/infopic-prof-hong-wanjin.png
-      alt: 2022 PSTM WINNER
+      alt: PROFESSOR HONG WANJIN
       button: Read more
       url: /winners/2022/pstm/
   - infopic:
@@ -33,7 +33,7 @@ sections:
       description: President’s Chair in Civil and Environment Engineering, NTU
         Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
         Technology Pte... ... ...
-      alt: 2022 PTA WINNER
+      alt: PROFESSOR WANG RONG
       image: /images/Infopic/infopic-prof-wang-rong.png
       url: /winners/2022/pta/
       button: Read more
@@ -43,7 +43,7 @@ sections:
       description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
       button: READ MORE
       image: /images/Infopic/infopic-dr-bi-renzhe.png
-      alt: 2022 YSA WINNER 1
+      alt: DR BI RENZHE
       url: /winners/2022/ysa-bbsc/
   - infopic:
       title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
@@ -53,7 +53,7 @@ sections:
       button: READ MORE
       url: /winners/2022/ysa-piesc/
       image: /images/Infopic/infopic-dr-koh-ming-joo.png
-      alt: Image alt text
+      alt: DR KOH MING JOO
   - infobar:
       title: Who will it be in 2023?
       button: Nominations for PSTA now open
