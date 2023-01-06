@@ -35,7 +35,7 @@ sections:
         Technology Pte... ... ...
       alt: 2022 PTA WINNER
       image: /images/Infopic/infopic-prof-wang-rong.png
-      url: /winners/2022/president-technology-award-pta/
+      url: /winners/2022/pta/
       button: Read more
   - infopic:
       title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
@@ -44,14 +44,14 @@ sections:
       button: READ MORE
       image: /images/Infopic/infopic-dr-bi-renzhe.png
       alt: 2022 YSA WINNER 1
-      url: /winners/2022/young-scientist-awards-ysa-biological-biomedical-sciences-category
+      url: /winners/2022/ysa-bbsc/
   - infopic:
       title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
       subtitle: 2022 YSA WINNER
       description: President’s Assistant Professor, Department of Chemistry, Faculty
         of Science, NUS
       button: READ MORE
-      url: /winners/2022/young-scientist-awards-ysa-physical-information-engineering-sciences-category
+      url: /winners/2022/ysa-piesc/
       image: /images/Infopic/infopic-dr-koh-ming-joo.png
       alt: Image alt text
   - infobar:
