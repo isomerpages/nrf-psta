@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Celebrating Singapore's *top researchers*
+      title: Celebrating Singapore’s Research Luminaries
       button: NOMINATE NOW
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px.jpg
