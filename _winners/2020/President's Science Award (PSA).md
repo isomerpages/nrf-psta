@@ -8,7 +8,7 @@ third_nav_title: "2020"
 
 ### **Professor Liu Jianjun**
 
-<b>Deputy Executive Director,</b> Genome Institute of Singapore, Agency for Science, Technology and Research<br> <b>Professor,</b> Yong Loo Lin School of Medicine, National University of Singapore 
+<b>Deputy Executive Director,</b> Genome Institute of Singapore, Agency for Science, Technology and Research<br> <b>Professor,</b> Yong Loo Lin School of Medicine, National University of Singapore (NUS) 
 
 <b>“For his outstanding contributions to genetic studies of Asian populations, which has advanced biomedical research and precision medicine, and benefited clinical practice in the prevention of diseases and adverse drug responses”</b>
 <br><br><br>
@@ -16,8 +16,8 @@ third_nav_title: "2020"
 ### **Professor Nikolay I. Zheludev**
 *(centre)* <br>
 <b>Director,</b> Centre for Disruptive Photonic Technologies, Nanyang Technological University Singapore (NTU)<br> 
-<b>Co-Director,</b> The Photonics Institute, NTU<br> 
-<b>President’s Chair in Physics,</b> School of Physical & Mathematical Sciences and School of Electrical & Electronic Engineering, NTU
+<b>Co-Director,</b> The Photonics Institute, Nanyang Technological University Singapore (NTU)<br> 
+<b>President’s Chair in Physics,</b> School of Physical & Mathematical Sciences and School of Electrical & Electronic Engineering, Nanyang Technological University Singapore (NTU)
 ### **Associate Professor Chong Yidong**
 *(right)* <br>
 <b>Division of Physics & Applied Physics,</b> School of Physical & Mathematical Sciences, NTU<br>
