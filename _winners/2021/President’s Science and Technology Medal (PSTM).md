@@ -13,7 +13,7 @@ description: ""
 <b>Board Member,</b> National Medical Research Council (NMRC)<br> 
 <b>Member,</b> Human Health and Potential Executive Committee, National Research Foundation (NRF)  
 
-“For her outstanding leadership in the development of academic medicine in Singapore through advancing health and biomedical sciences research and innovation, nurturing clinical research talent, and establishing strategic partnerships among academia, healthcare and industry, to improve health and healthcare delivery.”
+<b>“For her outstanding leadership in the development of academic medicine in Singapore through advancing health and biomedical sciences research and innovation, nurturing clinical research talent, and establishing strategic partnerships among academia, healthcare and industry, to improve health and healthcare delivery.”</b>
 [Download Full Citation](/files/Winners/2021/PSTM%202021_Prof%20Ivy%20Ng.pdf)
 <br><br><br>
 <img src="/images/Winners/2021/Peter%20Gluckman.png" alt="Professor Sir Peter Gluckman" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -24,4 +24,4 @@ description: ""
 <b>Director Emeritus and University Distinguished Professor,</b> Liggins Institute, University of Auckland<br> 
 <b>President,</b> International Science Council 
 
-“For his outstanding leadership in advancing health, clinical and biomedical sciences research, particularly the strengthening of developmental and early life research and enhancing Singapore’s human health and potential R&D capabilities” [Download Full Citation](/files/Winners/2021/PSTM%202021_Prof%20Sir%20Peter%20Gluckman.pdf)
+<b>“For his outstanding leadership in advancing health, clinical and biomedical sciences research, particularly the strengthening of developmental and early life research and enhancing Singapore’s human health and potential R&D capabilities”</b> [Download Full Citation](/files/Winners/2021/PSTM%202021_Prof%20Sir%20Peter%20Gluckman.pdf)
