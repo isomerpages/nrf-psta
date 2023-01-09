@@ -4,13 +4,12 @@ permalink: /winners/2021/psa/
 description: ""
 third_nav_title: "2021"
 ---
-
-![Professor Chen Xiaodong](/images/Winners/2021/Chen%20XiaoDong.png)
+<img src="/images/Winners/2021/Chen%20XiaoDong.png" alt="Professor Chen Xiaodong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Chen Xiaodong**
-President’s Chair Professor, School of Materials Science and Engineering, Nanyang Technological University (NTU)  
-Director, Innovative Centre for Flexible Devices, NTU  
-Scientific Director, Institute of Materials Research and Engineering, Agency for Science, Technology and Research (A\*STAR)  
-Deputy Director, Singapore Hybrid-Integrated Next-Generation μ-Electronics Centre (SHINE)  
+<b>President’s Chair Professor,</b> School of Materials Science and Engineering, Nanyang Technological University (NTU)<br>
+<b>Director,</b> Innovative Centre for Flexible Devices, NTU<br> 
+<b>Scientific Director,</b> Institute of Materials Research and Engineering, Agency for Science, Technology and Research (A\*STAR)<br>
+<b>Deputy Director,</b> Singapore Hybrid-Integrated Next-Generation μ-Electronics Centre (SHINE)  
 
 “For his outstanding contribution to advanced materials research for soft bioelectronics capable of digitising biological senses and extending human sensing capabilities, and their application to advanced manufacturing and healthcare wearables.”
 [Download Full Citation](/files/Winners/2021/PSA%202021_Prof%20Chen%20Xiaodong.pdf)
