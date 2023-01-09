@@ -19,7 +19,7 @@ sections:
       button: nominate now
       url: /nominate-now/
   - infopic:
-      title: '"After more than 30 years, I am very proud to have been...”'
+      title: '"After 30 years, I am very proud to have been...”'
       subtitle: 2022 PSTM WINNER
       description: Executive Director, Institute of Molecular and Cell Biology,
         A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
