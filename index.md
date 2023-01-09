@@ -46,7 +46,7 @@ sections:
       alt: DR BI RENZHE
       url: /winners/2022/ysa-bbsc/
   - infopic:
-      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
+      title: “Organic chemistry was almost like magic to me when I ...”
       subtitle: 2022 YSA WINNER
       description: President’s Assistant Professor, Department of Chemistry, Faculty
         of Science, NUS
