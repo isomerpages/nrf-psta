@@ -28,7 +28,7 @@ sections:
       button: Read more
       url: /winners/2022/pstm/
   - infopic:
-      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
+      title: “Singapore’s water resilience depends on our ability to ...”
       subtitle: 2022 PTA WINNER
       description: President’s Chair in Civil and Environment Engineering, NTU
         Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
