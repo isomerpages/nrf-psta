@@ -14,3 +14,8 @@ Professor, Yong Loo Lin School of Medicine, National University of Singapore
 [Download Full Citation](/files/Winners/2022/2022-pstm-Professor%20Hong%20Wanjin.pdf)
 
 ![Professor Hong Wanjin](/images/Winners/2022/pstm-prof-hong-wanjin.jpg)
+```
+```
+
+```
+```
