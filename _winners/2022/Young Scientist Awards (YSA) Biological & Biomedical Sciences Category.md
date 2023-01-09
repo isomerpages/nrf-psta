@@ -8,5 +8,5 @@ third_nav_title: "2022"
 ### **Dr Bi Renzhe**
 <b>Senior Scientist,</b> Institute of Bioengineering and Bioimaging, Agency for Science, Technology and Research
 
-“For his work in developing and translating novel bio-optical technologies and medical technology innovations”
+<b>“For his work in developing and translating novel bio-optical technologies and medical technology innovations”</b>
 [Download Full Citation](/files/Winners/2022/2022%20YSA%20Dr%20Bi%20Renzhe.pdf)
