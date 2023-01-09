@@ -13,9 +13,9 @@ sections:
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px.jpg
   - infobar:
       title: The Science & Technology Changemakers
-      description: The President's Science and Technology Awards (PSTA) are the
-        highest honours bestowed on  outstanding research scientists and
-        engineers in Singapore... ...
+      description: Over the past 15 years, the President's Science and Technology
+        Awards (PSTA) has honoured more than 60 men and women for their spirit
+        of innovation. ... ... ...
       button: nominate now
       url: /nominate-now/
   - infopic:
