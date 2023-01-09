@@ -20,11 +20,11 @@ third_nav_title: "2020"
 <b>President’s Chair in Physics,</b> School of Physical & Mathematical Sciences and School of Electrical & Electronic Engineering, Nanyang Technological University Singapore (NTU)
 ### **Associate Professor Chong Yidong**
 *(right)* <br>
-<b>Division of Physics & Applied Physics,</b> School of Physical & Mathematical Sciences, NTU<br>
-<b>Associate Chair (Students),</b> School of Physical and Mathematical Sciences, NTU
+<b>Division of Physics & Applied Physics,</b> School of Physical & Mathematical Sciences, Nanyang Technological University Singapore (NTU)<br>
+<b>Associate Chair (Students),</b> School of Physical and Mathematical Sciences, Nanyang Technological University Singapore (NTU)
 ### **Associate Professor Zhang Baile**
 *(left)*  <br>
-<b>Associate Professor,</b> Centre for Disruptive Photonic Technologies & School of Physical and Mathematical Sciences, NTU
+<b>Associate Professor,</b> Centre for Disruptive Photonic Technologies & School of Physical and Mathematical Sciences, Nanyang Technological University Singapore (NTU)
 
 
 <b>“For their global leadership in, and fundamental contributions to, topological nanophotonics research, which underpins the development of a new generation of light-based technologies”</b>
