@@ -7,7 +7,7 @@ third_nav_title: "2021"
 <img src="/images/Winners/2021/Chen%20XiaoDong.png" alt="Professor Chen Xiaodong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Chen Xiaodong**
 <b>President’s Chair Professor,</b> School of Materials Science and Engineering, Nanyang Technological University (NTU)<br>
-<b>Director,</b> Innovative Centre for Flexible Devices, NTU<br> 
+<b>Director,</b> Innovative Centre for Flexible Devices, Nanyang Technological University (NTU)<br> 
 <b>Scientific Director,</b> Institute of Materials Research and Engineering, Agency for Science, Technology and Research (A\*STAR)<br>
 <b>Deputy Director,</b> Singapore Hybrid-Integrated Next-Generation μ-Electronics Centre (SHINE)  
 
