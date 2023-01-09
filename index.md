@@ -38,7 +38,7 @@ sections:
       url: /winners/2022/pta/
       button: Read more
   - infopic:
-      title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit...
+      title: “I hope my contributions would help to make Singapore a ...”
       subtitle: 2022 YSA WINNER
       description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
       button: READ MORE
