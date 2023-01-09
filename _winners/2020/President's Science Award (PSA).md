@@ -27,4 +27,5 @@ third_nav_title: "2020"
 <b>Associate Professor,</b> Centre for Disruptive Photonic Technologies & School of Physical and Mathematical Sciences, NTU
 
 
-“For their global leadership in, and fundamental contributions to, topological nanophotonics research, which underpins the development of a new generation of light-based technologies” [Download Full Citation](/files/Winners/2020/4_PSA%20Prof%20Nikolay%20Zheludev%20and%20team.pdf)
+<b>“For their global leadership in, and fundamental contributions to, topological nanophotonics research, which underpins the development of a new generation of light-based technologies”</b>
+	[Download Full Citation](/files/Winners/2020/4_PSA%20Prof%20Nikolay%20Zheludev%20and%20team.pdf)
