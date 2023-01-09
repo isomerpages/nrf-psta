@@ -12,7 +12,7 @@ sections:
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px.jpg
   - infobar:
-      title: The science & technology changemakers
+      title: The Science & Technology Changemakers
       description: The President's Science and Technology Awards (PSTA) are the
         highest honours bestowed on  outstanding research scientists and
         engineers in Singapore... ...
