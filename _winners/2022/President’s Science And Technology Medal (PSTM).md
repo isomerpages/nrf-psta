@@ -4,7 +4,7 @@ permalink: /winners/2022/pstm/
 description: ""
 third_nav_title: "2022"
 ---
-<img src="images/Winners/2022/pstm-prof-hong-wanjin.jpg" alt="Prof Hong Wanjin" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2022/pstm-prof-hong-wanjin.jpg" alt="Prof Hong Wanjin" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### **Professor Hong Wanjin**
 Executive Director, Institute of Molecular and Cell Biology, Agency for Science, Technology and Research  
