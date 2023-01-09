@@ -5,7 +5,7 @@ permalink: /winners/2022/ysa-piesc/
 description: ""
 third_nav_title: "2022"
 ---
-![Dr Koh Ming Joo](/images/Winners/2022/ysa-dr-koh-ming-joo.jpg)
+<img src="/images/Winners/2022/ysa-dr-koh-ming-joo.jpg" alt="Dr Koh Ming Joo" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Dr Koh Ming Joo**
 
 President’s Assistant Professor, Department of Chemistry, Faculty of Science, National University of Singapore
