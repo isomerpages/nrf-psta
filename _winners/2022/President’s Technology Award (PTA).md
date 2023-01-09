@@ -4,7 +4,7 @@ permalink: /winners/2022/pta/
 description: ""
 third_nav_title: "2022"
 ---
-![Professor Wang Rong](/images/Winners/2022/pta-prof-wang-rong.jpg)
+<img src="/images/Winners/2022/pta-prof-wang-rong.jpg" alt="Professor Wang Rong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Wang Rong**
 
 President’s Chair in Civil and Environment Engineering, School of Civil and Environmental Engineering, Nanyang Technological University, Singapore (NTU Singapore)
