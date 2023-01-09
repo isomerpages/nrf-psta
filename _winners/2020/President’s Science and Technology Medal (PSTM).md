@@ -4,13 +4,10 @@ permalink: /winners/2020/pstm/
 description: ""
 third_nav_title: "2020"
 ---
-
-![Professor Ranga Rama Krishnan](/images/Winners/2020/PSTM-Prof%20Ranga.jpg)
+<img src="/images/Winners/2020/PSTM-Prof%20Ranga.jpg" alt="Professor Ranga Rama Krishnan" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Ranga Rama Krishnan**
-Chairman, National Medical Research Council  
-Chief Executive Officer, Rush University System for Health  
+<b>Chairman,</b> National Medical Research Council<br>
+<b>Chief Executive Officer,</b> Rush University System for Health
 
-  
-
-“For his outstanding leadership contributions to advancing the health and biomedical sciences research and innovation sector in Singapore, particularly through the strengthening of academic medicine, translational and clinical research, and the promotion of technology transfer and entrepreneurship to enhance health and support economic development in Singapore”
+<b>“For his outstanding leadership contributions to advancing the health and biomedical sciences research and innovation sector in Singapore, particularly through the strengthening of academic medicine, translational and clinical research, and the promotion of technology transfer and entrepreneurship to enhance health and support economic development in Singapore”</b>
 [Download Full Citation](/files/Winners/2020/1_PSTM%20Prof%20Ranga%20Krishnan.pdf)
