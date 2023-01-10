@@ -37,3 +37,9 @@ Young Scientist Awards 2020: Dr Tan Si Hui
 </b>
 <br><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hHaoTqeoDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards 2020: Dr John Ho
+</b>
+<br><br>
+
