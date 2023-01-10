@@ -45,3 +45,9 @@ President's Science Award 2021: Professor Wang Linfa
 President's Technology Award 2021: Associate Professor Too Heng-Phon
 </b>
 <br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVTFU_N3CHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards (YSA) 2021 - Dr Sarah Luo
+</b>
+<br><br>
