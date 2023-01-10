@@ -12,4 +12,4 @@ third_nav_title: "2022"
 <b>Co-Founder,</b> H2MO Technology Pte. Ltd. and Aromatec Pte. Ltd.
 
 <b>“For her outstanding contributions to the field of membrane science and technology, leading to more energy-efficient liquid purification and desalination to support Singapore’s sustainability goals”</b>
-[Download Full Citation](/files/Winners/2022/2022%20PTA%20Prof%20Wang%20Rong.pdf)
+[Download Full Citation](/files/Citations/2022/2022%20PTA%20Prof%20Wang%20Rong.pdf)
