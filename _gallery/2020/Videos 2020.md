@@ -25,3 +25,9 @@ President's Science Award 2020: Prof Liu Jianjun
 President's Science Award 2020: Prof Nikolay Zheludev
 </b>
 <br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_tpcO4G2I9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards 2020: Dr Chew Wei Leong
+</b>
+<br><br>
+
