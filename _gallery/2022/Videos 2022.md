@@ -33,3 +33,9 @@ Young Scientist Awards (YSA) 2022 Award - Dr Bi Renzhe
 Young Scientist Awards (YSA) 2022 Award - Dr Koh Ming Joo
 </b>
 <br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuCvvZX_E24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards (YSA) 2022 Winners
+</b>
+<br><br>
