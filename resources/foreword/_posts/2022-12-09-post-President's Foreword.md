@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="images/Winners/2022/pstm-prof-hong-wanjin.jpg" alt="Prof Hong Wanjin" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ![Halimah Yacob](/images/Presidents%20foreword/psta2022-president's-foreword.jpg)
 
