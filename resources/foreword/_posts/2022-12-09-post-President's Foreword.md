@@ -13,5 +13,4 @@ We also recognise the outstanding efforts of our young scientists with the Young
 
 My heartfelt congratulations to all the 2022 PSTA and YSA winners. Your achievements do yourself, your families, and Singapore proud. I wish all of you the very best in your future endeavours and I trust that your accomplishments will be a beacon that inspires future generations of Singaporeans and beyond.
 ## **Halimah Yacob**
-
 President of the Republic of Singapore
