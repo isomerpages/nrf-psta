@@ -12,4 +12,4 @@ third_nav_title: "2020"
 Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore (NUS)
 
 <b>“For his groundbreaking work in developing methods to convert immune cells into safe and effective anti-cancer therapies that have transformed the treatment of leukaemia”</b>
-[Download Full Citation](/files/Winners/2020/2_PTA%20Prof%20Dario%20Campana.pdf)
+[Download Full Citation](/files/Citations/2020/2_PTA%20Prof%20Dario%20Campana.pdf)
