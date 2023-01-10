@@ -11,4 +11,4 @@ third_nav_title: "2021"
 <b>Co-founder,</b> Chief Scientific Advisor and Non-Executive Chairman, MiRXES  
 
 <b>“For his groundbreaking work in developing a method for accurate, versatile detection of microRNA disease biomarkers, leading to the clinical implementation of blood tests for early detection of diseases such as cancer”</b>
-[Download Full Citation](/files/Winners/2021/PTA%202021_Prof%20Too%20Heng-Phon.pdf)
+[Download Full Citation](/files/Citations/2021/PTA%202021_Prof%20Too%20Heng-Phon.pdf)
