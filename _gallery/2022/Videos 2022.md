@@ -21,3 +21,9 @@ President’s Science and Technology Medal 2022: Professor Hong Wanjin
 President’s Technology Award 2022: Professor Wang Rong
 </b>
 <br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnRUvk68pKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards (YSA) 2022 Award - Dr Bi Renzhe
+</b>
+<br><br>
