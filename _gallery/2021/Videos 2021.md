@@ -35,9 +35,13 @@ President's Science Award 2021: Professor Chen Xiaodong
 <br><br>		
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r4aTZTI9ug4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>President's Science Award 2021: Professor Wang Linfa
-	<br><br>	
+<b>
+President's Science Award 2021: Professor Wang Linfa
+</b>
+<br><br>		
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5EJTtA6YKog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>President's Technology Award 2021: Associate Professor Too Heng-Phon
-	<br><br>
+<b>
+President's Technology Award 2021: Associate Professor Too Heng-Phon
+</b>
+<br><br>
