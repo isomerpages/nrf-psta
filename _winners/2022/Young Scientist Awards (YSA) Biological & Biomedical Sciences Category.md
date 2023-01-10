@@ -9,4 +9,4 @@ third_nav_title: "2022"
 <b>Senior Scientist,</b> Institute of Bioengineering and Bioimaging, Agency for Science, Technology and Research (A*STAR)
 
 <b>“For his work in developing and translating novel bio-optical technologies and medical technology innovations”</b>
-[Download Full Citation](/files/Winners/2022/2022%20YSA%20Dr%20Bi%20Renzhe.pdf)
+[Download Full Citation](/files/Citations/2022/2022%20YSA%20Dr%20Bi%20Renzhe.pdf)
