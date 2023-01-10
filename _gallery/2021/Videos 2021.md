@@ -11,12 +11,16 @@ third_nav_title: "2021"
 <br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0859hfYcvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>2021 President's Science and Technology Awards (PSTA) Winners
-	<br><br>
+<b>
+2021 President's Science and Technology Awards (PSTA) Winners
+</b>
+<br><br>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJlFvGe_AcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>President’s Science and Technology Medal 2021: Professor Sir Peter Gluckman
-	<br><br>	
+<b>
+President’s Science and Technology Medal 2021: Professor Sir Peter Gluckman
+</b>
+<br><br>	
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7XdeglS7_eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <b>President’s Science and Technology Medal 2021: Professor Ivy Ng
@@ -32,4 +36,4 @@ third_nav_title: "2021"
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5EJTtA6YKog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <b>President's Technology Award 2021: Associate Professor Too Heng-Phon
-	<br><br>	
+	<br><br>
