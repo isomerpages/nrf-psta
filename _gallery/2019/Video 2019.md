@@ -18,3 +18,8 @@ President's Science Award 2019 - Individual
 <b>
 2019 President's Science Award - Team
 </b><br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SuoWWOQmTqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+2019 President’s Technology Award - Team
+</b><br><br>
