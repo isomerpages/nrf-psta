@@ -57,3 +57,9 @@ Young Scientist Awards (YSA) 2021 - Dr Sarah Luo
 Young Scientist Awards (YSA) 2021 - Dr Zhang Hanwang
 </b>
 <br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5VaX2ktSFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>
+Young Scientist Awards (YSA) 2021 - Dr Yvonne Gao
+</b>
+<br><br>
