@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Celebrating Singapore’s Research Excellence
+      title: Recognising Singapore’s outstanding scientific talent
       button: NOMINATE NOW
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
