@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore's most Outstanding in Research & Innovation
+      title: Singapore's most outstanding in research & innovation
       button: NOMINATE NOW
       url: /cfn-form/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
