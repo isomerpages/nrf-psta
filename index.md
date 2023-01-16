@@ -14,10 +14,10 @@ sections:
   - infobar:
       title: The Science & Technology Changemakers
       description: Over the past 15 years, the President's Science and Technology
-        Awards (PSTA) has honoured more than 60 men and women for their spirit
+        Awards (PSTA) have honoured more than 60 men and women for their spirit
         of innovation. Their passion and talent for science and technology have
         inspired the scientific community and shaped Singapore’s research,
-        innovation and enterprise landscape
+        innovation and enterprise landscape.
       button: nominate now
       url: /nominate-now/
   - infopic:
