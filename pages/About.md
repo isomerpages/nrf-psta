@@ -15,8 +15,23 @@ Our winners inspire the PSTA logotype; the stylised ‘S’ puts winners at the 
 ##### **President's Science and Technology Medal (PSTM)**
 	
 <img src="/images/Award%20Badges/psta-badge-pstm-shadow.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
-<b>President’s Science And Technology Medal (PSTM)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
+Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in the development of Singapore through the promotion and management of R&D
 
+Nominees are evaluated on:<br>
+**Impact of Contributions**<br>
+* Significant scientific, technological or economic benefits for Singapore, including enhancing Singapore’s scientific and research environment, national competitiveness, national policies and structures or breakthroughs in scientific / technological discoveries and innovations<br>
+**Research Leadership**<br>
+* Contributions at both the institutional and individual levels
+**Other general considerations**<br>
+
+	
+	
+	
+	
+	
+	
+	
+	
 <img src="/images/Award%20Badges/psta-badge-psa-shadow.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
 <b>President's Science Award (PSA)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
 
