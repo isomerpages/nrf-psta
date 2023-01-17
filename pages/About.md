@@ -60,8 +60,8 @@ Awarded to researchers aged 35 years and below, who are actively engaged in R&D 
 * Physical, Information and Engineering Sciences
 ---- ----- -----
 
-##### **Young Scientist Award (YSA)**
-PSTM, PSA and PTA
+##### **Eligibility for the Awards**
+###### PSTM, PSA and PTA
 Nominees must be outstanding contributors who have made an impact to Singapore’s R&D landscape
 
 Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore
