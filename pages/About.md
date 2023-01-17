@@ -63,5 +63,6 @@ Awarded to researchers aged 35 years and below, who are actively engaged in R&D 
 ##### **Eligibility for the Awards**
 ###### PSTM, PSA and PTA
 Nominees must be outstanding contributors who have made an impact to Singapore’s R&D landscape
-
-Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore
+* Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore (Note: most of the projects submitted have at least 50% of the work done in Singapore)
+* No age limit
+* Selected candidate(s) should still be active in research in the year the award is presented
