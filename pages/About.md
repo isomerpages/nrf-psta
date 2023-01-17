@@ -42,8 +42,12 @@ Awarded to individuals or teams for outstanding contributions in basic research 
 Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology
 <br><br>Nominees are evaluated on:<br>
 1. **Significance of Achievements**<br>
-
-
+* Pioneering developments with potential or established industrial or commercial applications
+2. **Impact of Contributions**<br>
+* Potential and actual value on industry or the economy in:
+* addressing unmet user needs;
+creating new / growing existing industry sectors; or
+creating a new business, or securing a new product charter, for an existing company in Singapore
 
 
 
