@@ -69,7 +69,7 @@ Nominees must be outstanding contributors who have made an impact to Singaporeâ€
 
 ###### YSA
 Nominees must be outstanding contributors who have made an impact to Singaporeâ€™s R&D landscape
-* Singaporeans and Permanent Residents who <b>turn 35 years old on 1st of January</b> (i.e. have their date of birth on 1 Jan) in the year of nomination <b>or younger</b> and are actively engaged in R&D activities in
+* Singaporeans and Permanent Residents who <b><u>turn</u> 35 years old on 1st of January</b> (i.e. have their date of birth on 1 Jan) in the year of nomination <b>or <u>younger</b></u> and are actively engaged in R&D activities in
 Singapore may apply
 * Foreign citizens who meet the age requirement and have been working in Singapore for at least three years at the point of application may also apply
 * Selected candidate(s) should still be active in research in the year the award is presented
