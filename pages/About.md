@@ -53,7 +53,7 @@ Potential and actual value on industry or the economy in:
 * E.g. originality, vision, extent of validation, entrepreneurial spirit, management and organisational skills
 ---- ----- -----
 ##### **Young Scientist Award (YSA)**
-<img src="/images/Award%20Badges/PSTA-Badge_YSA-shadow.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
+<img src="/images/Award%20Badges/psta-badge-ysa-shadow.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
 Awarded to researchers aged 35 years and below, who are actively engaged in R&D in Singapore, and who have shown great potential to be world-class researchers in their fields of expertise
 <br><br>There are two categories of Awards, namely:<br>
 * Biological and Biomedical Sciences; and
