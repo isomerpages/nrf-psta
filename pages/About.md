@@ -39,9 +39,10 @@ Awarded to individuals or teams for outstanding contributions in basic research 
 
 ##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/psta-badge-pta-shadow.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
-Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology<br>
+Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology
 <br><br>Nominees are evaluated on:<br>
 1. **Significance of Achievements**<br>
+
 
 
 
