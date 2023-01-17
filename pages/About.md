@@ -8,14 +8,12 @@ The <b>President’s Science & Technology Awards (PSTA)</b> were first given out
 The PSTA consist of four distinct awards — the President’s Science & Technology Medal, the President’s Science Award, the President’s Technology Award, and the Young Scientist Award. Carefully selected by a panel of key representatives that spans government, industry, academia, and public research institutes, the awards recognise individuals and teams that have made exceptional contributions in pushing the boundaries of the research and innovation landscape in Singapore.
 
 ### **The PSTA Brand**
-The PSTA is the country’s top honours for research scientists and engineers in Singapore. As the highest accolade, the PSTA brand carries prestige, influence, and most importantly, inspires the next generation. PSTA winners create orbits of impact through their exceptional work, personal ingenuity, and continued search for excellence; they are role models for their peers and aspiring young researchers in the science and tech fields.<p>
+The PSTA is the country’s top honours for research scientists and engineers in Singapore. As the highest accolade, the PSTA brand carries prestige, influence, and most importantly, inspires the next generation. PSTA winners create orbits of impact through their exceptional work, personal ingenuity, and continued search for excellence; they are role models for their peers and aspiring young researchers in the science and tech fields.<p><img src="/images/Logos/psta-logo-vfc.png" alt="President’s Science and Technology Awards Logo" style="width:400px"/>
 Our winners inspire the PSTA logotype; the stylised ‘S’ puts winners at the core, recognising the ripple impact they have on a national and global scale. Supported by the surrounding 3 dots — NRF’s dynamic Research, Innovation and Enterprise (R.I.E) ecosystem — breakthroughs are transformed into real-world change for future generations.	
-	
-	
-<img src="/images/Logos/psta-logo-vfc.png" alt="President’s Science and Technology Awards Logo" style="width:400px"/><br>
 
-For 10 years, the <b>President’s Science and Technology Awards (PSTA)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
-
+### **Introducing the Awards**
+##### **President's Science and Technology Medal (PSTM)**
+	
 <img src="/images/Award%20Badges/psta-badge-pstm-shadow.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
 <b>President’s Science And Technology Medal (PSTM)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
 
