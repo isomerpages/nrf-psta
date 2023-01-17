@@ -66,3 +66,7 @@ Nominees must be outstanding contributors who have made an impact to Singaporeâ€
 * Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore *(Note: most of the projects submitted have at least 50% of the work done in Singapore)*
 * No age limit
 * Selected candidate(s) should still be active in research in the year the award is presented
+
+###### YSA
+Nominees must be outstanding contributors who have made an impact to Singaporeâ€™s R&D landscape
+
