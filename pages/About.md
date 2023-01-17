@@ -15,8 +15,7 @@ Our winners inspire the PSTA logotype; the stylised ‘S’ puts winners at the 
 ##### **President's Science and Technology Medal (PSTM)**
 <img src="/images/Award%20Badges/psta-badge-pstm-shadow.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
 Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in the development of Singapore through the promotion and management of R&D
-
-Nominees are evaluated on:<br>
+<br><br>Nominees are evaluated on:<br>
 1. **Impact of Contributions**<br>
 * Significant scientific, technological or economic benefits for Singapore, including enhancing Singapore’s scientific and research environment, national competitiveness, national policies and structures or breakthroughs in scientific / technological discoveries and innovations<br>
 2. **Research Leadership**<br>
@@ -26,8 +25,7 @@ Nominees are evaluated on:<br>
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/psta-badge-psa-shadow.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
 Awarded to individuals or teams for outstanding contributions in basic research leading to the discovery of new knowledge, or pioneering the development of scientific or engineering techniques and methods
-	
-Nominees are evaluated on:<br>
+<br><br>Nominees are evaluated on:<br>
 1. **Significance of Achievements**<br>
 * Furthering current understanding of science
 * Opening a new field of scientific enquiry
@@ -37,16 +35,25 @@ Nominees are evaluated on:<br>
 * Development of scientific thought in the field
 * Exceptional significance to the development of possible solutions to important industrial, environmental and/or social needs
 3. **Other general considerations**<br>	
-* e.g. vision, scientific rigour and integrity in validation 	
-	
-	
-	
-	
-	
+* e.g. vision, scientific rigour and integrity in validation
 
-<b>President's Science Award (PSA)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
-
+##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/psta-badge-pta-shadow.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
+Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology<br>
+<br><br>Nominees are evaluated on:<br>
+1. **Significance of Achievements**<br>
+
+
+
+
+
+
+
+
+
+
+
+
 <b>President’s Technology Award (PTA)</b> has recognised individuals with innovative ideas who have made exceptional contributions to Singapore. Over 60 men and women have been singled out for their spirit o f innovation. Their passion and talent for science and technology have inspired the scientific community and helped t o shape Singapore’s research, innovation and enterprise landscape. Who are they and what do the y have to say on the future of science, technology, engineering and mathematics (STEM) in Singapore?
 
 <img src="/images/Award%20Badges/PSTA-Badge_YSA-shadow.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
