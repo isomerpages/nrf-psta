@@ -3,7 +3,6 @@ title: The Four Awards
 permalink: /about/awards/
 description: ""
 ---
-
 ##### **President's Science and Technology Medal (PSTM)**
 <img src="/images/Award%20Badges/psta-badge-pstm-shadow.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
 Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in the development of Singapore through the promotion and management of R&D
