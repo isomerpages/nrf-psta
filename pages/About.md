@@ -21,7 +21,7 @@ Awarded to individuals who have made distinguished, sustained and exceptional co
 2. **Research Leadership**<br>
 * Contributions at both the institutional and individual levels
 3. **Other general considerations**<br>
-<br><br><br>
+<br><br>
 
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/psta-badge-psa-shadow.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
@@ -52,7 +52,7 @@ Potential and actual value on industry or the economy in:
 * Creating a new business, or securing a new product charter, for an existing company in Singapore
 3. **Other general considerations**<br>	
 * E.g. originality, vision, extent of validation, entrepreneurial spirit, management and organisational skills
-<br><br><br>
+<br><br>
 
 ##### **Young Scientist Award (YSA)**
 <img src="/images/Award%20Badges/psta-badge-ysa-shadow.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
@@ -60,7 +60,7 @@ Awarded to researchers aged 35 years and below, who are actively engaged in R&D 
 <br><br>There are two categories of Awards, namely:<br>
 * Biological and Biomedical Sciences; and
 * Physical, Information and Engineering Sciences
-<br><br><br>
+<br><br>
 
 ##### **Eligibility for the Awards**
 ##### **PSTM, PSA and PTA**<br>
