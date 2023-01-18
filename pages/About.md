@@ -22,6 +22,7 @@ Awarded to individuals who have made distinguished, sustained and exceptional co
 * Contributions at both the institutional and individual levels
 3. **Other general considerations**<br>
 <br><br><br>
+
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/psta-badge-psa-shadow.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
 Awarded to individuals or teams for outstanding contributions in basic research leading to the discovery of new knowledge, or pioneering the development of scientific or engineering techniques and methods
@@ -37,6 +38,7 @@ Awarded to individuals or teams for outstanding contributions in basic research 
 3. **Other general considerations**<br>	
 * E.g. vision, scientific rigour and integrity in validation
 <br><br><br>
+
 ##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/psta-badge-pta-shadow.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
 Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology
