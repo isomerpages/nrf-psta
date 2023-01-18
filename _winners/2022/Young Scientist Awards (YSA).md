@@ -4,7 +4,7 @@ permalink: /winners/2022/ysa/
 description: ""
 third_nav_title: "2022"
 ---
-### Biological & Biomedical Sciences Category
+## Biological & Biomedical Sciences Category
 <img src="/images/Winners/2022/ysa-dr-bi-renzhe.jpg" alt="Dr Bi Renzhe" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Dr Bi Renzhe**
 
@@ -16,7 +16,7 @@ third_nav_title: "2022"
 <b>
 <br><br><br>
 
-### Physical, Information & Engineering Sciences Category
+## Physical, Information & Engineering Sciences Category
 
 <img src="/images/Winners/2022/ysa-dr-koh-ming-joo.jpg" alt="Dr Koh Ming Joo" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Dr Koh Ming Joo**
