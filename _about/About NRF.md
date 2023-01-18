@@ -8,4 +8,4 @@ Since 2023, the President’s Science & Technology Award has been organised by t
 
 The NRF aims to transform Singapore into a vibrant R&D hub that contributes towards a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in Science and Innovation.
 
-Learn more about the NRF at [www.nrf.gov.sg](https://www.nrf.gov.sg/).
+Learn more about the NRF at [nrf.gov.sg](https://www.nrf.gov.sg/).
