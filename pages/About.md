@@ -30,8 +30,7 @@ Awarded to individuals or teams for outstanding contributions in basic research 
 1. **Significance of Achievements**<br>
 * Furthering current understanding of science
 * Opening a new field of scientific enquiry
-* Solving important scientific questions
-<br>
+* Solving important scientific questions<br>
 2. **Impact of Contributions**<br>
 * Development of scientific thought in the field
 * Exceptional significance to the development of possible solutions to important industrial, environmental and/or social needs
