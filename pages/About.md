@@ -45,8 +45,7 @@ Awarded to individuals or teams for outstanding contributions to R&D resulting i
 <br><br>Nominees are evaluated on:<br>
 1. **Significance of Achievements**<br>
 * Pioneering developments with potential or established industrial or commercial applications
-2. **Impact of Contributions**<br>
-
+2. **Impact of Contributions**<br><br>
 Potential and actual value on industry or the economy in:
 * Addressing unmet user needs;
 * Creating new / growing existing industry sectors; or
