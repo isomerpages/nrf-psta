@@ -3,7 +3,7 @@ title: About NRF
 permalink: /about/nrf/
 description: ""
 ---
-[NRF logo]
+![National Research Foundation (Logo)](/images/Logos/nrf-logo-fc-hr.jpg)
 
 Since 2023, the President’s Science & Technology Award has been organised by the <b>National Research Foundation, Singapore (NRF).</b> A department within the Prime Minister’s Office, the NRF sets the national direction for R&D by developing policies, plans, and strategies for research, innovation, and enterprise. It also funds strategic initiatives and builds up R&D capabilities by nurturing research talent.
 
