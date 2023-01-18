@@ -4,7 +4,6 @@ permalink: /winners/2019/psa/
 description: ""
 third_nav_title: "2019"
 ---
-
 ### **Professor Toh Kim Chuan**
 
 Department of Mathematics and Institute of Operations Research and Analytics, National University of Singapore<b>
