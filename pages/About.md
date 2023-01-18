@@ -63,15 +63,14 @@ Awarded to researchers aged 35 years and below, who are actively engaged in R&D 
 <br><br><br>
 
 ##### **Eligibility for the Awards**
-###### PSTM, PSA and PTA
+##### **PSTM, PSA and PTA**<br>
 Nominees must be outstanding contributors who have made an impact to Singapore’s R&D landscape
 * Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore <br>*(Note: most of the projects submitted have at least 50% of the work done in Singapore)*
 * No age limit
 * Selected candidate(s) should still be active in research in the year the award is presented
 
-###### YSA
+##### **YSA**<br>
 Nominees must be outstanding contributors who have made an impact to Singapore’s R&D landscape
-* Singaporeans and Permanent Residents who <b><u>turn</u> 35 years old on 1st of January</b> (i.e. have their date of birth on 1 Jan) in the year of nomination <b>or <u>younger</b></u> and are actively engaged in R&D activities in
-Singapore may apply
+* Singaporeans and Permanent Residents who <b><u>turn</u> 35 years old on 1st of January</b> (i.e. have their date of birth on 1 Jan) in the year of nomination <b>or <u>younger</b></u> and are actively engaged in R&D activities in Singapore may apply
 * Foreign citizens who meet the age requirement and have been working in Singapore for at least three years at the point of application may also apply
 * Selected candidate(s) should still be active in research in the year the award is presented
