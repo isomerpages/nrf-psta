@@ -1,7 +1,7 @@
 logo: /images/Logos/psta-logo-vfc.png
 links:
   - title: About
-    url: /about/
+    url: about
   - title: Winners
     collection: winners
   - title: Gallery
