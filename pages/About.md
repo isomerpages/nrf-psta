@@ -36,7 +36,7 @@ Awarded to individuals or teams for outstanding contributions in basic research 
 * Exceptional significance to the development of possible solutions to important industrial, environmental and/or social needs
 3. **Other general considerations**<br>	
 * E.g. vision, scientific rigour and integrity in validation
-<br><br><br>
+<br><br>
 
 ##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/psta-badge-pta-shadow.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
@@ -67,6 +67,7 @@ Nominees must be outstanding contributors who have made an impact to Singapore�
 * Singaporeans, Permanent Residents and foreigners may apply, as long as a substantial amount of research has been carried out in Singapore <br>*(Note: most of the projects submitted have at least 50% of the work done in Singapore)*
 * No age limit
 * Selected candidate(s) should still be active in research in the year the award is presented
+<br>
 
 ##### **YSA**<br>
 Nominees must be outstanding contributors who have made an impact to Singapore’s R&D landscape
