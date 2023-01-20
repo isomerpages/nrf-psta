@@ -35,7 +35,7 @@ Head,</b> Paediatric and Strabismus Service, Singapore National Eye Centre & KK 
 <b>Senior Scientific Advisor,</b> Singapore Eye Research Institute<br>
 <b>Visiting Senior Consultant,</b> Singapore National Eye Centre<br>
 <b>Senior Partner,</b> Eye & Retina Surgeons, Camden Medical Centre<br>
-<br><br>
+<br>
 <b>“For their dedicated research spanning over three decades in the field of myopia, which resulted in public health strategies and interventional myopia control therapies which help decrease the rates of myopia/high myopia, and myopia-related blindness in Singapore”</b>
 [Download Full Citation](/files/Citations/2021/PSA%202021_Prof%20Chen%20Xiaodong.pdf)
 <br><br><br>
