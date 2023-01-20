@@ -4,7 +4,7 @@ permalink: /winners/2019/pta/
 description: ""
 third_nav_title: "2019"
 ---
-<img src="/images/Winners/2019/2019-pta-team.jpg" alt="2019 PTA team" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/Winners/2019/2019-pta-team.jpg" alt="2019 PTA team" style="width:400px" align="left"/><br><br><br><br><br><br><br>
 
 ### **Dr Poh Hee Joo**
 <b>Senior Scientist,</b> Institute of High Performance Computing, A*STAR
