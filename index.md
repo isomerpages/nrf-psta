@@ -61,6 +61,6 @@ sections:
       alt: DR KOH MING JOO
   - infobar:
       title: Who will it be in 2023?
-      button: Nominations for PSTA now open
+      button: All set? Submit here
       url: /sgforms/
 ---
