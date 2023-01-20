@@ -63,4 +63,7 @@ sections:
       title: Who will it be in 2023?
       button: All set? Submit here
       url: /sgforms/
+      description: <b>Get Ready to Nominate:</b><br> • Prepare the required
+        info/documents. Instructions can be downloaded here.<link> Do NOT fill
+        up the PDF; only the electro...
 ---
