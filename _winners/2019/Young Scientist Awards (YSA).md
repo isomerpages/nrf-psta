@@ -9,7 +9,7 @@ third_nav_title: "2019"
 
 ### **Dr Lim Ci Wen, Charles**
 <b>Assistant Professor,</b> Department of Electrical and Computer Engineering and Centre for Quantum Technologies, NUS<br>
-<b>“For his research on quantum cryptography that paves the way to practical quantum-safe networks”</b>
 
+<b>“For his research on quantum cryptography that paves the way to practical quantum-safe networks”</b>
 [Download Full Citation](/files/Citations/2019/2019-ysa-charles.pdf)
 <br><br><br>
