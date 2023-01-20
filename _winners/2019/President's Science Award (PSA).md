@@ -12,29 +12,23 @@ Department of Mathematics and Institute of Operations Research and Analytics, Na
 “For his fundamental contributions to the theory, algorithms, and applications of convex optimisation, especially the development of algorithms and software for semi-definite and conic programming”</b> [Download Full Citation](/files/Citations/2019/2019-psa-prof-toh-kim-chuan.pdf)
 <br><br><br>
 
-Associate Professor Audrey Chia 
 ### **Associate Professor Audrey Chia**
 <b>Co-Head,</b> Myopia Research, Singapore Eye Research Institute<br>
 <b>Co-Director,</b> Myopia Centre @ Bedok, Singapore National Eye Centre<br>
-<b>Vice-Chair,</b> Ophthalmology & Visual Sciences Academic Clinical Programme (ACP), Duke-NUS Medical School <b>Head,</b> Paediatric and Strabismus Service, Singapore National Eye Centre & KK Women’s and Children’s Hospital 
- Professor Saw Seang Mei 
-### **Professor Saw Seang Mei**
+<b>Vice-Chair,</b> Ophthalmology & Visual Sciences Academic Clinical Programme (ACP), Duke-NUS Medical School<b>Head,</b> Paediatric and Strabismus Service, Singapore National Eye Centre & KK Women’s and Children’s Hospital
 
+### **Professor Saw Seang Mei**
 <b>Co-Head,</b> Myopia Research, Singapore Eye Research Institute<br>
 <b>Professor,</b> Saw Swee Hock School of Public Health, National University of Singapore<br>
-<b>Joint Professor,</b> Duke-NUS Medical School<br> 
+<b>Joint Professor,</b> Duke-NUS Medical School<br>
 
-Professor Roger Beuerman 
 ### **Professor Roger Beuerman**
-
 <b>Senior Scientific Advisor,</b> Singapore Eye Research Institute<br>
 <b>Professor,</b> SRP in Neuroscience and Behavioural Disorders, Duke-NUS Medical School<br> 
 <b>Professor,</b> Emerging Infectious Diseases, Duke-NUS Medical School<br>
-<b>Professor,</b> Ophthalmology & Visual Sciences ACP, Duke-NUS Medical School<br> 
+<b>Professor,</b> Ophthalmology & Visual Sciences ACP, Duke-NUS Medical School<br>
 
-Adjunct Professor Donald Tan 
 ### **Adjunct Professor Donald Tan**
-
 <b>Adjunct Professor,</b> Ophthalmology & Visual Sciences ACP, Duke-NUS Medical School<br>
 <b>Senior Scientific Advisor,</b> Singapore Eye Research Institute<br>
 <b>Visiting Senior Consultant,</b> Singapore National Eye Centre<br>
