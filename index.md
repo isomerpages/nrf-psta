@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Singapore's most outstanding in research & innovation
       button: NOMINATE NOW
-      url: /cfn-form/
+      url: /Nominate/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
       title: The Science & Technology Changemakers
