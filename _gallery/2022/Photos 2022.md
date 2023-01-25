@@ -15,3 +15,5 @@ third_nav_title: "2022"
 ![PSTA 2022 Gallery Photo 5](/images/Photos%202022/2022-photo-5.jpg)
 
 ![PSTA 2022 Gallery Photo 6](/images/Photos%202022/2022-photo-6.jpg)
+
+![PSTA 2022 Gallery Photo 7](/images/Photos%202022/2022-photo-7.jpg)
