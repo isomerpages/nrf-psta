@@ -62,5 +62,5 @@ sections:
   - infobar:
       title: Who will it be in 2023?
       button: NOMINATIONS FOR PSTA NOW OPEN
-      url: /sgforms/
+      url: /Nominate/
 ---
