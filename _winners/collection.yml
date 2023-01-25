@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2018/.keep
-      - President’s Science And Technology Medal (PSTM).md
       - 2022/.keep
       - 2022/President’s Science And Technology Medal (PSTM).md
       - 2022/President’s Technology Award (PTA).md
