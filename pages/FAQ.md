@@ -3,4 +3,4 @@ title: FAQ
 permalink: /faq/
 description: ""
 ---
-# Coming soon.
+### This page is being updated. Please check back again soon.
