@@ -16,6 +16,6 @@ description: ""
 
 ##### All set? <b>Submit your nomination below.</b>
 
-<a href="default.asp">
-  </images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
-</a>
+<p><a href="https://form.gov.sg/">
+<img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
+</a></p>
