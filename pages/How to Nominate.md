@@ -14,6 +14,8 @@ description: ""
 3. **Please fill the Nomination Form accurately and completely in one sitting**<br>
 * You will <b><u>not</u></b> be able to save and continue later, or make changes after submission<br>
 
-##### All set? <b>Submit your nomination here.</b> (hyperlink to Nomination Form url)
+##### All set? <b>Submit your nomination below.</b>
 
-<img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px"/><br>
+<a href="default.asp">
+  </images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
+</a>
