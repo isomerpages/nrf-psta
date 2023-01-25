@@ -14,7 +14,7 @@ description: ""
 3. **Please fill the Nomination Form accurately and completely in one sitting**<br>
 * You will <b><u>not</u></b> be able to save and continue later, or make changes after submission<br>
 
-##### All set? <b>Click below to submit your nomination.</b>
+##### All set? Click below to submit your nomination.
 <p><a href="https://form.gov.sg/">
 <img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
 </a></p>
