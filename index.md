@@ -19,7 +19,7 @@ sections:
         inspired the scientific community and shaped Singapore’s research,
         innovation and enterprise landscape.
       button: nominate now
-      url: /nominate-now/
+      url: /Nominate/
   - infopic:
       title: '"After 30 years, I am very proud to have been part of Singapore’s
         biomedical growth.”'
