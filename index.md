@@ -49,14 +49,14 @@ sections:
       button: READ MORE
       image: /images/Infopic/infopic-dr-bi-renzhe.png
       alt: DR BI RENZHE
-      url: /winners/2022/ysa-bbsc/
+      url: /winners/2022/ysa/
   - infopic:
       title: “Organic chemistry was almost like magic to me when I was young.”
       subtitle: 2022 YSA WINNER
       description: President’s Assistant Professor, Department of Chemistry, Faculty
         of Science, NUS
       button: READ MORE
-      url: /winners/2022/ysa-piesc/
+      url: /winners/2022/ysa/
       image: /images/Infopic/infopic-dr-koh-ming-joo.png
       alt: DR KOH MING JOO
   - infobar:
