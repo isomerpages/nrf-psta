@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - How to Nominate.md
       - History of the Awards.md
       - The PSTA Brand.md
       - The Four Awards.md
+      - How to Nominate.md
       - About NRF.md
