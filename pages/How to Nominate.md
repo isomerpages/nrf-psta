@@ -3,7 +3,6 @@ title: How to Nominate
 permalink: /Nominate/
 description: ""
 ---
-
 ### Get Ready to Nominate:
 
 1. **Prepare the required info/documents**<br>
