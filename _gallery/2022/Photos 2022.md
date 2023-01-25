@@ -4,3 +4,8 @@ permalink: /gallery/2022/photos/
 description: ""
 third_nav_title: "2022"
 ---
+![PSTA 2022 Gallery Photo 1](/images/Photos%202022/2022-photo-1.jpg)
+
+![PSTA 2022 Gallery Photo 2](/images/Photos%202022/2022-photo-2.jpg)
+
+![PSTA 2022 Gallery Photo 3](/images/Photos%202022/2022-photo-3.jpg)
