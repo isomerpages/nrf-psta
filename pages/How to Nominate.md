@@ -6,7 +6,7 @@ description: ""
 ### Get Ready to Nominate:
 
 1. **Prepare the required info/documents**<br>
-* Instructions can be downloaded here. (hyperlink to downloadable PDF/)<br>
+* Instructions can be downloaded <u>here.</u> (hyperlink to downloadable PDF/)<br>
 * <b><u>Do NOT fill up the PDF;</u></b> only the electronic Nomination Form will be accepted<br>
 
 2. **SingPass login is required to verify the authenticity of submissions**<br><br>
