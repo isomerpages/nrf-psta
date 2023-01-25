@@ -3,7 +3,7 @@ title: How to Nominate
 permalink: /about/how-to-nominate/
 description: ""
 ---
-## Get Ready to Nominate:
+### Get Ready to Nominate:
 
 1. **Prepare the required info/documents**<br>
 * Instructions can be downloaded here. (hyperlink to downloadable PDF/)<br>
