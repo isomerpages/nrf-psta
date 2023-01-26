@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore's most outstanding in research & innovation
-      button: NOMINATE NOW
+      button: HOW TO NOMINATE
       url: /Nominate/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
@@ -18,7 +18,7 @@ sections:
         of innovation. Their passion and talent for science and technology have
         inspired the scientific community and shaped Singapore’s research,
         innovation and enterprise landscape.
-      button: nominate now
+      button: HOW TO NOMINATE
       url: /Nominate/
   - infopic:
       title: '"After 30 years, I am very proud to have been part of Singapore’s
