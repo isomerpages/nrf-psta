@@ -13,7 +13,7 @@ locations:
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
-        time: 8.30am - 12.00pm
+        time: Closed
         description: ""
     maps_link: ""
     title: Mailing Address
