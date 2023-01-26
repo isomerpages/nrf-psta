@@ -3,10 +3,7 @@ title: Terms of Participation
 permalink: /terms-of-participation/
 description: ""
 ---
-
-
-
-**PRESIDENT’S SCIENCE AND TECHNOLOGY AWARDS TERMS OF PARTICIPATION**
+### **PRESIDENT’S SCIENCE AND TECHNOLOGY AWARDS TERMS OF PARTICIPATION**
 
 ***PLEASE READ THESE TERMS OF PARTICIPATION CAREFULLY***
 
@@ -18,7 +15,7 @@ description: ""
 6.  Submitted nominations with content deemed as irrelevant or offensive by NRF, the PSTA Secretariat or the PSTA judging panel(s) will at their sole discretion, be removed and rendered disqualified.
 7.  By participating in the PSTA awards through submitting/consenting to be nominated, the Nominee shall be deemed to have accepted and agreed to be bound by all these PSTA Terms of Participation set out herein, which are made available at the Website. NRF/the PSTA Secretariat shall have the sole discretion at any time to postpone or change any date or venue, or to revise any rules, terms and/or conditions relating to the PSTA awards, including the Terms of Participation, by posting the same on the Website and the Nominees shall be bound by any such revisions. If the PSTA awards is, for any reason whatsoever, not capable of proceeding as planned, NRF/PSTA Secretariat reserves the right in its sole discretion to cancel, postpone, or modify the PSTA awards without assigning any reason.
 
-*PSTA Awards Nomination Period*
+#### PSTA Awards Nomination Period
 
 8. PSTA awards submission begins on the Submission Start Date and ends on the Submission End Date stated under each award at the Awards Page of the Website. NRF/PSTA Secretariat reserves the right to extend the deadline for submission if required and also reserves the right not to consider any late submissions.
 
