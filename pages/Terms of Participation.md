@@ -3,9 +3,6 @@ title: Terms of Participation
 permalink: /terms-of-use/
 description: ""
 ---
-
-
-
 **PRESIDENT’S SCIENCE AND TECHNOLOGY AWARDS TERMS OF PARTICIPATION**
 
 ***PLEASE READ THESE TERMS OF PARTICIPATION CAREFULLY***
