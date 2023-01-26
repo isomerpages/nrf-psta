@@ -18,6 +18,6 @@ Instructions can be downloaded here:<br>
 * You will <b><u>not</u></b> be able to save and continue later, or make changes after submission<br>
 
 ##### All set? Click below to submit your nomination.
-<p><a href="https://form.gov.sg/">
+<p><a href="https://go.gov.sg/psta2023-nomination">
 <img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
 </a></p>
