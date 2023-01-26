@@ -32,18 +32,17 @@ Awarded to individuals or teams for outstanding contributions that have had a tr
 
 ##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/badge-pta.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
-Awarded to individuals or teams for outstanding contributions to R&D resulting in significant new technology or innovative use of established technology
+Awarded to individuals or teams for outstanding contributions that have led to transformative changes in the use or potential of technology.
 <br><br>Nominees are evaluated on:<br>
-1. **Significance of Achievements**<br>
-* Pioneering developments with potential or established industrial or commercial applications
-2. **Impact of Contributions**<br><br>
-Potential and actual value on industry or the economy in:
-* Addressing unmet user needs;
-* Creating new / growing existing industry sectors; or
-* Creating a new business, or securing a new product charter, for an existing company in Singapore
-3. **Other general considerations**<br>	
-* E.g. originality, vision, extent of validation, entrepreneurial spirit, management and organisational skills
-<br><br>
+1. **Impact of Contributions**<br>
+* Accomplishments and contributions are acknowledged by other S&T practitioners as resulting from deep innovative input or ingenuity, marking a turning point for that technology’s use or potential, with significant impact on society
+* While the relevant technology need not be fully adopted or deployed at the point of nomination, it must have progressed beyond academic or theoretical potential, and be in the process of translation by industry or adoption by end-users
+2. **Includes, but is not restricted to, individual breakthroughs or a collective body of R&D work that has led to:**<br>
+* Overcoming key obstacles that unlocked an impactful technology’s potential
+* Significantly advancing the state-of-the-art performance of an impactful technology
+* Innovative application of existing technology in a new, impactful way
+* Demonstrating a technology that disrupts the industry’s status quo
+<br><br><br>
 
 ##### **Young Scientist Award (YSA)**
 <img src="/images/Award%20Badges/badge-yas.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
