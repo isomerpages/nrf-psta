@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: Closed
-        description: ""
     maps_link: ""
     title: Mailing Address
 contacts:
