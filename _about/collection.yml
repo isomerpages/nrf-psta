@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - About the PSTA.md
+      - The Awards.md
+      - History of the Awards.md
+      - About NRF.md

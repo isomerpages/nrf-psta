@@ -1,0 +1,8 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Gallery/.keep
+      - Gallery/2022 (sub folder required).md
+      - Gallery/2021 (sub folder required).md
+      - Gallery/2020 (sub folder required).md

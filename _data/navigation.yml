@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logos/psta-logo-vfc.png
 links:
-  - title: Contact Us
+  - title: About
+    collection: about
+  - title: Nominate
+    url: /Nominate/
+  - title: Winners
+    collection: winners
+  - title: Gallery
+    collection: gallery
+  - title: Resources
+    resource_room: true
+  - title: FAQ
+    url: /faq/
+  - title: Contact
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

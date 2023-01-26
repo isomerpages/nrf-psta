@@ -1,0 +1,6 @@
+collections:
+  unused:
+    output: true
+    order:
+      - Privacy Statement dummy.md
+      - Terms of Use dummy.md
