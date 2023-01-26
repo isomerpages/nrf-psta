@@ -6,10 +6,10 @@ description: ""
 ### Get Ready to Nominate:
 
 1. **Prepare the required info/documents**<br><br>
-Instructions can be downloaded here:<br>
+Instructions can be downloaded here:<br><b>
 * [PSTM](https://go.gov.sg/pstm-nomination-form-2023)
 * [PSA](https://go.gov.sg/psa-nomination-form-2023)
-* [PTA](https://go.gov.sg/pta-nomination-form-2023)
+* [PTA](https://go.gov.sg/pta-nomination-form-2023)</b>
 * <b><u>Do NOT fill up the PDF;</u></b> only the electronic Nomination Form will be accepted<br>
 
 2. **SingPass login is required to verify the authenticity of submissions**<br><br>
