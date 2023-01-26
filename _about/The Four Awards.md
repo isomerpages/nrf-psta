@@ -5,29 +5,30 @@ description: ""
 ---
 ##### **President's Science and Technology Medal (PSTM)**
 <img src="/images/Award%20Badges/badge-pstm.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
-Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in the development of Singapore through the promotion and management of R&D
+Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in advancing Singapore’s development through promotion and management of science and technology (S&T).<br><br>
+The PSTM is not meant to recognise research accomplishments or contributes to advancing individual technologies, as these are awarded under the PSA and PTA respectively.
 <br><br>Nominees are evaluated on:<br>
 1. **Impact of Contributions**<br>
-* Significant scientific, technological or economic benefits for Singapore, including enhancing Singapore’s scientific and research environment, national competitiveness, national policies and structures or breakthroughs in scientific / technological discoveries and innovations<br>
-2. **Research Leadership**<br>
-* Contributions at both the institutional and individual levels
-3. **Other general considerations**<br>
-<br><br>
-
+* Accomplishments and contributions are acknowledged by the S&T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature<br>
+2. **Examples include, but are not restricted to**<br>
+* Driving or pioneering the establishment of an important field of study in Singapore
+* Providing instrumental leadership in raising a Singapore S&T institution to world-class status
+* Exceptional contributions that boosted the capabilities or international stature of Singapore’s S&T
+<br><br><br>
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/badge-pas.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
-Awarded to individuals or teams for outstanding contributions in basic research leading to the discovery of new knowledge, or pioneering the development of scientific or engineering techniques and methods
+
+Awarded to individuals or teams for outstanding contributions that have had a transformative effect on one or more S&T fields.
 <br><br>Nominees are evaluated on:<br>
-1. **Significance of Achievements**<br>
-* Furthering current understanding of science
-* Opening a new field of scientific enquiry
-* Solving important scientific questions<br>
-2. **Impact of Contributions**<br>
-* Development of scientific thought in the field
-* Exceptional significance to the development of possible solutions to important industrial, environmental and/or social needs
-3. **Other general considerations**<br>	
-* E.g. vision, scientific rigour and integrity in validation
-<br><br>
+1. **Impact of Contributions**<br>
+* Accomplishments and contributions are acknowledged by other S&T practitioners as being significant and impactful to their field
+* Contributions need not have led to practical applications or products
+2. **Includes, but is not restricted to, individual discoveries or a collective body of research work that has led to:**<br>
+* Spawning or enabling new avenues of study
+* Revolutionising or significantly advancing the research methodology of a field
+* Significantly advancing or overturning our previous understanding of a field
+* Potential for significant scientific or industrial application
+<br><br><br>
 
 ##### **President’s Technology Award (PTA)**
 <img src="/images/Award%20Badges/badge-pta.png" alt="President’s Technology Award (PTA)" style="width:450px"/><br>
