@@ -45,7 +45,7 @@ Awarded to individuals or teams for outstanding contributions that have led to t
 
 ##### **Young Scientist Award (YSA)**
 <img src="/images/Award%20Badges/badge-yas.png" alt="Young Scientist Awards (YSA)" style="width:450px"/><br>
-Awarded to researchers aged 35 years and below, who are actively engaged in R&D in Singapore, and who have shown great potential to be world-class researchers in their fields of expertise. This award is administered by the [Singapore National Academy of Science (SNAS)](https://snas.org.sg/young-scientist-award) and supported by the National Research Foundation (NRF).
+Awarded to researchers aged 35 years and below, who are actively engaged in R&D in Singapore, and who have shown great potential to be world-class researchers in their fields of expertise. This award is administered by the [Singapore National Academy of Science (SNAS)](https://snas.org.sg/young-scientist-award) and supported by the National Research Foundation, Singapore (NRF).
 <br><br>There are two categories of Awards, namely:<br>
 * Biological and Biomedical Sciences; and
 * Physical, Information and Engineering Sciences
