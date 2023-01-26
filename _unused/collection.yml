@@ -1,4 +1,5 @@
 collections:
   unused:
     output: true
-    order: []
+    order:
+      - Terms of Use dummy.md
