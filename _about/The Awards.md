@@ -3,7 +3,6 @@ title: The Awards
 permalink: /about/awards/
 description: ""
 ---
-
 ##### **President's Science and Technology Medal (PSTM)**
 <img src="/images/Award%20Badges/badge-pstm.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
 Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in advancing Singapore’s development through promotion and management of science and technology (S&T).<br><br>
@@ -11,7 +10,7 @@ The PSTM is not meant to recognise research accomplishments or contributes to ad
 <br><br>Nominees are evaluated on:<br>
 1. **Impact of Contributions**<br>
 * Accomplishments and contributions are acknowledged by the S&T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature<br>
-2. **Examples include, but are not restricted to**<br>
+2. **Examples include, but are not restricted to:**<br>
 * Driving or pioneering the establishment of an important field of study in Singapore
 * Providing instrumental leadership in raising a Singapore S&T institution to world-class status
 * Exceptional contributions that boosted the capabilities or international stature of Singapore’s S&T
