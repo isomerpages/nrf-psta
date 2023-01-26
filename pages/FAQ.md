@@ -15,7 +15,7 @@ The **President’s Science Award (PSA)** recognises accomplishments that have h
 
 The **President’s Technology Award (PTA)** recognises accomplishments that have led to transformative changes in the use or potential of technology. These accomplishments are generally acknowledged by other S&T practitioners as resulting from deep innovative input or ingenuity, marking a turning point for that technology's use or potential with a significant impact on the industry.
 
-Click [here](https://www.psta.gov.sg/about/awards/)    [here](/about/awards/)for more info.
+Click [here](/about/awards/) for more info.
 
 #### Can I nominate myself for an award, and if so, how can I do so?
 
