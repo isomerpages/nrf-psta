@@ -15,6 +15,7 @@ The PSTM is not meant to recognise research accomplishments or contributes to ad
 * Providing instrumental leadership in raising a Singapore S&T institution to world-class status
 * Exceptional contributions that boosted the capabilities or international stature of Singapore’s S&T
 <br><br><br>
+
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/badge-pas.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
 Awarded to individuals or teams for outstanding contributions that have had a transformative effect on one or more S&T fields.
