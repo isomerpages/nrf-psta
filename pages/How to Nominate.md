@@ -13,7 +13,7 @@ You may refer to the soft copies of the nomination forms below. These will provi
 * Please <b><u>Do NOT fill up the PDF;</u></b> only the electronic Nomination Form via the link below will be accepted.<br>
 
 2. **SingPass login is required to verify the authenticity of submissions**<br>
-Should you encounter any issues, please email us at secretariat[at]psta.gov.sg
+Should you encounter any issues, please email us at secretariat[at]psta.sg
 <br>
 
 3. **Please fill the Nomination Form accurately and completely in one sitting**<br>
