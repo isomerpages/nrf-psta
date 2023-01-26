@@ -24,7 +24,7 @@ Should you encounter any issues, please email us at secretariat[at]psta.gov.sg
 <img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
 </a></p>
 <br>
-The consent to use personal data and the terms of participation is laid out in:
+<i>The consent to use personal data and the terms of participation is laid out in:
 
 * [Privacy Statement](https://www.psta.gov.sg/privacy-statement/)
 * [Terms of Participation](https://www.psta.gov.sg/terms-of-participation/)
