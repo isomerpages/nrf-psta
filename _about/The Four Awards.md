@@ -17,7 +17,6 @@ The PSTM is not meant to recognise research accomplishments or contributes to ad
 <br><br><br>
 ##### **President's Science Award (PSA)**
 <img src="/images/Award%20Badges/badge-pas.png" alt="President's Science Award (PSA)" style="width:450px"/><br>
-
 Awarded to individuals or teams for outstanding contributions that have had a transformative effect on one or more S&T fields.
 <br><br>Nominees are evaluated on:<br>
 1. **Impact of Contributions**<br>
