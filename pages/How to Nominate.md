@@ -23,5 +23,5 @@ Should you encounter any issues, please email us at secretariat[at]psta.sg
 <br>
 <i>The consent to use personal data and the terms of participation is laid out in:
 
-* [Privacy Statement](/privacy-statement/)
+* [Privacy Statement](/privacy/)
 * [Terms of Participation](/terms-of-use/)
