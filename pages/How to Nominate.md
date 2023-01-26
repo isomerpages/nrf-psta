@@ -6,7 +6,7 @@ description: ""
 ### Get Ready to Nominate:
 
 1. **Prepare the required info/documents**<br><br>
-Instructions can be downloaded here:<br>
+Instructions can be downloaded here:
 * [PSTM](https://go.gov.sg/pstm-nomination-form-2023)
 * [PSA](https://go.gov.sg/psa-nomination-form-2023)
 * [PTA](https://go.gov.sg/pta-nomination-form-2023)
