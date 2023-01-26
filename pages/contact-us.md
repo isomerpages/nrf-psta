@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6566 8429
-      - email: communications@nrf.gov.sg
+      - email: secretariat@psta.sg
       - other: ""
     title: General Enquiries
 ---
