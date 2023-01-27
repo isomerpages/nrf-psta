@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: President's Science and Technology Awards (PSTA)
+title: President's Science & Technology Awards (PSTA)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -64,3 +64,4 @@ sections:
       button: NOMINATIONS FOR PSTA NOW OPEN
       url: /Nominate/
 ---
+
