@@ -8,8 +8,8 @@ description: ""
 1. **Download and complete the soft copy documents**<br>
 Please download and complete the appropriate forms via the links below. You are required to upload the completed soft copy forms into the Nomination Portal.
 * [President's Science & Technology Award (PSTM)](https://go.gov.sg/pstm-nomination-form-2023)
-* [PSA](https://go.gov.sg/psa-nomination-form-2023)
-* [PTA](https://go.gov.sg/pta-nomination-form-2023)
+* [President's Science Award (PSA)](https://go.gov.sg/psa-nomination-form-2023)
+* [President's Technology Award (PTA)](https://go.gov.sg/pta-nomination-form-2023)
 * *Note: For the PSA and PTA forms, please ensure the nominees sign the <b><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></b> section in the forms. Two signatures are required and we accept digital or electronic signatures.*<br><br>
 
 2. **SingPass login is required to access the Nomination Portal**<br>
