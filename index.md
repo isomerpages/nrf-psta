@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: President's Science and Technology Awards (PSTA)
-description: An Isomer site of the Singapore Government
+title: President's Science & Technology Awards (PSTA)
+description: The President's Science & Technology Awards (PSTA) are Singapore's
+  top accolades for research and innovation, recognising top scientific talent
+  and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -64,3 +66,5 @@ sections:
       button: NOMINATIONS FOR PSTA NOW OPEN
       url: /Nominate/
 ---
+
+

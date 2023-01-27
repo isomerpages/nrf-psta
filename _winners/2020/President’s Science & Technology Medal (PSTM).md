@@ -1,9 +1,10 @@
 ---
-title: President’s Science and Technology Medal (PSTM)
+title: President’s Science & Technology Medal (PSTM)
 permalink: /winners/2020/pstm/
 description: ""
 third_nav_title: "2020"
 ---
+
 <img src="/images/Winners/2020/PSTM-Prof%20Ranga.jpg" alt="Professor Ranga Rama Krishnan" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Ranga Rama Krishnan**
 <b>Chairman,</b> National Medical Research Council<br>

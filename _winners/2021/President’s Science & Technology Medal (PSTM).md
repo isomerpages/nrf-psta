@@ -1,5 +1,5 @@
 ---
-title: President’s Science and Technology Medal (PSTM)
+title: President’s Science & Technology Medal (PSTM)
 permalink: /winners/2021/pstm/
 third_nav_title: "2021"
 description: ""

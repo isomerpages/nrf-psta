@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: President's Science and Technology Awards (PSTA)
+agency_name: President's Science & Technology Awards (PSTA)
 locations:
   - address:
       - 1 CREATE Way

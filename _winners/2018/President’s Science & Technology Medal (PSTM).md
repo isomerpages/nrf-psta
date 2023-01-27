@@ -1,9 +1,10 @@
 ---
-title: President’s Science And Technology Medal (PSTM)
+title: President’s Science & Technology Medal (PSTM)
 permalink: /winners/2018/pstm/
 description: ""
 third_nav_title: "2018"
 ---
+
 ### **Professor Lam Khin Yong**
 
 <b>Vice President (Research),</b> Nanyang Technological University, Singapore

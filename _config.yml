@@ -1,4 +1,4 @@
-title: President's Science and Technology Awards (PSTA)
+title: President's Science & Technology Awards (PSTA)
 url: https://www.psta.gov.sg
 favicon: /images/Logos/PSTA Favicon.svg
 colors:
@@ -15,7 +15,9 @@ colors:
       color: "#005cc4"
     - title: media-color-five
       color: "#5c05b2"
-description: An Isomer site of the Singapore Government
+description: The President's Science & Technology Awards (PSTA) are Singapore's
+  top accolades for research and innovation, recognising top scientific talent
+  and inspiring the next generation.
 permalink: none
 baseurl: ""
 exclude:
