@@ -3,7 +3,7 @@ title: The Awards
 permalink: /about/awards/
 description: ""
 ---
-##### **President's Science and Technology Medal (PSTM)**
+##### **President's Science & Technology Medal (PSTM)**
 <img src="/images/Award%20Badges/badge-pstm.png" alt="President’s Science And Technology Medal (PSTM)" style="width:450px"/><br>
 Awarded to individuals who have made distinguished, sustained and exceptional contributions, and played a strategic role in advancing Singapore’s development through promotion and management of science and technology (S&T).<br><br>
 The PSTM is not meant to recognise research accomplishments or contributes to advancing individual technologies, as these are awarded under the PSA and PTA respectively.
