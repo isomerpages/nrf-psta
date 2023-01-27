@@ -11,10 +11,10 @@ Please download and complete the appropriate forms via the links below. You are 
 * [PSA](https://go.gov.sg/psa-nomination-form-2023)
 * [PTA](https://go.gov.sg/pta-nomination-form-2023)
 
-*Note: For the PSA and PTA forms, please ensure the nominees sign the <b><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></b> section in the forms. Two signatures are required and we accept digital or electronic signatures.<br>
+*Note: For the PSA and PTA forms, please ensure the nominees sign the <b><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></b> section in the forms. Two signatures are required and we accept digital or electronic signatures.*<br><br>
 
 2. **SingPass login is required to access the Nomination Portal**<br>
-Should you encounter any issues, please email us at secretariat[at]psta.sg
+Should you encounter any issues, please email us at <u>secretariat[at]psta.sg</u>
 <br>
 
 ##### All set? Click below to submit your nomination. #####
