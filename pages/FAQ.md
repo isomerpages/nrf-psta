@@ -3,7 +3,7 @@ title: FAQ
 permalink: /faq/
 description: ""
 ---
-#### When does the nomination periond start and end?
+#### When does the nomination period start and end?
 
 The nomination period for the <b>President’s Science & Technology Awards (PSTA)</b> 2023 runs from 25 January 2023 to 31 March 2023.
 
