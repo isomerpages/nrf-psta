@@ -4,7 +4,6 @@ permalink: /winners/2021/pstm/
 third_nav_title: "2021"
 description: ""
 ---
-
 <img src="/images/Winners/2021/Ivy%20Ng.png" alt="Professor Wang Rong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Ivy Ng**
 <b>Group CEO,</b> SingHealth<br>
