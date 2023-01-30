@@ -10,7 +10,7 @@ third_nav_title: "2020"
 
 <b>Deputy Executive Director,</b> Genome Institute of Singapore, Agency for Science, Technology and Research<br> <b>Professor,</b> Yong Loo Lin School of Medicine, National University of Singapore (NUS) 
 
-<b>“For his outstanding contributions to genetic studies of Asian populations, which has advanced biomedical research and precision medicine, and benefited clinical practice in the prevention of diseases and adverse drug responses”</b>
+<b>“For his outstanding contributions to genetic studies of Asian populations, which has advanced biomedical research and precision medicine, and benefited clinical practice in the prevention of diseases and adverse drug responses” </b> [Download Full Citation](/files/Citations/2020/2020-psa-professor-liu-jianjun.pdf)
 <br><br><br>
 <img src="/images/Winners/2020/PSA-Team.jpg" alt="Prof Nikolay I. Zheludev / Asso Prof Chong Yidong / Asso Prof Zhang Baile" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### **Professor Nikolay I. Zheludev**
