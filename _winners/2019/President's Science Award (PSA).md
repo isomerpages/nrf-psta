@@ -37,5 +37,5 @@ Head,</b> Paediatric and Strabismus Service, Singapore National Eye Centre & KK 
 <b>Senior Partner,</b> Eye & Retina Surgeons, Camden Medical Centre<br>
 <br>
 <b>“For their dedicated research spanning over three decades in the field of myopia, which resulted in public health strategies and interventional myopia control therapies which help decrease the rates of myopia/high myopia, and myopia-related blindness in Singapore”</b>
-[Download Full Citation](/files/Citations/2021/PSA%202021_Prof%20Chen%20Xiaodong.pdf)
+[Download Full Citation](/files/Citations/2019/2019-psa-asso-prof-audry-chua-team.pdf)
 <br><br><br>
