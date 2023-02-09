@@ -2,7 +2,6 @@ collections:
   winners:
     output: true
     order:
-      - 2014/.keep
       - 2022/.keep
       - 2022/President’s Science & Technology Medal (PSTM).md
       - 2022/President’s Technology Award (PTA).md
@@ -35,3 +34,4 @@ collections:
       - 2015/President’s Science & Technology Medal (PSTM).md
       - 2015/President's Science Award (PSA).md
       - 2015/President's Technology Award (PTA).md
+      - 2014/.keep
