@@ -4,6 +4,7 @@ permalink: /winners/2018/pstm/
 description: ""
 third_nav_title: "2018"
 ---
+<img src="/images/Winners/2018/pstm-prof-lam-khinyong.jpg" alt="Professor Lam Khin Yong" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br>
 
 ### **Professor Lam Khin Yong**
 
@@ -12,6 +13,8 @@ third_nav_title: "2018"
 <b>“For his dedication to fostering scientific talent and shaping the research landscape in Singapore, and his deep commitment to advancing close collaboration between academia and industry, which have profoundly influenced Singapore’s development into a thriving research hub”</b>
 [Download Full Citation](/files/Citations/2018/2018-pstm-professor-lam-khin-yong.pdf)
 <br><br><br>
+
+<img src="/images/Winners/2018/pstm-prof-judith-swain.jpg" alt="Professor Judith L. Swain" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br>
 
 ### **Professor Judith L. Swain**
 
