@@ -4,7 +4,7 @@ permalink: /winners/2016/pstm/
 description: ""
 third_nav_title: "2016"
 ---
-<img src="/images/Winners/2016/pstm-prof-bertil-andersson.jpg" alt="Professor Bertil ANDERSSON" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2016/pstm-prof-bertil-andersson.jpg" alt="Professor Bertil ANDERSSON" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
 ### **Professor Bertil ANDERSSON**
 <b>President,</b> Nanyang Technological University
 
