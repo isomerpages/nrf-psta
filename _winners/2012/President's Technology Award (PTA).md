@@ -8,11 +8,11 @@ third_nav_title: "2012"
 
 ### **Associate Professor Louis Phee**  
 
-School of Mechanical & Aerospace Engineering 
+School of Mechanical & Aerospace Engineering<br> 
 Nanyang Technological University
 
 ### **Professor Lawrence Ho Khek Yu**
-Department of Gastroenterology & Hepatology
+Department of Gastroenterology & Hepatology<br>
 National University of Singapore
 
 <b>“For the development of a novel flexible endoscopic robotic system that enables intricate surgical procedures to be performed without the need for external incisions”</b> [Download Full Citation](/files/Citations/2012/2012-pta-Professor Louis Phee and Team.pdf)
