@@ -10,5 +10,5 @@ third_nav_title: "2014"
 <b>Chief Executive,</b> National University Health System<br>
 <b>Senior Vice President (Health Affairs),</b> National University of Singapore
 
-<b>“For his outstanding contributions to the scientific research and biomedical science communities, and his visionary leadership in healthcare and medical sciences in Singapore”</b><br><br><br>[Download Full Citation](/files/Citations/2014/2014-pstm-Professor John Eu.pdf)
+<b>“For his outstanding contributions to the scientific research and biomedical science communities, and his visionary leadership in healthcare and medical sciences in Singapore”</b><br><br>[Download Full Citation](/files/Citations/2014/2014-pstm-Professor John Eu.pdf)
 <br>
