@@ -4,7 +4,7 @@ permalink: /winners/2018/pstm/
 description: ""
 third_nav_title: "2018"
 ---
-<img src="/images/Winners/2018/pstm-prof-lam-khinyong.jpg" alt="Professor Lam Khin Yong" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/Winners/2018/pstm-prof-lam-khinyong.jpg" alt="Professor Lam Khin Yong" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
 
 ### **Professor Lam Khin Yong**
 
@@ -14,7 +14,7 @@ third_nav_title: "2018"
 [Download Full Citation](/files/Citations/2018/2018-pstm-professor-lam-khin-yong.pdf)
 <br><br><br>
 
-<img src="/images/Winners/2018/pstm-prof-judith-swain.jpg" alt="Professor Judith L. Swain" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/Winners/2018/pstm-prof-judith-swain.jpg" alt="Professor Judith L. Swain" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
 
 ### **Professor Judith L. Swain**
 
