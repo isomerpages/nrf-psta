@@ -19,7 +19,8 @@ third_nav_title: "2018"
 ### **Professor Judith L. Swain**
 
 <b>Visiting Professor,</b> Yong Loo Lin School of Medicine, National University of Singapore<br>
-<b>Founding Executive Director (Emeritus),</b> Singapore Institute for Clinical Sciences, Agency for Science, Technology and Research<br>
+<b>Founding Executive Director (Emeritus),</b> Singapore Institute for Clinical Sciences, National University of Singapore<br>
+Agency for Science, Technology and Research<br>
 <b>Chief Medical Officer,</b> Physiowave Inc.
 
 <b>“For her outstanding contributions in leading the development of translational and clinical research, nurturing of scientific talent, and facilitating closer interactions between universities, hospital systems, and research institutes, which raised Singapore’s international reputation in biomedical research and economic development”</b>
