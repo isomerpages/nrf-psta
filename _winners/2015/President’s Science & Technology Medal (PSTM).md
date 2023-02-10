@@ -8,5 +8,5 @@ third_nav_title: "2015"
 ### **Tan Gee Paw**
 <b>Chairman,</b> PUB Singapore<br>
 
-<b>“For his pivotal role in harnessing science and technology to enable Singapore to achieve sustainable water supply, and to become a global water hub. He formulated Singapore’s first water master plan in 1972 and played a central role in the development of Singapore’s NEWater and desalination capabilities. His outstanding leadership in Singapore’s water R&D effort has made a profound impact on water sustainability, and spawned a thriving water and environment research, development and industry ecosystem in Singapore.”</b>
+<b>“For his pivotal role in harnessing science and technology to enable Singapore to achieve sustainable water supply, and to become a global water hub. He formulated Singapore’s first water master plan in 1972 and played a central role in the development of Singapore’s NEWater and desalination capabilities. His outstanding leadership in Singapore’s water R&D effort has made a profound impact on water sustainability, and spawned a thriving water and environment research, development and industry ecosystem in Singapore.”</b><br><br><br>
 [Download Full Citation](/files/Citations/2015/2015-pstm-Tan Gee Paw.pdf)
