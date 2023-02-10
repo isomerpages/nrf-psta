@@ -4,7 +4,7 @@ permalink: /winners/2015/pstm/
 description: ""
 third_nav_title: "2015"
 ---
-<img src="/images/Winners/2015/pstm-tan-gee-paw.jpg" alt="Tan Gee Paw" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2015/pstm-tan-gee-paw.jpg" alt="Tan Gee Paw" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
 ### **Tan Gee Paw**
 <b>Chairman,</b> PUB Singapore<br>
 
