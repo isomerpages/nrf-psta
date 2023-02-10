@@ -11,5 +11,5 @@ third_nav_title: "2009"
 <b>Executive Director,</b> A*STAR Graduate Academy<br>
 Agency for Science, Technology and Research
 
-<b>“For her sustained, distinguished and strategic contributions to Singapore’s Biomedical Sciences landscape particularly in the areas of developing the biologics industry sector, building the research culture and nurturing young talent"</b><br><br>[Download Full Citation](/files/Citations/2009/2009-pta-Mr Goh Szu Huat and Team.pdf)
+<b>“For her sustained, distinguished and strategic contributions to Singapore’s Biomedical Sciences landscape particularly in the areas of developing the biologics industry sector, building the research culture and nurturing young talent"</b><br><br>[Download Full Citation](/files/Citations/2009/2009-pstm-Professor Miranda Yap.pdf)
 <br>
