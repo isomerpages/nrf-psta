@@ -4,7 +4,9 @@ permalink: /winners/2011/pta/
 description: ""
 third_nav_title: "2011"
 ---
-<img src="/images/Winners/2011/pta-prof-lim-chweeteck.jpg" alt="Professor Lim Chwee Teck" style="width:400px" align="left"/><br><br><br><br><br><br><br><br>
+<img src="/images/Winners/2011/pta-prof-lim-chweeteck.jpg" alt="Professor Lim Chwee Teck" style="width:400px" align="left"/><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 
 ### **Professor Lim Chwee Teck**  
 
