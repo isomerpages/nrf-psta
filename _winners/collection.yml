@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2012/.keep
       - 2013/.keep
       - 2022/.keep
       - 2022/President’s Science & Technology Medal (PSTM).md
