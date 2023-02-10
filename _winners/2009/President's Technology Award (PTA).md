@@ -22,5 +22,5 @@ SEMICAPS Pte Ltd, Singapore
 Department of Electrical and Computer Engineering, National University of Singapore<br>
 SEMICAPS Pte Ltd, Singapore
 
-<b>“For their outstanding contributions to the research, development and commercialisation of scanning optical microscope systems for design debug and failure analysis of advanced integrated circuits which have been adopted by some of the world’s top semiconductor manufacturers”</b> [Download Full Citation](/files/Citations/2009/2010-pta-Dr Patrick Lo Guo Qiang Liow and Team.pdf)
+<b>“For their outstanding contributions to the research, development and commercialisation of scanning optical microscope systems for design debug and failure analysis of advanced integrated circuits which have been adopted by some of the world’s top semiconductor manufacturers”</b> [Download Full Citation](/files/Citations/2009/2009-pta-Mr Goh Szu Huat and Team.pdf)
 <br><br><br>
