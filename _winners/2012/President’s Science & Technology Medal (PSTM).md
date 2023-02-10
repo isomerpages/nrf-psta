@@ -4,7 +4,8 @@ permalink: /winners/2012/pstm/
 description: ""
 third_nav_title: "2012"
 ---
-<img src="/images/Winners/2012/pstm-prof-dim-lee-kwong.jpg" alt="Professor Dim-Lee Kwong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2012/pstm-prof-dim-lee-kwong.jpg" alt="Professor Dim-Lee Kwong" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
+
 ### **Professor Dim-Lee Kwong**
 <b>Executive Director,</b> Institute of Microelectronics<br>
 Agency for Science, Technology and Research
