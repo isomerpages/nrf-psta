@@ -4,7 +4,7 @@ permalink: /winners/2009/psa/
 description: ""
 third_nav_title: "2009"
 ---
-<img src="/images/Winners/2009/2009-psa-aung-tin-team.jpg" alt="2009 PSA Team" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2009/2009-psa-aung-tin-team.jpg" alt="2009 PSA Team" style="width:400px" align="left"/><br><br><br><br><br><br><br><br>
 ### **Associate Professor Aung Tin**
 Singapore Eye Research Institute, Singapore National Eye Centre<br>
 Yong Loo Lin School of Medicine, National University of Singapore
