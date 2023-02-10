@@ -9,17 +9,17 @@ third_nav_title: "2014"
 ### **Professor Subbu Venkatraman**  
 
 School of Materials Science and Engineering, 
-Nanyang Technological University
+Nanyang Technological University<br>
 Singapore Eye Research Institute
 
 ### **Associate Professor Tina Wong**
-School of Materials Science and Engineering, 
-Nanyang Technological University
+School of Materials Science and Engineering,
+Nanyang Technological University<br>
 Singapore Eye Research Institute
 
 ### **Professor Freddy Boey**
 School of Materials Science and Engineering, 
-Nanyang Technological University
+Nanyang Technological University<br>
 Singapore Eye Research Institute
 
 <b>“For their innovative application of nanostructures and novel drug delivery approach to combat blindness from glaucoma”</b> [Download Full Citation](/files/Citations/2014/2014-pta-Professor Subbu Venkatraman and Team.pdf)
