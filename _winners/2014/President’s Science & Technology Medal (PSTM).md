@@ -4,7 +4,8 @@ permalink: /winners/2014/pstm/
 description: ""
 third_nav_title: "2014"
 ---
-<img src="/images/Winners/2014/pstm-prof-john-eu.jpg" alt="Professor John Eu Li Wong" style="width:400px" align="left"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="/images/Winners/2014/pstm-prof-john-eu.jpg" alt="Professor John Eu Li Wong" style="width:400px" align="left"/><br><br><br><br><br><br><br><br><br><br><br>
+
 ### **Professor John Eu Li Wong**
 <b>Isabel Chan Professor</b> in Medical Sciences<br>
 <b>Chief Executive,</b> National University Health System<br>
