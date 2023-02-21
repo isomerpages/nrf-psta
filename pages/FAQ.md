@@ -9,7 +9,9 @@ The nomination period for the <b>President’s Science & Technology Awards (PSTA
 
 #### What is the difference between the awards?
 
-The **President’s Science & Technology Medal (PSTM)** recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&T. These accomplishments are generally acknowledged by the S&T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature. The PSTM is not meant to recognise research accomplishments or contributions to advancing individual technologies, as these are covered by the PSA and PTA respectively.
+The **President’s Science & Technology Medal (PSTM)** recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&T. 
+
+These accomplishments are generally acknowledged by the S&T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature. The PSTM is not meant to recognise research accomplishments or contributions to advancing individual technologies, as these are covered by the PSA and PTA respectively.
 
 The **President’s Science Award (PSA)** recognises accomplishments that have had a transformative effect on one or more Science & Technology (S&T) fields. These achievements are generally acknowledged by other S&T practitioners as being significant and impactful to their field. However, they need not have led to practical applications or products.
 
