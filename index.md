@@ -15,9 +15,9 @@ sections:
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
       title: The Science & Technology Changemakers
-      description: Over the past 15 years, the President's Science & Technology
-        Awards (PSTA) have honoured more than 60 men and women for their spirit
-        of innovation. Their passion and talent for science and technology have
+      description: Over the past 15 years, the President's Science & Technology Awards
+        (PSTA) have honoured more than 60 men and women for their spirit of
+        innovation. Their passion and talent for science and technology have
         inspired the scientific community and shaped Singapore’s research,
         innovation and enterprise landscape.
       button: HOW TO NOMINATE
@@ -28,7 +28,7 @@ sections:
       subtitle: 2022 PSTM WINNER
       description: Executive Director, Institute of Molecular and Cell Biology,
         A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
-      image: /images/Infopic/infopic-prof-hong-wanjin.png
+      image: /images/Infopic/infopic-prof-hong-wanjin-0215.png
       alt: PROFESSOR HONG WANJIN
       button: Read more
       url: /winners/2022/pstm/
@@ -40,7 +40,7 @@ sections:
         Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
         Technology Pte. Ltd. and Aromatec Pte. Ltd.
       alt: PROFESSOR WANG RONG
-      image: /images/Infopic/infopic-prof-wang-rong.png
+      image: /images/Infopic/infopic-prof-wang-rong-0215.png
       url: /winners/2022/pta/
       button: Read more
   - infopic:
@@ -49,7 +49,7 @@ sections:
       subtitle: 2022 YSA WINNER
       description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
       button: READ MORE
-      image: /images/Infopic/infopic-dr-bi-renzhe.png
+      image: /images/Infopic/infopic-dr-bi-renzhe-0215.png
       alt: DR BI RENZHE
       url: /winners/2022/ysa/
   - infopic:
@@ -59,12 +59,10 @@ sections:
         of Science, NUS
       button: READ MORE
       url: /winners/2022/ysa/
-      image: /images/Infopic/infopic-dr-koh-ming-joo.png
+      image: /images/Infopic/infopic-dr-koh-ming-joo-0215.png
       alt: DR KOH MING JOO
   - infobar:
       title: Who will it be in 2023?
       button: NOMINATIONS FOR PSTA NOW OPEN
       url: /Nominate/
 ---
-
-
