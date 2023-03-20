@@ -66,4 +66,5 @@ sections:
       title: Who will it be in 2023?
       button: NOMINATIONS FOR PSTA NOW OPEN
       url: /Nominate/
+      description: Nominations close 31 March 2023
 ---
