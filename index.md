@@ -13,6 +13,7 @@ sections:
       button: HOW TO NOMINATE
       url: /Nominate/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
+      subtitle: Nominations close 31 March 2023
   - infobar:
       title: The Science & Technology Changemakers
       description: Over the past 15 years, the President's Science & Technology Awards
@@ -65,4 +66,5 @@ sections:
       title: Who will it be in 2023?
       button: NOMINATIONS FOR PSTA NOW OPEN
       url: /Nominate/
+      description: Nominations close 31 March 2023
 ---
