@@ -6,7 +6,7 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: PSTA 2023 Nominations will close on 31 March 2023
 sections:
   - hero:
       title: Singapore's most outstanding in research & innovation
