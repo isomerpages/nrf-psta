@@ -1,4 +1,5 @@
 collections:
   holding-do-not-delete:
     output: true
-    order: []
+    order:
+      - How to Nominate.md
