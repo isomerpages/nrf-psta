@@ -62,7 +62,5 @@ sections:
       alt: DR KOH MING JOO
   - infobar:
       title: Who will it be in 2023?
-      button: NOMINATIONS FOR PSTA NOW OPEN
-      url: /Nominate/
-      description: Nominations close 31 March 2023
+      description: Stay tuned for more details on the PSTA 2023 Awards Ceremony
 ---
