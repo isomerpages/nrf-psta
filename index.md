@@ -10,10 +10,10 @@ notification: PSTA 2023 Nominations will close on 31 March 2023
 sections:
   - hero:
       title: Singapore's most outstanding in research & innovation
-      button: HOW TO NOMINATE
-      url: /Nominate/
+      button: CONTACT US
+      url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
-      subtitle: Nominations close 31 March 2023
+      subtitle: Nominations are now closed
   - infobar:
       title: The Science & Technology Changemakers
       description: Over the past 15 years, the President's Science & Technology Awards
