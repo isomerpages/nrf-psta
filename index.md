@@ -21,8 +21,6 @@ sections:
         innovation. Their passion and talent for science and technology have
         inspired the scientific community and shaped Singapore’s research,
         innovation and enterprise landscape.
-      button: HOW TO NOMINATE
-      url: /Nominate/
   - infopic:
       title: '"After 30 years, I am very proud to have been part of Singapore’s
         biomedical growth.”'
