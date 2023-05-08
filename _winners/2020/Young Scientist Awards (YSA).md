@@ -30,5 +30,3 @@ Principal Investigator, Institute for Health Innovation and Technology, NUS
 
 <b>“For his research in developing innovative wireless healthcare technologies”</b>
 [Download Full Citation](/files/Citations/2020/2020-ysa-dr-john-ho-citation.pdf)
-
-
