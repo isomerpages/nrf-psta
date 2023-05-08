@@ -21,7 +21,7 @@ Yong Loo Lin School of Medicine
 ### **Dr Yvonne Gao**
 
 <b>Presidential Young Professor,</b> Department of Physics, National University of Singapore<br>
-<b>Principal Investigator,</b> Centre for Quantum Technologies,National University of Singapore
+<b>Principal Investigator,</b> Centre for Quantum Technologies, National University of Singapore
 
 <b>“For her work on developing the key hardware building blocks for quantum computers”</b>
 [Download Full Citation](/files/Citations/2021/2021-ysa-dr-yvonne-gao-citation.pdf)
@@ -30,8 +30,7 @@ Yong Loo Lin School of Medicine
 <img align="left" style="width:400px" alt="Dr Zhang Hanwang" src="/images/Winners/2021/2021-ysa-dr-zhang-hanwang.jpg"><br><br><br><br><br><br><br><br><br><br><br>
 ### **Dr Zhang Hanwang**
 
-<b>Assistant Professor,</b> School of Computer Science and Engineering,
-Nanyang Technological University
+<b>Assistant Professor,</b> School of Computer Science and Engineering, Nanyang Technological University
 
 <b>“For his pioneering and fundamental contributions to applied causality in AI”</b>
 [Download Full Citation](/files/Citations/2021/2021-ysa-dr-zhang-hanwang-citation.pdf)
