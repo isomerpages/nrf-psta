@@ -13,7 +13,6 @@ sections:
       button: CONTACT US
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
-      subtitle: Nominations are now closed
   - infobar:
       title: The Science & Technology Changemakers
       description: Over the past 15 years, the President's Science & Technology Awards
