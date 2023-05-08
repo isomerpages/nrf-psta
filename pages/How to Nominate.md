@@ -1,7 +1,8 @@
 ---
 title: How to Nominate
 permalink: /nominate/
-description: President's Science &amp; Technology Awards (PSTA) How to Nominate
+description: President's Science & Technology Awards (PSTA) How to Nominate
 ---
-### **<u>NOTE:</u>**
-##### **As of 1 April, nominations for the 2023 PSTA are now closed. For any enquiries, please email us at &nbsp;<u>secretariat[at]psta.sg</u>**
+##### Nominations for this year’s President’s Science &amp; Technology Awards (PSTA) were held from 25 January 2023 to 31 March 2023, and are now closed. 
+##### Our 2023 winners will be announced at the PSTA Awards Ceremony later this year, so do follow us on Facebook, Instagram, or LinkedIn for the latest updates!
+##### For any enquiries, please email us at <u>secretariat[at]psta.sg</u>**
