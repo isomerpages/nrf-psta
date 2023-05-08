@@ -26,7 +26,7 @@ third_nav_title: "2020"
 
 <b>Assistant Professor,</b> Department of Electrical and Computer Engineering,
 National University of Singapore (NUS)<br>
-Principal Investigator, Institute for Health Innovation and Technology, NUS
+<b>Principal Investigator,</b> Institute for Health Innovation and Technology, NUS
 
 <b>“For his research in developing innovative wireless healthcare technologies”</b>
 [Download Full Citation](/files/Citations/2020/2020-ysa-dr-john-ho-citation.pdf)
