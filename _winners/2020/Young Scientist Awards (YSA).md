@@ -21,4 +21,14 @@ third_nav_title: "2020"
 [Download Full Citation](/files/Citations/2020/2020-ysa-dr-tan-si-hui-citation.pdf)
 <br><br><br>
 ## Physical, Information &amp; Engineering Sciences Category
+<img align="left" style="width:400px" alt="Dr John S Y Ho" src="/images/Winners/2020/2020-ysa-dr-john-ho.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+### **Dr John S Y Ho**
+
+<b>Assistant Professor,</b> Department of Electrical and Computer Engineering,
+National University of Singapore (NUS)<br>
+Principal Investigator, Institute for Health Innovation and Technology, NUS
+
+<b>“For his research in developing innovative wireless healthcare technologies”</b>
+[Download Full Citation](/files/Citations/2020/2020-ysa-dr-john-ho-citation.pdf)
+
 
