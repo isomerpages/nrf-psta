@@ -12,14 +12,12 @@ third_nav_title: "2020"
 
 <b>“For his work in gene editing therapy”</b>
 [Download Full Citation](/files/Citations/2020/2020-ysa-dr-chew-wei-leong-citation.pdf)
-
 <br><br><br>
-	
 <img align="left" style="width:400px" alt="Dr Tan Si Hui" src="/images/Winners/2020/2020-ysa-dr-tan-si-hui.png"><br><br><br><br><br><br><br><br><br><br><br>
 ### **Dr Tan Si Hui**
 <b>Director,</b> Biology, Cargene Therapeutics (Formerly from Agency for Science, Technology and Research)
 
 <b>“For her research on cancer and stem cells for intervention opportunities”</b>
 [Download Full Citation](/files/Citations/2020/2020-ysa-dr-tan-si-hui-citation.pdf)
-
 <br><br><br>
+## Physical, Information &amp; Engineering Sciences Category
