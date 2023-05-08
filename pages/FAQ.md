@@ -6,7 +6,7 @@ description: ""
 #### When does the nomination period start and end?
 
 Nominations for this year’s <b>President’s Science &amp; Technology Awards (PSTA)</b> were held from 25 January 2023 to 31 March 2023, and are now closed.<br><br>
-Our 2023 winners will be announced at the PSTA Awards Ceremony later this year, so do so do follow us on Facebook, Instagram, or LinkedIn for the latest updates.
+Our 2023 winners will be announced at the PSTA Awards Ceremony later this year, so do follow us on [Facebook](https://www.facebook.com/NRF.Singapore/), [Instagram](https://instagram.com/nrfsg), or [Linkedin](https://www.linkedin.com/company/nrfsg/) for the latest updates.
 
 #### What is the difference between the awards?
 
