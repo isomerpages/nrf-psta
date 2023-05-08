@@ -17,3 +17,12 @@ Yong Loo Lin School of Medicine
 [Download Full Citation](/files/Citations/2021/2021-ysa-dr-sarah-lou-citation.pdf)
 <br><br><br>
 ## Physical, Information &amp; Engineering Sciences Category
+<img align="left" style="width:400px" alt="Dr Yvonne Gao" src="/images/Winners/2021/2021-ysa-dr-yvonne-gao.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+### **Dr Yvonne Gao**
+
+<b>Presidential Young Professor,</b> Department of Physics, National University of Singapore<br>
+<b>Principal Investigator,</b> Centre for Quantum Technologies,National University of Singapore
+
+<b>“For her work on developing the key hardware building blocks for quantum computers”</b>
+[Download Full Citation](/files/Citations/2021/2021-ysa-dr-yvonne-gao-citation.pdf)
+<br><br><br>
