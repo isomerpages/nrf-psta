@@ -27,5 +27,3 @@ You can nominate yourself (or your team) for the PSA and the PTA only. Please no
 #### How do I submit a nomination for an award?
 
 You may submit a nomination for any of the three awards, namely the PSA, the PTA and the PSTM. Simply download and complete the relevant award forms, and upload them via the Nomination Portal.
-
-Click [here](/Nominate/) for more info.
