@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Presidents%20foreword/tharman-shanmugaratnam-mockup.jpg" alt="Tharman Shanmugaratnam" style="width:400px" align="left">
+<img src="/images/Presidents%20foreword/tharman-shanmugaratnam-mockup.jpg" alt="Tharman Shanmugaratnam" style="width:450px" align="left">
 <br>
 <br>
 <br>
