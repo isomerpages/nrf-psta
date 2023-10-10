@@ -13,22 +13,26 @@ sections:
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
-      title: The Science & Technology Changemakers
-      description: Over the past 15 years, the President's Science & Technology Awards
-        (PSTA) have honoured more than 60 men and women for their spirit of
-        innovation. Their passion and talent for science and technology have
-        inspired the scientific community and shaped Singapore’s research,
-        innovation and enterprise landscape.
+      title: "National Research Foundation,\x03Singapore (NRF)"
+      description: Nunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean
+        ligula dolor, gravida auctor, auctor et, suscipit in, erat.
+      subtitle: About NRF
+  - infobar:
+      title: Lorem ipsum dolor sit amet consectetuer adipiscing elit
+      subtitle: President's Foreword
+      id: infobar
+      description: Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis
+        vestibulum. Maecenas facilisis elit sed justo.
+      button: Read more
+      url: /resources/foreword2023/permalink/
   - infopic:
-      title: '"After 30 years, I am very proud to have been part of Singapore’s
-        biomedical growth.”'
-      subtitle: 2022 PSTM WINNER
-      description: Executive Director, Institute of Molecular and Cell Biology,
-        A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
-      image: /images/Infopic/infopic-prof-hong-wanjin-0215.png
+      title: “The importance of nurturing the next generation of scien...
+      subtitle: 2023 PSTM WINNER
+      description: Senior R&D Consultant<br>Ministry of Defence
+      image: /images/Infopic/infopic23-qgp.png
       alt: PROFESSOR HONG WANJIN
       button: Read more
-      url: /winners/2022/pstm/
+      url: /winners/2023/pstm/
   - infopic:
       title: “Singapore’s water resilience depends on our ability to produce water
         efficiently.”
