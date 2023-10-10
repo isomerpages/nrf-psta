@@ -62,7 +62,4 @@ sections:
       url: /winners/2022/ysa/
       image: /images/Infopic/infopic-dr-koh-ming-joo-0215.png
       alt: DR KOH MING JOO
-  - infobar:
-      title: Who will it be in 2023?
-      description: Stay tuned for more details on the PSTA 2023 Awards Ceremony
 ---
