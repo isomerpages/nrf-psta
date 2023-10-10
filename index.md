@@ -10,7 +10,6 @@ notification: ""
 sections:
   - hero:
       title: Singapore's most outstanding in research & innovation
-      button: CONTACT US
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
