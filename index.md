@@ -71,7 +71,7 @@ sections:
       image: /images/Infopic/infopic23-sp.png
       alt: Dr Soujanya Poria
   - infopic:
-      title: ”Science is about daring to try new ideas. You try, maybe...
+      title: '"Science is about daring to try new ideas. You try, maybe...'
       subtitle: 2023 YSA winner
       id: infopic
       description: |-
