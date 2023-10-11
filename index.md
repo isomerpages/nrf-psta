@@ -61,12 +61,13 @@ sections:
       alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
-      title: “Organic chemistry was almost like magic to me when I was young.”
-      subtitle: 2022 YSA WINNER
-      description: President’s Assistant Professor, Department of Chemistry, Faculty
-        of Science, NUS
+      title: “I am grateful to be recognised for my research efforts ...
+      subtitle: 2023 YSA WINNER
+      description: |-
+        Assistant Professor, Information Systems Technology and Design<br>
+        Singapore University of Technology and Design
       button: READ MORE
-      url: /winners/2022/ysa/
-      image: /images/Infopic/infopic-dr-koh-ming-joo-0215.png
+      url: /winners/2023/ysa/
+      image: /images/Infopic/infopic23-sp.png
       alt: DR KOH MING JOO
 ---
