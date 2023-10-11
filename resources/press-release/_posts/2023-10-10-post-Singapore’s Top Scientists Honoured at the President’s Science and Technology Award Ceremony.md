@@ -11,9 +11,9 @@ Singapore, 20 October 2023 – The 2023 President’s Science and Technology Awa
 
 This year, awards from three categories were given out:
 
-* President’s Science & Technology Medal (PSTM): Awarded to individuals who have made distinguished, sustained, and exceptional contributions in advancing Singapore’s development through the promotion and management of science and technology (S&T).
-* President’s Science Award (PSA): Awarded to individuals or teams for outstanding contributions that have transformed one or more Science & Technology fields.
-* Young Scientist Award (YSA)1: Awarded to individuals 35 years or under with demonstrable potential to be world-class researchers in their fields of expertise. 
+* **President’s Science & Technology Medal (PSTM):** Awarded to individuals who have made distinguished, sustained, and exceptional contributions in advancing Singapore’s development through the promotion and management of science and technology (S&T).
+* **President’s Science Award (PSA):** Awarded to individuals or teams for outstanding contributions that have transformed one or more Science & Technology fields.
+* **Young Scientist Award (YSA)1:** Awarded to individuals 35 years or under with demonstrable potential to be world-class researchers in their fields of expertise. 
 
 The winners received their awards from President Tharman Shanmugaratnam at the Istana.
 
