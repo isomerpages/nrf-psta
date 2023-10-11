@@ -49,7 +49,7 @@ sections:
       url: /winners/2023/psa/
       button: Read more
   - infopic:
-      title: “By shifting paradigms, we can unlock exciting possibili...
+      title: '"By shifting paradigms, we can unlock exciting possibili...'
       subtitle: 2023 YSA WINNER
       description: >-
         Nanyang Assistant Professor, School of Physical and Mathematical
@@ -61,7 +61,7 @@ sections:
       alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
-      title: “I am grateful to be recognised for my research efforts ...
+      title: '"I am grateful to be recognised for my research efforts ...'
       subtitle: 2023 YSA WINNER
       description: |-
         Assistant Professor, Information Systems Technology and Design<br>
