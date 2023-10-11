@@ -7,11 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-![NRF-logo](/images/Logos/nrf-logo-fc-hr.jpg)
-
-## Singapore’s Top Scientists Honoured at the President’s Science and Technology Award Ceremony
-
-Singapore, 20 October 2023 – The 2023 **President’s Science and Technology Awards (PSTA)** celebrated top talent in Singapore’s material science and space technologies fields earlier this evening. The PSTA is the highest honour conferred upon research scientists and engineers in Singapore whose work has resulted in significant scientific, technological, or economic benefits for the country.
+Singapore, 20 October 2023 – The 2023 **President’s Science &amp; Technology Awards (PSTA)** celebrated top talent in Singapore’s material science and space technologies fields earlier this evening. The PSTA is the highest honour conferred upon research scientists and engineers in Singapore whose work has resulted in significant scientific, technological, or economic benefits for the country.
 
 This year, awards from three categories were given out:
 
