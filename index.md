@@ -69,5 +69,5 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       image: /images/Infopic/infopic23-sp.png
-      alt: DR KOH MING JOO
+      alt: Dr Soujanya Poria
 ---
