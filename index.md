@@ -19,11 +19,11 @@ sections:
         plans and ...
       subtitle: About NRF
   - infobar:
-      title: Lorem ipsum dolor sit amet consectetuer adipiscing elit
+      title: Lorem ipsum dolor sitamet consectetuer adipiscing elit
       subtitle: President's Foreword
       id: infobar
       description: Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis
-        vestibulum. Maecenas facilisis elit sed justo.
+        vestibulum. Maecenas facilisis elit sed justo ...
       button: Read more
       url: /resources/foreword2023/permalink/
   - infopic:
@@ -35,12 +35,16 @@ sections:
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
-      title: “Singapore’s water resilience depends on our ability to produce water
-        efficiently.”
-      subtitle: 2022 PTA WINNER
-      description: President’s Chair in Civil and Environment Engineering, NTU
-        Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
-        Technology Pte. Ltd. and Aromatec Pte. Ltd.
+      title: “It’s this very recognition that fuels my passion in ...
+      subtitle: 2023 PSA WINNER
+      description: >
+        Associate Professor Qiu Cheng-Wei<br>
+
+        Associate Professor, Department of Electrical and Computer Engineering<br>
+
+        Dean’s Chair Professor<br>
+
+        National Univer...
       alt: PROFESSOR WANG RONG
       image: /images/Infopic/infopic-prof-wang-rong-0215.png
       url: /winners/2022/pta/
