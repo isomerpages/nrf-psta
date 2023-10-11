@@ -4,7 +4,7 @@ permalink: /winners/2023/ysa/
 description: ""
 third_nav_title: "2023"
 ---
-## Biological &amp; Biomedical Sciences
+## Biological &amp; Biomedical Sciences Category
 
 ![Dr Tan Yong Zi](/images/Winners/2023/2023-ysa-tyz.jpg)
 ### **Dr Tan Yong Zi**
@@ -19,7 +19,7 @@ National University of Singapore (NUS)<br><br>
 ![2023 YSA Dr Tan Yong Zi](/images/Video%20Thumbnails/youtube-2023-tumb-mockup-tyz.jpg)
 <br><br>
 <br><br>
-## Physical, Information &amp; Engineering Sciences
+## Physical, Information &amp; Engineering Sciences Category
 ![Dr Chang Guoqing](/images/Winners/2023/2023-ysa-cg.jpg)
 ### **Dr Chang Guoqing** 
 
