@@ -68,4 +68,3 @@ Dr Soujanya Poria from SUTD was awarded the Young Scientist Award for his work i
 By combining text, audio, and video data from human interactions, Dr Soujanya and his team have developed AI systems that can understand human intentions and emotions. This helps AI make better decisions, greatly enhancing machine-to-human interactions, and assisting human-to-human understanding.
  
 Dr Poria and his team’s work has led to the development of several multimodal understanding and generative systems, including a text-to-audio AI model that can create sounds from text descriptions, like a dog barking or an audience applauding at a concert.
-
