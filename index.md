@@ -31,7 +31,7 @@ sections:
       subtitle: 2023 PSTM WINNER
       description: Senior R&D Consultant<br>Ministry of Defence
       image: /images/Infopic/infopic23-qgp.png
-      alt: PROFESSOR HONG WANJIN
+      alt: Mr Quek Gim Pew
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
@@ -46,17 +46,20 @@ sections:
         National University of Singapore
       alt: Assoc Prof Qiu Cheng-Wei
       image: /images/Infopic/infopic23-qcw.png
-      url: /winners/2022/pta/
+      url: /winners/2023/psa/
       button: Read more
   - infopic:
-      title: “I hope my contributions would help to make Singapore a hub for medtech
-        innovation.”
-      subtitle: 2022 YSA WINNER
-      description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
+      title: “By shifting paradigms, we can unlock exciting possibili...
+      subtitle: 2023 YSA WINNER
+      description: >-
+        Nanyang Assistant Professor, School of Physical and Mathematical
+        Sciences<br>
+
+        Nanyang Technological University
       button: READ MORE
-      image: /images/Infopic/infopic-dr-bi-renzhe-0215.png
-      alt: DR BI RENZHE
-      url: /winners/2022/ysa/
+      image: /images/Infopic/infopic23-cg.png
+      alt: Dr Chang Guoqing
+      url: /winners/2023/ysa/
   - infopic:
       title: “Organic chemistry was almost like magic to me when I was young.”
       subtitle: 2022 YSA WINNER
