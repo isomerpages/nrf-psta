@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![NRF-logo](/images/Logos/nrf-logo-fc-hr.jpg)
 
 ## Singapore’s Top Scientists Honoured at the President’s Science and Technology Award Ceremony
