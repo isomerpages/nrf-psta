@@ -37,16 +37,15 @@ sections:
   - infopic:
       title: “It’s this very recognition that fuels my passion in ...
       subtitle: 2023 PSA WINNER
-      description: >
-        Associate Professor Qiu Cheng-Wei<br>
-
-        Associate Professor, Department of Electrical and Computer Engineering<br>
+      description: >-
+        Associate Professor, Department of Electrical and Computer
+        Engineering<br>
 
         Dean’s Chair Professor<br>
 
-        National Univer...
+        National University of Singapore
       alt: PROFESSOR WANG RONG
-      image: /images/Infopic/infopic-prof-wang-rong-0215.png
+      image: /images/Infopic/infopic23-qcw.png
       url: /winners/2022/pta/
       button: Read more
   - infopic:
