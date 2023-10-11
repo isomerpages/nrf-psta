@@ -70,4 +70,15 @@ sections:
       url: /winners/2023/ysa/
       image: /images/Infopic/infopic23-sp.png
       alt: Dr Soujanya Poria
+  - infopic:
+      title: ”Science is about daring to try new ideas. You try, maybe...
+      subtitle: 2023 YSA winner
+      id: infopic
+      description: |-
+        Assistant Professor, Department of Biological Sciences<br>
+        National University of Singapore
+      button: READ MORE
+      url: /winners/2023/ysa/
+      image: /images/Infopic/infopic23-tyz.png
+      alt: Dr Tan Yong Zi
 ---
