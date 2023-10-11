@@ -14,8 +14,10 @@ sections:
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
   - infobar:
       title: "National Research Foundation,\x03Singapore (NRF)"
-      description: Nunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean
-        ligula dolor, gravida auctor, auctor et, suscipit in, erat.
+      description: >
+        The National Research Foundation, Singapore (NRF) sets the national
+        direction for research and development (R&D) by developing policies,
+        plans and ...
       subtitle: About NRF
   - infobar:
       title: Lorem ipsum dolor sit amet consectetuer adipiscing elit
