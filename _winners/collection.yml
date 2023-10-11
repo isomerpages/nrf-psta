@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2023/President's Science Award (PSA).md
       - 2023/President’s Science & Technology Medal (PSTM).md
       - 2023/.keep
       - 2022/.keep
