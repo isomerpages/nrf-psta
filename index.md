@@ -44,7 +44,7 @@ sections:
         Dean’s Chair Professor<br>
 
         National University of Singapore
-      alt: PROFESSOR WANG RONG
+      alt: Assoc Prof Qiu Cheng-Wei
       image: /images/Infopic/infopic23-qcw.png
       url: /winners/2022/pta/
       button: Read more
