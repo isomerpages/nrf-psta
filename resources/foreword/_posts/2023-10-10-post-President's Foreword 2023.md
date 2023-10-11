@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Presidents%20foreword/tharman-shanmugaratnam-mockup.jpg" alt="Tharman Shanmugaratnam" style="width:550px" align="left">
+![Mr Tharman Shanmugaratnam](/images/Presidents%20foreword/tharman-shanmugaratnam-mockup.jpg)
 <br>
 <br>
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. 
