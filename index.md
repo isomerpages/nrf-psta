@@ -27,7 +27,7 @@ sections:
       button: Read more
       url: /resources/foreword2023/permalink/
   - infopic:
-      title: '"The importance of nurturing the next generation of scien...'
+      title: '"The importance of nurturing the next generation of ...'
       subtitle: 2023 PSTM WINNER
       description: Senior R&D Consultant<br>Ministry of Defence
       image: /images/Infopic/infopic23-qgp.png
