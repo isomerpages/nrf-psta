@@ -6,14 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
-![Mr Tharman Shanmugaratnam](/images/Presidents%20foreword/tharman-shanmugaratnam-mockup.jpg)
+
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. 
+Our largest global challenges, in addressing shifts in the earth’s environment and future pandemic risks, highlight the criticality of science and technology in finding effective solutions. Singapore’s future too will rest both on the advance of these global solutions, and on its own economic and social development being increasingly enabled by technological innovation.  
 
-Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit. 
+This year, the President's Science and Technology Awards (PSTA) honour individuals who have made exceptional contributions in the fields of material science, quantum mechanics and space technologies. From creating novel materials that could lead to cooler microelectronics and more energy efficient buildings, to enhancing Singapore’s capacity to design and manufacture satellites, these achievements can meaningfully enhance productivity, economic performance and sustainability.
 
-Nunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.
+Our Young Scientist Awardees have also made significant research inroads in natural language processing, quantum materials and membrane proteins associated with human diseases. They point to a bright future for the advancement and use of science and technology in Singapore.
+
+My warmest congratulations to all the award recipients!
  
 ## **Tharman Shanmugaratnam**
 President of the Republic of Singapore
