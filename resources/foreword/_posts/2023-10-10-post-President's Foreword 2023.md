@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<br>
+![President Tharman Shanmugaratnam](/images/Presidents%20foreword/tharman-shanmugaratnam-photo.jpg)<br>
 <br>
 Our largest global challenges, in addressing shifts in the earth’s environment and future pandemic risks, highlight the criticality of science and technology in finding effective solutions. Singapore’s future too will rest both on the advance of these global solutions, and on its own economic and social development being increasingly enabled by technological innovation.  
 
