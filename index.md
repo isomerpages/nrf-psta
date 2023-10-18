@@ -19,11 +19,11 @@ sections:
         plans and ...
       subtitle: About NRF
   - infobar:
-      title: Lorem ipsum dolor sitamet consectetuer adipiscing elit
+      title: Our largest global challenges, in addressing shifts
       subtitle: President's Foreword
       id: infobar
-      description: Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis
-        vestibulum. Maecenas facilisis elit sed justo ...
+      description: in the earth’s environment and future pandemic risks, highlight the
+        criticality of science and technology in finding effective solutions...
       button: Read more
       url: /resources/foreword2023/permalink/
   - infopic:
