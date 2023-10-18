@@ -4,7 +4,6 @@ permalink: /gallery/2023/videos/
 description: ""
 third_nav_title: "2023"
 ---
-![2023 President’s Science and Technology Awards Event Ceremony Highlights](/images/Video%20Thumbnails/youtube-2023-tumb-mockup-main.jpg)
 
 <b>
 2023 President’s Science and Technology Awards (PSTA) Winners
@@ -14,6 +13,6 @@ third_nav_title: "2023"
 
 
 <b>
-2023 President’s Science and Technology Awards (PSTA) Winners
+2023 Young Scientist Awards (YSA) Winners
 </b>
 <br><br>
