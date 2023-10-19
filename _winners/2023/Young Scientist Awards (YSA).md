@@ -24,7 +24,7 @@ National University of Singapore (NUS)<br><br>
 
 <b>Assistant Professor,</b><br>
 School of Physical &amp; Mathematical Sciences<br>
-National Technological University (NTU)<br><br>
+Nanyang Technological University (NTU)<br><br>
 
 **“For his pioneering and illustrious contributions to the discovery of topological quantum semimetals, giving rise to new research avenues and applications in quantum materials and photonics.”**
 [Download Full Citation](/files/Citations/2023/2023-ysa-citation-dr-chang-guoqing.pdf)
