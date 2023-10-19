@@ -35,7 +35,7 @@ sections:
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
-      title: '"It’s this very recognition that fuel my passion in mentoring young researchers."'
+      title: '"It’s this very recognition that fuels my passion in mentoring young researchers."'
       subtitle: 2023 PSA WINNER
       description: >-
         Associate Professor, Department of Electrical and Computer
