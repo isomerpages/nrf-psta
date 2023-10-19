@@ -35,7 +35,8 @@ Nanyang Technological University (NTU)<br><br>
 ![Dr Soujanya Poria](/images/Winners/2023/2023-ysa-sp.jpg)
 ### **Dr Soujanya Poria**
 
-<b>Assistant Professor of Computer Science</b><br>
+<b>Assistant Professo</b><br>
+Information Systems Technology and Design<br>
 Singapore University of Technology and Design (SUTD)<br><br>
 
 **“For his significant contributions in multimodal conversational AI that has gained widespread adoption, and for his outstanding work in affective computing which has been instrumental in multiple practical applications.”**
