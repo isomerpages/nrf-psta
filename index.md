@@ -80,7 +80,7 @@ sections:
       image: /images/Infopic/infopic23-tyz.png
       alt: Dr Tan Yong Zi
   - resources:
-      title: Resources
+      title: Media & Publications
       subtitle: Add a preview and link to your Resource Room
       id: resources
 ---
