@@ -27,7 +27,7 @@ sections:
       button: website
       url: https://www.nrf.gov.sg/
   - infopic:
-      title: '"The importance of nurturing the next generation of ...'
+      title: '"The importance of nurturing the next generation of scientists and engineers cannot be overstated."'
       subtitle: 2023 PSTM WINNER
       description: Senior R&D Consultant<br>Ministry of Defence
       image: /images/Infopic/infopic23-qgp.png
@@ -35,7 +35,7 @@ sections:
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
-      title: "\"It's this very recognition that fuels my passion in ..."
+      title: '"It’s this very recognition that fuel my passion in mentoring young researchers."'
       subtitle: 2023 PSA WINNER
       description: >-
         Associate Professor, Department of Electrical and Computer
@@ -49,7 +49,7 @@ sections:
       url: /winners/2023/psa/
       button: Read more
   - infopic:
-      title: '"By shifting paradigms, we can unlock exciting possibili...'
+      title: '"BBy shifting paradigms, we can unlock exciting possibilities that quantum technologies bring."'
       subtitle: 2023 YSA WINNER
       description: >-
         Nanyang Assistant Professor, School of Physical and Mathematical
@@ -61,7 +61,7 @@ sections:
       alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
-      title: '"I am grateful to be recognised for my research efforts ...'
+      title: '"I am grateful to be recognised for my research efforts in AI for the greater good."'
       subtitle: 2023 YSA WINNER
       description: |-
         Assistant Professor, Information Systems Technology and Design<br>
@@ -71,7 +71,7 @@ sections:
       image: /images/Infopic/infopic23-sp.png
       alt: Dr Soujanya Poria
   - infopic:
-      title: '"Science is about daring to try new ideas. You try, maybe...'
+      title: '"Science is about daring to try new ideas. You try, maybe fail, but then you try again."'
       subtitle: 2023 YSA winner
       id: infopic
       description: |-
