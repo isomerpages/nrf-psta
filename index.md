@@ -81,4 +81,8 @@ sections:
       url: /winners/2023/ysa/
       image: /images/Infopic/infopic23-tyz.png
       alt: Dr Tan Yong Zi
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
