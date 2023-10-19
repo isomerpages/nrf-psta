@@ -49,7 +49,7 @@ sections:
       url: /winners/2023/psa/
       button: Read more
   - infopic:
-      title: '"BBy shifting paradigms, we can unlock exciting possibilities that quantum technologies bring."'
+      title: '"By shifting paradigms, we can unlock exciting possibilities that quantum technologies bring."'
       subtitle: 2023 YSA WINNER
       description: >-
         Nanyang Assistant Professor, School of Physical and Mathematical
