@@ -24,7 +24,7 @@ sections:
       description: National lead that oversees Singapore’s Research and Development
         (R&D) policies, plans, and strategies.
       subtitle: Organiser
-      button: learn more
+      button: website
       url: https://www.nrf.gov.sg/
   - infopic:
       title: '"The importance of nurturing the next generation of ...'
