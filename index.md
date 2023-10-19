@@ -21,9 +21,11 @@ sections:
       url: /resources/foreword2023/permalink/
   - infobar:
       title: National Research Foundation, Singapore (NRF)
-      description: "National lead that oversees Singapore’s Research and Development
-        (R&D) policies, plans, and strategies. "
+      description: National lead that oversees Singapore’s Research and Development
+        (R&D) policies, plans, and strategies.
       subtitle: Organiser
+      button: learn more
+      url: https://www.nrf.gov.sg/
   - infopic:
       title: '"The importance of nurturing the next generation of ...'
       subtitle: 2023 PSTM WINNER
