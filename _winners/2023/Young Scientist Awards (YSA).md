@@ -35,7 +35,7 @@ Nanyang Technological University (NTU)<br><br>
 ![Dr Soujanya Poria](/images/Winners/2023/2023-ysa-sp.jpg)
 ### **Dr Soujanya Poria**
 
-<b>Assistant Professor</b><br>
+<b>Assistant Professor,</b><br>
 Information Systems Technology and Design<br>
 Singapore University of Technology and Design (SUTD)<br><br>
 
