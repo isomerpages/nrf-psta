@@ -16,12 +16,13 @@ sections:
       subtitle: Organised by the National Research Foundation, Singapore (NRF)
   - infopic:
       title: President's Foreword
-      subtitle: Add an image and text
       id: infopic
       description: Foreword by Mr Tharman Shanmugaratnam, President of The Republic of
         Singapore
-      image: /images/president's image v2.jpg
+      image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
+      button: READ MORE
+      url: /resources/foreword2023/permalink/
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
         engineers cannot be overstated."'
