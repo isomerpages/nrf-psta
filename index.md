@@ -82,6 +82,11 @@ sections:
       url: /winners/2023/ysa/
       image: /images/Infopic/infopic23-tyz.png
       alt: Dr Tan Yong Zi
+  - infobar:
+      title: The PSTA is organised by the National Research Foundation
+      id: infobar
+      button: learn more about Nrf here
+      url: https://www.nrf.gov.sg/
   - resources:
       title: Media & Publications
       id: resources
