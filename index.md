@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore's most outstanding in research & innovation
+      title: Singapore’s most prestigious award for research & innovation
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
       variant: center
