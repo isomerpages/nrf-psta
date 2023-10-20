@@ -12,20 +12,16 @@ sections:
       title: Singapore's most outstanding in research & innovation
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
-  - infobar:
+      variant: center
+      subtitle: Organised by the National Research Foundation, Singapore (NRF)
+  - infopic:
       title: President's Foreword
-      id: infobar
+      subtitle: Add an image and text
+      id: infopic
       description: Foreword by Mr Tharman Shanmugaratnam, President of The Republic of
         Singapore
-      button: Read more
-      url: /resources/foreword2023/permalink/
-  - infobar:
-      title: National Research Foundation, Singapore (NRF)
-      description: National lead that oversees Singapore’s Research and Development
-        (R&D) policies, plans, and strategies.
-      subtitle: Organiser
-      button: website
-      url: https://www.nrf.gov.sg/
+      image: /images/president's image v2.jpg
+      alt: President of Singapore
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
         engineers cannot be overstated."'
