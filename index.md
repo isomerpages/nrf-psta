@@ -22,7 +22,7 @@ sections:
         Singapore
       image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
-      button: Click Here
+      button: Read Here
       url: /resources/foreword2023/permalink/
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
