@@ -10,10 +10,11 @@ notification: ""
 sections:
   - hero:
       title: Singapore’s most prestigious award for research & innovation
-      url: /contact-us/
+      url: https://file.go.gov.sg/psta2023-ebooklet.pdf
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
       variant: center
       subtitle: Organised by the National Research Foundation, Singapore (NRF)
+      button: PSTA Awards e-Booklet
   - infopic:
       title: President's Foreword
       id: infopic
