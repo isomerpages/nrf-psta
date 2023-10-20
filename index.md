@@ -9,57 +9,86 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore's most outstanding in research & innovation
-      button: CONTACT US
+      title: Singapore’s most prestigious award for research & innovation
       url: /contact-us/
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
-  - infobar:
-      title: The Science & Technology Changemakers
-      description: Over the past 15 years, the President's Science & Technology Awards
-        (PSTA) have honoured more than 60 men and women for their spirit of
-        innovation. Their passion and talent for science and technology have
-        inspired the scientific community and shaped Singapore’s research,
-        innovation and enterprise landscape.
+      variant: center
+      subtitle: Organised by the National Research Foundation, Singapore (NRF)
   - infopic:
-      title: '"After 30 years, I am very proud to have been part of Singapore’s
-        biomedical growth.”'
-      subtitle: 2022 PSTM WINNER
-      description: Executive Director, Institute of Molecular and Cell Biology,
-        A*STAR<br> Professor, Yong Loo Lin School of Medicine, NUS
-      image: /images/Infopic/infopic-prof-hong-wanjin-0215.png
-      alt: PROFESSOR HONG WANJIN
-      button: Read more
-      url: /winners/2022/pstm/
-  - infopic:
-      title: “Singapore’s water resilience depends on our ability to produce water
-        efficiently.”
-      subtitle: 2022 PTA WINNER
-      description: President’s Chair in Civil and Environment Engineering, NTU
-        Singapore<br> Director (SMTC), NEWRI, NTU Singapore<br> Co-Founder, H2MO
-        Technology Pte. Ltd. and Aromatec Pte. Ltd.
-      alt: PROFESSOR WANG RONG
-      image: /images/Infopic/infopic-prof-wang-rong-0215.png
-      url: /winners/2022/pta/
-      button: Read more
-  - infopic:
-      title: “I hope my contributions would help to make Singapore a hub for medtech
-        innovation.”
-      subtitle: 2022 YSA WINNER
-      description: Senior Scientist, Institute of Bioengineering and Bioimaging, A*STAR
+      title: President's Foreword
+      id: infopic
+      description: Foreword by Mr Tharman Shanmugaratnam, President of The Republic of
+        Singapore
+      image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
+      alt: President of Singapore
       button: READ MORE
-      image: /images/Infopic/infopic-dr-bi-renzhe-0215.png
-      alt: DR BI RENZHE
-      url: /winners/2022/ysa/
+      url: /resources/foreword2023/permalink/
   - infopic:
-      title: “Organic chemistry was almost like magic to me when I was young.”
-      subtitle: 2022 YSA WINNER
-      description: President’s Assistant Professor, Department of Chemistry, Faculty
-        of Science, NUS
+      title: '"The importance of nurturing the next generation of scientists and
+        engineers cannot be overstated."'
+      subtitle: 2023 PSTM WINNER
+      description: Senior R&D Consultant<br>Ministry of Defence
+      image: /images/Infopic/infopic23-qgp.png
+      alt: Mr Quek Gim Pew
+      button: Read more
+      url: /winners/2023/pstm/
+  - infopic:
+      title: '"It’s this very recognition that fuels my passion in mentoring young
+        researchers."'
+      subtitle: 2023 PSA WINNER
+      description: >-
+        Associate Professor, Department of Electrical and Computer
+        Engineering<br>
+
+        Dean’s Chair Professor<br>
+
+        National University of Singapore
+      alt: Assoc Prof Qiu Cheng-Wei
+      image: /images/Infopic/infopic23-qcw.png
+      url: /winners/2023/psa/
+      button: Read more
+  - infopic:
+      title: '"By shifting paradigms, we can unlock exciting possibilities that
+        quantum technologies bring."'
+      subtitle: 2023 YSA WINNER
+      description: >-
+        Nanyang Assistant Professor, School of Physical and Mathematical
+        Sciences<br>
+
+        Nanyang Technological University
       button: READ MORE
-      url: /winners/2022/ysa/
-      image: /images/Infopic/infopic-dr-koh-ming-joo-0215.png
-      alt: DR KOH MING JOO
+      image: /images/Infopic/infopic23-cg.png
+      alt: Dr Chang Guoqing
+      url: /winners/2023/ysa/
+  - infopic:
+      title: '"I am grateful to be recognised for my research efforts in AI for the
+        greater good."'
+      subtitle: 2023 YSA WINNER
+      description: |-
+        Assistant Professor, Information Systems Technology and Design<br>
+        Singapore University of Technology and Design
+      button: READ MORE
+      url: /winners/2023/ysa/
+      image: /images/Infopic/infopic23-sp.png
+      alt: Dr Soujanya Poria
+  - infopic:
+      title: '"Science is about daring to try new ideas. You try, maybe fail, but then
+        you try again."'
+      subtitle: 2023 YSA winner
+      id: infopic
+      description: |-
+        Assistant Professor, Department of Biological Sciences<br>
+        National University of Singapore
+      button: READ MORE
+      url: /winners/2023/ysa/
+      image: /images/Infopic/infopic23-tyz.png
+      alt: Dr Tan Yong Zi
   - infobar:
-      title: Who will it be in 2023?
-      description: Stay tuned for more details on the PSTA 2023 Awards Ceremony
+      title: The PSTA is organised by the National Research Foundation
+      id: infobar
+      button: learn more about Nrf here
+      url: https://www.nrf.gov.sg/
+  - resources:
+      title: Media & Publications
+      id: resources
 ---
