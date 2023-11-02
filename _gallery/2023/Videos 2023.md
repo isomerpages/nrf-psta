@@ -6,14 +6,14 @@ third_nav_title: "2023"
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zKmnKf-4FOM?si=nJykD683VMKsgX3I" height="315" width="560"></iframe>
 
-President’s Science and Technology Medal 2023 Winner – Mr Quek Gim Pew
+2023 President’s Science and Technology Medal Winner – Mr Quek Gim Pew
 
 <br>
 <br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7U8EjpHxQ9Y?si=6oSm2fqSvK6YFfFk" height="315" width="560"></iframe>
 
-President’s Science Award 2023 Winner – Dr Qiu Cheng-Wei
+2023 President’s Science Award Winner – Dr Qiu Cheng-Wei
 
 <br>
 <br>
