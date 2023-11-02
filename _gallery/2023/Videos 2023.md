@@ -8,8 +8,6 @@ third_nav_title: "2023"
 
 President’s Science and Technology Medal 2023 Winner – Mr Quek Gim Pew
 
-[](https://www.youtube.com/@nrfmediasg)
-
 <br>
 <br>
 
