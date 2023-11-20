@@ -3,7 +3,17 @@ title: Videos 2023
 permalink: /gallery/2023/videos/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HaEP-vSiCEE?si=FtiqPgBwUqI0vHRg" height="315" width="560"></iframe>
+
+2023 President's Science and Technology Awards Event Ceremony Highlights
+
+<br>
+<br>
+
+
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zKmnKf-4FOM?si=nJykD683VMKsgX3I" height="315" width="560"></iframe>
 
 2023 President’s Science and Technology Medal (PSTM) Winner – Mr Quek Gim Pew
