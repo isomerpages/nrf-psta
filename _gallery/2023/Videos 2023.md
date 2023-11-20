@@ -7,7 +7,7 @@ variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HaEP-vSiCEE?si=FtiqPgBwUqI0vHRg" height="315" width="560"></iframe>
 
-2022 President's Science and Technology Awards Event Ceremony Highlights
+2023 President's Science and Technology Awards Event Ceremony Highlights
 
 <br>
 <br>
