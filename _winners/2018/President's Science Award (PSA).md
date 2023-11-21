@@ -9,7 +9,7 @@ variant: markdown
 
 ### **Professor Loh Teck Peng**
 
-<b>Professor,</b> School of Physical &amp; Mathematical Sciences, Nanyang Technological University, Singapore
+<b>Professor,</b> School of Physical &amp; Mathematical Sciences, Nanyang Technological University (NTU)
 
 <b>“For his outstanding research accomplishments in advancing organic chemistry and green chemistry that have far-reaching implications in fields such as pharmaceuticals, biotechnology and nanotechnology” </b> [Download Full Citation](/files/Citations/2018/2018-psa-professor-loh-teck-peng.pdf)
 <br><br><br>
