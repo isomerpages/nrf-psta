@@ -19,11 +19,12 @@ variant: markdown
 <br>*(centre seated)*<br>
 <b>Deputy Medical Director (Academic Affairs),</b> National Neuroscience Institute<br>
 <b>Senior Consultant,</b> Neurology, National Neuroscience Institute<br>
-<b>Director,</b> Research, National Neuroscience Institute,<br>
+<b>Director (Research),</b> National Neuroscience Institute<br>
 <b>Professor,</b> Programme in Neuroscience &amp; Behavioural Disorders,
 Duke-NUS Medical School<br>
 <b>Co-Director,</b> American Parkinson’s Disease Foundation International Center of Excellence (National Neuroscience Institute)<br>
-<b>Associate Designated Institutional Official (Research),</b> SingHealth Residency Academic Vice Chair (Research), Neuroscience Academic Clinical Program
+<b>Associate Designated Institution Official (ADIO),</b> SingHealth Residency<br>
+<b>Academic Vice Chair (Research),</b> Neuroscience Academic Clinical Programme
 
 ### **Associate Professor Lim Kah Leong**
 <br>*(right)*<br>
