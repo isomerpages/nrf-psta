@@ -34,13 +34,13 @@ Duke-NUS Medical School<br>
 
 ### **Professor Ng Huck Hui**
 <br>*(centre standing)*<br>
-<b>Executive Director,</b> Genome Institute of Singapore, A*STAR<br>
+<b>Executive Director,</b> Genome Institute of Singapore, Agency for Science, Technology and Research (A*STAR)<br>
 
 ### **Associate Professor Louis Tan**
 <br>*(left)*<br>
 <b>Senior Consultant,</b> Neurology, National Neuroscience Institute<br>
-<b>Deputy Director,</b> Research, National Neuroscience Institute Academic<br>
-<b>Deputy Vice Chair (Research),</b> Neuroscience Academic Clinical Program<br>
+<b>Deputy Director (Research),</b> National Neuroscience Institute<br>
+<b>Academic Deputy Vice Chair (Research),</b> Neuroscience Academic Clinical Programme<br>
 
 
 **“For outstanding contribution in the field of Parkinson’s Disease, galvanising clinical research and transforming patient care through the identification of clinical biomarkers, development of novel models and therapeutics.”** [Download Full Citation](/files/Citations/2018/2018_psa_team.pdf)
