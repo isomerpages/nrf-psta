@@ -13,32 +13,33 @@ variant: markdown
 
 <b>“For his outstanding research accomplishments in advancing organic chemistry and green chemistry that have far-reaching implications in fields such as pharmaceuticals, biotechnology and nanotechnology” </b> [Download Full Citation](/files/Citations/2018/2018-psa-professor-loh-teck-peng.pdf)
 <br><br><br>
+![2018 PSA Team](/images/Winners/2018/2018_psa_team.jpg)
 
-Team comprising:
-Professor Tan Eng King
-Deputy Medical Director (Academic Affairs), National Neuroscience Institute
-Senior Consultant, Neurology, National Neuroscience Institute Director,
-Research, National Neuroscience Institute Professor,
-Programme in Neuroscience &amp; Behavioural Disorders,
-Duke-NUS Medical School Co-Director,
-American Parkinson’s Disease Foundation International Center of Excellence (National Neuroscience Institute) Associate Designated Institutional Official (Research),
-SingHealth Residency Academic Vice Chair (Research), Neuroscience Academic Clinical Program
+### **Professor Tan Eng King**
+<br>*(centre seated)*<br>
+<b>Deputy Medical Director (Academic Affairs),</b> National Neuroscience Institute<br>
+<b>Senior Consultant,</b> Neurology, National Neuroscience Institute<br>
+<b>Director,</b> Research, National Neuroscience Institute,<br>
+<b>Professor,</b> Programme in Neuroscience &amp; Behavioural Disorders,
+Duke-NUS Medical School<br>
+<b>Co-Director,</b> American Parkinson’s Disease Foundation International Center of Excellence (National Neuroscience Institute)<br>
+<b>Associate Designated Institutional Official (Research),</b> SingHealth Residency Academic Vice Chair (Research), Neuroscience Academic Clinical Program
 
-Associate Professor Lim Kah Leong
-Head, Department of Physiology
-Yong Loo Lin School of Medicine
-National University of Singapore
-Visiting Lead Scientist, National Neuroscience Institute
-Associate Professor, Duke-NUS Medical School
+### **Associate Professor Lim Kah Leong**
+<br>*(right)*<br>
+<b>Head,</b> Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore (NUS)<br>
+<b>Visiting Lead Scientist,</b> National Neuroscience Institute<br>
+<b>Associate Professor,</b> Duke-NUS Medical School<br>
 
-Professor Ng Huck Hui
-Executive Director
-Genome Institute of Singapore, A*STAR
+### **Professor Ng Huck Hui**
+<br>*(centre standing)*<br>
+<b>Executive Director,</b> Genome Institute of Singapore, A*STAR<br>
 
-Associate Professor Louis Tan
-Senior Consultant, Neurology, National Neuroscience Institute
-Deputy Director, Research, National Neuroscience Institute Academic
-Deputy Vice Chair (Research), Neuroscience Academic Clinical Program
+### **Associate Professor Louis Tan**
+<br>*(left)*<br>
+<b>Senior Consultant,</b> Neurology, National Neuroscience Institute<br>
+<b>Deputy Director,</b> Research, National Neuroscience Institute Academic<br>
+<b>Deputy Vice Chair (Research),</b> Neuroscience Academic Clinical Program<br>
 
 
-“For outstanding contribution in the field of Parkinson’s Disease, galvanising clinical research and transforming patient care through the identification of clinical biomarkers, development of novel models and therapeutics.”
+**“For outstanding contribution in the field of Parkinson’s Disease, galvanising clinical research and transforming patient care through the identification of clinical biomarkers, development of novel models and therapeutics.”** [Download Full Citation](/files/Citations/2018/2018_psa_team.pdf)
