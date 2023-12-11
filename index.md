@@ -14,7 +14,7 @@ sections:
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
       variant: center
       subtitle: Organised by the National Research Foundation, Singapore (NRF)
-      button: PSTA Awards e-Booklet
+      button: 2023 PSTA e-Booklet
   - infopic:
       title: President's Foreword
       id: infopic
