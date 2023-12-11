@@ -2,15 +2,16 @@
 title: FAQ
 permalink: /faq/
 description: ""
+variant: markdown
 ---
-#### When does the nomination period start and end?
+#### When does the nomination period start?
 
-Nominations for this year’s <b>President’s Science &amp; Technology Awards (PSTA)</b> were held from 25 January 2023 to 31 March 2023, and are now closed.<br><br>
-Our 2023 winners will be announced at the PSTA Awards Ceremony later this year, so do follow us on [Facebook](https://www.facebook.com/NRF.Singapore/), [Instagram](https://instagram.com/nrfsg), or [LinkedIn](https://www.linkedin.com/company/nrfsg/) for the latest updates.
+Nominations for this year’s <b>President’s Science and Technology Awards (PSTA)</b> open from 13 December 2023.<br><br>
+Our winners will be announced at the PSTA Awards Ceremony in 2024, so do follow us on [Facebook](https://www.facebook.com/NRF.Singapore/), [Instagram](https://instagram.com/nrfsg), or [LinkedIn](https://www.linkedin.com/company/nrfsg/) for the latest updates.
 
 #### What is the difference between the awards?
 
-The **President’s Science &amp; Technology Medal (PSTM)** recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&amp;T. 
+The **President’s Science and Technology Medal (PSTM)** recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&amp;T. 
 
 These accomplishments are generally acknowledged by the S&amp;T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature. The PSTM is not meant to recognise research accomplishments or contributions to advancing individual technologies, as these are covered by the PSA and PTA respectively.
 
