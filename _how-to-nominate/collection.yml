@@ -1,5 +1,5 @@
 collections:
-  holding-do-not-delete:
+  how-to-nominate:
     output: true
     order:
       - How to Nominate.md
