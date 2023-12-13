@@ -6,13 +6,18 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Nominations for PSTA 2024 are now open. Recognise excellence in
+  science and technology by nominating now at https://www.psta.gov.sg/nominate/
 sections:
   - hero:
-      title: Singapore’s most prestigious award for research & innovation
+      title: Nominations Now Open for PSTA 2024
       background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
       variant: center
-      subtitle: Organised by the National Research Foundation, Singapore (NRF)
+      subtitle: Corporates, universities, research institutes and technology firms
+        encouraged to submit nominations for Singapore’s top Science and
+        Technology Awards
+      button: HOW TO NOMINATE
+      url: https://www.psta.gov.sg/nominate/
   - infopic:
       title: President's Foreword
       id: infopic
