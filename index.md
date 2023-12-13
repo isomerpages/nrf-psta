@@ -7,7 +7,7 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
 image: /images/isomer-logo.svg
 permalink: /
 notification: Nominations for PSTA 2024 are now open. Recognise excellence in
-  science and technology by nominating now at https://www.psta.gov.sg/nominate/
+  science and technology by nominating now at www.psta.gov.sg/nominate/
 sections:
   - hero:
       title: Nominations Now Open for PSTA 2024
