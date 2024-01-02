@@ -2,29 +2,6 @@
 title: FAQ
 permalink: /faq/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### When does the nomination period start?
-
-Nominations for the 2024 <b>President’s Science and Technology Awards (PSTA)</b> open from 13 December 2023. Do note that recommendations must be submitted by 29 February 2024.<br><br>
-Our winners will be announced at the PSTA Awards Ceremony in 2024, so do follow us on [Facebook](https://www.facebook.com/NRF.Singapore/), [Instagram](https://instagram.com/nrfsg), or [LinkedIn](https://www.linkedin.com/company/nrfsg/) for the latest updates.
-
-#### What is the difference between the awards?
-
-The **President’s Science and Technology Medal (PSTM)** recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&amp;T. 
-
-These accomplishments are generally acknowledged by the S&amp;T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature. The PSTM is not meant to recognise research accomplishments or contributions to advancing individual technologies, as these are covered by the PSA and PTA respectively.
-
-The **President’s Science Award (PSA)** recognises accomplishments that have had a transformative effect on one or more Science &amp; Technology (S&amp;T) fields. These achievements are generally acknowledged by other S&amp;T practitioners as being significant and impactful to their field. However, they need not have led to practical applications or products.
-
-The **President’s Technology Award (PTA)** recognises accomplishments that have led to transformative changes in the use or potential of technology. These accomplishments are generally acknowledged by other S&amp;T practitioners as resulting from deep innovative input or ingenuity, marking a turning point for that technology's use or potential with a significant impact on the industry.
-
-Click [here](/about/awards/) for more info.
-
-#### Can I nominate myself for an award, and if so, how can I do so?
-
-You can nominate yourself (or your team) for the PSA and the PTA only. Please note that the PSTM is **not** open for self-nomination.
-
-#### How do I submit a nomination for an award?
-
-You may submit a nomination for any of the three awards, namely the PSA, the PTA and the PSTM. Simply download and complete the relevant award forms, and upload them via the Nomination Portal.
+<h4>When does the nomination period start?</h4><p>Nominations for the 2024 <strong>President’s Science and Technology Awards (PSTA)</strong> open from 13 December 2023. Do note that recommendations must be submitted by 29 February 2024.<br><br>Our winners will be announced at the PSTA Awards Ceremony in 2024, so do follow us on <a href="https://www.facebook.com/NRF.Singapore/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>, <a href="https://instagram.com/nrfsg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>, or <a href="https://www.linkedin.com/company/nrfsg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a> for the latest updates.</p><h4>What is the difference between the awards?</h4><p>The <strong>President’s Science and Technology Medal (PSTM)</strong> recognises accomplishments that have significantly advanced Singapore’s development through promoting and managing S&amp;T.</p><p>These accomplishments are generally acknowledged by the S&amp;T ecosystem as having a significant impact on the ecosystem’s capabilities or international stature. The PSTM is not meant to recognise research accomplishments or contributions to advancing individual technologies, as these are covered by the PSA and PTA respectively.</p><p>The <strong>President’s Science Award (PSA)</strong> recognises accomplishments generally acknowledged by other S&amp;T practitioners as being significant and impactful to their field. They need not have led to practical applications or products.</p><p>The <strong>President’s Technology Award (PTA)</strong> recognises accomplishments that have led to transformative changes in the use or potential of technology in Singapore or further afield. The relevant technology need not be fully adopted or deployed at the point of nomination, but its potential must be acknowledged, and it must have progressed beyond academic or theoretical potential and be in the process of translation or adoption by end-users.</p><p>Click <a href="/about/awards/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more info.</p><h4>Can I nominate myself for an award, and if so, how can I do so?</h4><p>You can nominate yourself (or your team) for the PSA and the PTA only. Please note that the PSTM is <strong>not</strong> open for self-nomination.</p><h4>How do I submit a nomination for an award?</h4><p>You may submit a nomination for any of the three awards, namely the PSA, the PTA and the PSTM. Simply download and complete the relevant award forms, and upload them via the Nomination Portal.</p>
