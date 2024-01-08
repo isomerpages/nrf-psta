@@ -11,7 +11,7 @@ notification: Nominations for PSTA 2024 are now open. Recognise excellence in
 sections:
   - hero:
       title: Nominations Now Open for PSTA 2024
-      background: /images/Hero Background/PSTA_Website_Banner_opt1.png
+      background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
       variant: center
       subtitle: Corporates, universities, research institutes and technology firms
         encouraged to submit nominations for Singapore’s top Science and
