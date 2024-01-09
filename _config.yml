@@ -6,13 +6,13 @@ colors:
   secondary-color: "#5b40b8"
   media-colors:
     - title: media-color-one
-      color: "#570777"
+      color: "#5b40b8"
     - title: media-color-two
-      color: "#6e2960"
+      color: "#2859ae"
     - title: media-color-three
-      color: "#570777"
+      color: "#4144a2"
     - title: media-color-four
-      color: "#3650a8"
+      color: "#7547a1"
     - title: media-color-five
       color: "#3650a8"
 description: The President's Science & Technology Awards (PSTA) are Singapore's
