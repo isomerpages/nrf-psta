@@ -11,7 +11,7 @@ notification: Nominations for PSTA 2024 are now open. Recognise excellence in
 sections:
   - hero:
       title: Nominations Now Open for PSTA 2024
-      background: /images/Hero Background/psta-web-hero-constellation-1920x1006px-dk.jpg
+      background: /images/Hero Background/option2.png
       variant: center
       subtitle: Corporates, universities, research institutes and technology firms
         encouraged to submit nominations for Singapore’s top Science and
@@ -32,7 +32,7 @@ sections:
         engineers cannot be overstated."'
       subtitle: 2023 PSTM WINNER
       description: Senior R&D Consultant<br>Ministry of Defence
-      image: /images/Infopic/infopic23-qgp.png
+      image: /images/Infopic/PSTA_Website_Homepage_2023_PSTM_WINNER_QGP.png
       alt: Mr Quek Gim Pew
       button: Read more
       url: /winners/2023/pstm/
@@ -48,7 +48,7 @@ sections:
 
         National University of Singapore
       alt: Assoc Prof Qiu Cheng-Wei
-      image: /images/Infopic/infopic23-qcw.png
+      image: /images/Infopic/PSTA_Website_Homepage_2023_PSA_WINNER_QCW.png
       url: /winners/2023/psa/
       button: Read more
   - infopic:
@@ -61,7 +61,7 @@ sections:
 
         Nanyang Technological University
       button: READ MORE
-      image: /images/Infopic/infopic23-cg.png
+      image: /images/Infopic/PSTA_Website_Homepage_2023_YSA_WINNER_CG.png
       alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
@@ -73,7 +73,7 @@ sections:
         Singapore University of Technology and Design
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/infopic23-sp.png
+      image: /images/Infopic/PSTA_Website_Homepage_2023_PSA_WINNER_SP.png
       alt: Dr Soujanya Poria
   - infopic:
       title: '"Science is about daring to try new ideas. You try, maybe fail, but then
@@ -85,7 +85,7 @@ sections:
         National University of Singapore
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/infopic23-tyz.png
+      image: /images/Infopic/PSTA_Website_Homepage_2023_YSA_WINNER_TYZ.png
       alt: Dr Tan Yong Zi
   - infobar:
       title: The PSTA is organised by the National Research Foundation
