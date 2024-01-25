@@ -1,0 +1,5 @@
+collections:
+  how-to-nominate:
+    output: true
+    order:
+      - How to Nominate.md
