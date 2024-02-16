@@ -14,9 +14,9 @@ sections:
       title: Nominations Now Open for PSTA 2024
       background: /images/Hero Background/option2.png
       variant: center
-      subtitle: Corporates, universities, research institutes and technology firms
+      subtitle: Corporates, universities, research institutes & technology firms
         encouraged to submit nominations for Singapore's top Science & Tech
-        award by 29 February 2024
+        awards by 29 February 2024
       button: HOW TO NOMINATE
       url: https://www.psta.gov.sg/nominate/
   - infopic:
