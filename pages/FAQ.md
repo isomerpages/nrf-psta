@@ -37,8 +37,10 @@ potential and be in the process of translation or adoption by end-users.</p>
 more info.</p>
 <h4>3. How do I submit a nomination for an award?</h4>
 <p>You may submit a nomination for any of the three awards, namely the PSA,
-the PTA and the PSTM. Simply download and complete the relevant award forms,
-and upload them via the Nomination Portal.</p>
+the PTA and the PSTM. Simply download and complete the relevant award forms
+at <a href="https://www.psta.gov.sg/nominate/" rel="noopener noreferrer nofollow" target="_blank">https://www.psta.gov.sg/nominate/</a>,
+and upload them via the <a href="https://form.gov.sg/63a292918c013d00129d6d81" rel="noopener noreferrer nofollow" target="_blank">Nomination Portal.</a>
+</p>
 <h4>4. How can I find out more about the Young Scientist Award (YSA) nominations?</h4>
 <p>Please visit <a href="https://snas.org.sg/young-scientist-award" rel="noopener noreferrer nofollow" target="_blank">https://snas.org.sg/young-scientist-award</a>,
 or send your queries to <a href="mailto:general@snas.org.sg" rel="noopener noreferrer nofollow" target="_blank">general@snas.org.sg</a> or <a href="mailto:admin@snas.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@snas.org.sg</a>.</p>
@@ -78,9 +80,10 @@ from previous years are also welcome.</p>
 <p>CVs are not required for nominations. The relevant information required
 by the selection committees should be entered into the award forms which
 can be downloaded from <a href="https://www.psta.gov.sg/nominate/" rel="noopener noreferrer nofollow" target="_blank">https://www.psta.gov.sg/nominate/</a> and
-uploaded via the Nomination Portal. Only the award forms will be shared
-with the selection committees. The Secretariat will approach the nominator
-or nominee should the committee require more information or clarifications.</p>
+uploaded via the <a href="https://form.gov.sg/63a292918c013d00129d6d81" rel="noopener noreferrer nofollow" target="_blank">Nomination Portal</a>.
+Only the award forms will be shared with the selection committees. The
+Secretariat will approach the nominator or nominee should the committee
+require more information or clarifications.</p>
 <h4>12. Are letters of support from institutions required for nominations?</h4>
 <p>Letters of support are not required for nominations. Should an institution
 wish to endorse a nomination, the nomination can be submitted by/through
