@@ -53,7 +53,7 @@ nominate for the PSTA. Foreigners who have a Foreign Identification Number
 (FIN) should register for Singpass, before submitting nominations via the
 nomination portal. Please refer to <a href="https://www.singpass.gov.sg/home/ui/support" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/home/ui/support</a> for
 instructions.</p>
-<h4>7. Is the PSTA open only to nominees who are Singaporeans? What about nominees who are Foreigners and Singapore Permanent Residents? </h4>
+<h4>7. Is the PSTA open only to nominees who are Singaporeans? What about nominees who are Foreigners and Singapore Permanent Residents?</h4>
 <p>The three award categories - the PSTM, PSA, and PTA - are open to all
 who have contributed to Singapore’s research, innovation, and enterprise
 ecosystem regardless of background or nationality.</p>
@@ -64,17 +64,17 @@ be relevant to the award they are being nominated for.</p>
 <p>Achievements need not fall within a specific time frame as long as their
 research, innovation, and enterprise contributions are anchored mainly
 in Singapore.</p>
-<h4>9. Can the same person be nominated for an individual award, as well as a team award under the PTA or PSA in the same year?   </h4>
+<h4>9. Can the same person be nominated for an individual award, as well as a team award under the PTA or PSA in the same year?</h4>
 <p>Yes, an individual can be considered for multiple awards if his or her
 achievements are distinct. If the individual is being nominated for one
 achievement, the nominator should decide which award category is most appropriate.</p>
-<h4>10. Is there a limit on the number of nominations submitted by each institution, or for each award?   </h4>
+<h4>10. Is there a limit on the number of nominations submitted by each institution, or for each award?</h4>
 <p>There is no limit on the number of nominations submitted by each institution,
 and no limit on the number of nominations for each award. Re-submissions
 from previous years are also welcome.</p>
 <p></p>
 <h3>Nomination documents</h3>
-<h4>11. Can CVs of nominees be attached, together with the nominations?  </h4>
+<h4>11. Can CVs of nominees be attached, together with the nominations?</h4>
 <p>CVs are not required for nominations. The relevant information required
 by the selection committees should be entered into the award forms which
 can be downloaded from <a href="https://www.psta.gov.sg/nominate/" rel="noopener noreferrer nofollow" target="_blank">https://www.psta.gov.sg/nominate/</a> and
@@ -90,16 +90,16 @@ nominations with or without letters of support from institutions equally.</p>
 <p>A team nomination for PTA and PSA can include up to 4 members. Each team
 member must have distinct and substantial contributions to the accomplishments
 for which the team is being nominated for.</p>
-<h4>14. Do the independent reviewers for the PSA and PTA need to be local, or can they be based overseas? </h4>
+<h4>14. Do the independent reviewers for the PSA and PTA need to be local, or can they be based overseas?</h4>
 <p>Reviewers can be local or based overseas so long as they meet the independence
 criteria of having no working (e.g. participation in the same project or
 grant) or reporting relationship with the nominee within the past 5 years.</p>
-<h4>15. What if the proposed independent reviewers turn out to be in the selection committees? </h4>
+<h4>15. What if the proposed independent reviewers turn out to be in the selection committees?</h4>
 <p>PSTA secretariat will seek alternative reviewers in such cases, and there
 will be no impact to the status of the nomination. The nominator does not
 need to ensure that their proposed reviewers are not on the selection committees.</p>
-<h3>Awards assessment </h3>
-<h4>16. Are individual nominations and team nominations assessed differently for the PSA and PTA? </h4>
+<h3>Awards assessment</h3>
+<h4>16. Are individual nominations and team nominations assessed differently for the PSA and PTA?</h4>
 <p>Individual and team nominations for the PSA and PTA are assessed equally.
 There are no different criteria or processes between the assessment of
 individual and team nominations.</p>
