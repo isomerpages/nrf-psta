@@ -15,8 +15,8 @@ sections:
       background: /images/Hero Background/option2.png
       variant: center
       subtitle: Corporates, universities, research institutes and technology firms to
-        submit nominations for Singapore's top Science & Tech awards by 11 March
-        2024
+        submit nominations for Singapore's top Science & Technology awards by 11
+        March 2024
       button: HOW TO NOMINATE
       url: https://www.psta.gov.sg/nominate/
   - infopic:
