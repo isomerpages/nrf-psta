@@ -6,17 +6,17 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Nominations for PSTA 2024 are now open until 29 February 2024.
-  Recognise excellence in science and technology by nominating now at
-  www.psta.gov.sg/nominate/
+notification: The call for nominations for PSTA 2024 has been extended until 11
+  March 2024. Recognise excellence in Science & Technology by nominating now at
+  www.psta.gov.sg/nominate!
 sections:
   - hero:
       title: Nominations Now Open for PSTA 2024
       background: /images/Hero Background/option2.png
       variant: center
-      subtitle: Corporates, universities, research institutes & technology firms
-        encouraged to submit nominations for Singapore's top Science & Tech
-        awards by 29 February 2024
+      subtitle: Corporates, universities, research institutes and technology firms to
+        submit nominations for Singapore's top Science & Tech awards by 11 March
+        2024
       button: HOW TO NOMINATE
       url: https://www.psta.gov.sg/nominate/
   - infopic:
