@@ -7,10 +7,8 @@ variant: tiptap
 <h3>General</h3>
 <h4>1. When does the nomination period start?</h4>
 <p>Nominations for the 2024 <strong>President’s Science and Technology Awards (PSTA)</strong> is
-now closed.
-<br>
-<br>Our winners will be announced at the PSTA Awards Ceremony in 2024, so
-do visit the NRF website at <a href="http://www.nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.nrf.gov.sg</a> or follow us on <a href="https://www.facebook.com/NRF.Singapore/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
+now closed. Our winners will be announced at the PSTA Awards Ceremony in
+2024, so do visit the NRF website at <a href="http://www.nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.nrf.gov.sg</a> or follow us on <a href="https://www.facebook.com/NRF.Singapore/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
 <a href="https://instagram.com/nrfsg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>, or <a href="https://www.linkedin.com/company/nrfsg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a> for the latest
 updates.</p>
 <h4>2. What is the difference between the awards?</h4>
