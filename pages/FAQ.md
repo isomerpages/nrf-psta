@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h3>General</h3>
 <h4>1. When does the nomination period start?</h4>
-<p>Nominations for the 2024 <strong>President’s Science and Technology Awards (PSTA)</strong> open
-from 13 December 2023. Do note that recommendations must be submitted by
-11 March 2024.
+<p>Nominations for the 2024 <strong>President’s Science and Technology Awards (PSTA)</strong> is
+now closed.
 <br>
 <br>Our winners will be announced at the PSTA Awards Ceremony in 2024, so
 do visit the NRF website at <a href="http://www.nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.nrf.gov.sg</a> or follow us on <a href="https://www.facebook.com/NRF.Singapore/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
