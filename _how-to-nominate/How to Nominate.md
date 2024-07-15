@@ -36,7 +36,7 @@ Portal.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>SingPass login is required to access the Nomination Portal</strong>
-<br>Should you encounter any issues, please email us at <u>PSTA_secretariat@nrf.gov.sg</u>.
+<br>Should you encounter any issues, please email us at <a href="mailto:PSTA_secretariat@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PSTA_secretariat@nrf.gov.sg</u></a>.
 <br>
 </p>
 </li>
