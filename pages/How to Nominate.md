@@ -14,7 +14,7 @@ Please download and complete the appropriate forms via the links below. You are 
 * *Note: For the PSA and PTA forms, please ensure the nominees sign the <b><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></b> section in the forms. Two signatures are required and we accept digital or electronic signatures.*<br><br>
 
 2. **SingPass login is required to access the Nomination Portal**<br>
-Should you encounter any issues, please email us at <u>secretariat[at]psta.sg</u>
+Should you encounter any issues, please email PSTA_secretariat@nrf.gov.sg. 
 <br>
 
 ##### All set? Click below to submit your nomination. #####
