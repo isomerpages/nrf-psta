@@ -2,11 +2,11 @@ title: President's Science & Technology Awards (PSTA)
 url: https://www.psta.gov.sg
 favicon: /images/Favicon/psta-favicon-svg.svg
 colors:
-  primary-color: "#04187b"
-  secondary-color: "#04187b"
+  primary-color: "#09239f"
+  secondary-color: "#09239f"
   media-colors:
     - title: media-color-one
-      color: "#04187b"
+      color: "#09239f"
     - title: media-color-two
       color: "#42bfff"
     - title: media-color-three
