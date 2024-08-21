@@ -13,7 +13,7 @@ sections:
   - hero:
       title: President's Science and Technology Awards 2024
       background: /images/Hero
-        Background/PSTA_Application_Website_Hero_Banner_UNIFORM_20082024_2.png
+        Background/PSTA_Application_Website_Hero_Banner_UNIFORM_20082024_2__1_.png
       variant: center
       subtitle: Singapore's top award recognising excellence in research, innovation
         and enterprise
