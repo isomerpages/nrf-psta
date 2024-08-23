@@ -6,9 +6,8 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Nominations for the President's Science and Technology Awards 2024
-  is now closed. Follow NRF LinkedIn for updates on our evaluation and reveal of
-  the award recipients!
+notification: Stay updated here or follow NRF on LinkedIn for the latest on the
+  award receipients' reveal.
 sections:
   - hero:
       title: President's Science and Technology Awards 2024
@@ -32,8 +31,8 @@ sections:
       title: 2024 winners will be unveiled this September
       subtitle: Stay tuned
       id: infobar
-      description: Join us in celebrating these  exceptional individuals propelling
-        Singapore's progress
+      description: Celebrate with us as we honour the extraordinary individauls
+        propelling Singapore's progress
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
         engineers cannot be overstated."'
