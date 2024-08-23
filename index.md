@@ -66,7 +66,7 @@ sections:
         Singapore University of Technology and Design
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_4.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_4__1_.png
       alt: Dr Soujanya Poria
   - infopic:
       title: '"Science is about daring to try new ideas. You try, maybe fail, but then
