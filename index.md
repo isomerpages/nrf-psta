@@ -19,12 +19,6 @@ sections:
         and enterprise
       button: EXPLORE PAST RECIPIENTS
       url: https://www.psta.gov.sg/winners/2023/pstm/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: President's Foreword
       id: infopic
@@ -34,6 +28,12 @@ sections:
       alt: President of Singapore
       button: Read Here
       url: /resources/foreword2023/permalink/
+  - infobar:
+      title: 2024 winners will be unveiled this September
+      subtitle: Stay tuned
+      id: infobar
+      description: Join us in celebrating these  exceptional individuals propelling
+        Singapore's progress
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
         engineers cannot be overstated."'
