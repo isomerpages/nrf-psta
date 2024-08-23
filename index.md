@@ -19,6 +19,12 @@ sections:
         and enterprise
       button: EXPLORE PAST RECIPIENTS
       url: https://www.psta.gov.sg/winners/2023/pstm/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: President's Foreword
       id: infopic
