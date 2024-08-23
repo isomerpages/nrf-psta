@@ -31,7 +31,7 @@ sections:
       title: 2024 winners will be unveiled this September
       subtitle: Stay tuned
       id: infobar
-      description: Celebrate with us as we honour the extraordinary individauls
+      description: Celebrate with us as we honour the extraordinary individuals
         propelling Singapore's progress
   - infopic:
       title: '"The importance of nurturing the next generation of scientists and
