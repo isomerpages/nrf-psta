@@ -46,8 +46,8 @@ sections:
       title: '"It’s this very recognition that fuels my passion in mentoring young
         researchers."'
       subtitle: 2023 PSA WINNER
-      description: Associate Professor, Department of Electrical and Computer
-        Engineering<br> Dean’s Chair Professor<br> National University of
+      description: Associate Professor,<br>Department of Electrical and Computer
+        Engineering <br> Dean’s Chair Professor,<br> National University of
         Singapore
       alt: Assoc Prof Qiu Cheng-Wei
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_2.png
@@ -57,8 +57,8 @@ sections:
       title: '"By shifting paradigms, we can unlock exciting possibilities that
         quantum technologies bring."'
       subtitle: 2023 YSA WINNER
-      description: Nanyang Assistant Professor, School of Physical and Mathematical
-        Sciences<br> Nanyang Technological University
+      description: Nanyang Assistant Professor, <br> School of Physical and
+        Mathematical Sciences<br> Nanyang Technological University
       button: READ MORE
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_3__1_.png
       alt: Dr Chang Guoqing
@@ -67,8 +67,8 @@ sections:
       title: '"I am grateful to be recognised for my research efforts in AI for the
         greater good."'
       subtitle: 2023 YSA WINNER
-      description: Assistant Professor, Information Systems Technology and Design<br>
-        Singapore University of Technology and Design
+      description: Assistant Professor, <br>Information Systems Technology and
+        Design<br> Singapore University of Technology and Design
       button: READ MORE
       url: /winners/2023/ysa/
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_4.png
