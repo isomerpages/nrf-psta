@@ -78,8 +78,8 @@ sections:
         you try again."'
       subtitle: 2023 YSA winner
       id: infopic
-      description: Assistant Professor, Department of Biological Sciences<br> National
-        University of Singapore
+      description: Assistant Professor, <br> Department of Biological Sciences<br>
+        National University of Singapore
       button: READ MORE
       url: /winners/2023/ysa/
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_5__1_.png
