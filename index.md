@@ -38,7 +38,7 @@ sections:
         engineers cannot be overstated."'
       subtitle: 2023 PSTM WINNER
       description: Senior R&D Consultant<br>Ministry of Defence
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_1.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_1.png
       alt: Mr Quek Gim Pew
       button: Read more
       url: /winners/2023/pstm/
@@ -50,7 +50,7 @@ sections:
         Engineering<br> Dean’s Chair Professor<br> National University of
         Singapore
       alt: Assoc Prof Qiu Cheng-Wei
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_2.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_2.png
       url: /winners/2023/psa/
       button: Read more
   - infopic:
@@ -60,7 +60,7 @@ sections:
       description: Nanyang Assistant Professor, School of Physical and Mathematical
         Sciences<br> Nanyang Technological University
       button: READ MORE
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_3.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_3__1_.png
       alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
@@ -71,7 +71,7 @@ sections:
         Singapore University of Technology and Design
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_4__1_.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_4.png
       alt: Dr Soujanya Poria
   - infopic:
       title: '"Science is about daring to try new ideas. You try, maybe fail, but then
@@ -82,7 +82,7 @@ sections:
         University of Singapore
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_5.png
+      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_5__1_.png
       alt: Dr Tan Yong Zi
   - infobar:
       title: The PSTA is organised by the National Research Foundation
