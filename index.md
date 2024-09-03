@@ -34,10 +34,10 @@ sections:
       description: Celebrate with us as we honour the extraordinary individuals
         propelling Singapore's progress
   - infopic:
-      title: '"The importance of nurturing the next generation of scientists and
-        engineers cannot be overstated."'
+      title: Mr Quek Gim Pew
       subtitle: 2023 PSTM WINNER
-      description: Senior R&D Consultant,<br>Ministry of Defence
+      description: Associate Professor, Department of Electrical and Computer
+        Engineering Dean’s Chair Professor, National University of Singapore
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_1.png
       alt: Mr Quek Gim Pew
       button: Read more
