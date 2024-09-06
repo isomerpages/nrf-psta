@@ -95,7 +95,7 @@ sections:
       id: infopic
       description: Dean’s Chair Associate Professor, Department of Chemistry, National
         University of Singapore
-      button: Button Text
+      button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
   - infobar:
