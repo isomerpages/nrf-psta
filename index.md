@@ -27,7 +27,7 @@ sections:
       button: Read Here
       url: /resources/foreword2023/permalink/
   - infobar:
-      title: 2024 winners will be unveiled this September
+      title: Read on to find out more about our 2024 Winners
       subtitle: Stay tuned
       id: infobar
       description: Celebrate with us as we honour the extraordinary individuals
