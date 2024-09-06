@@ -28,7 +28,7 @@ sections:
       url: /resources/foreword2023/permalink/
   - infobar:
       title: Read on to find out more about our 2024 Winners
-      subtitle: Stay tuned
+      subtitle: Congratulations to all winners
       id: infobar
       description: Celebrate with us as we honour the extraordinary individuals
         propelling Singapore's progress
