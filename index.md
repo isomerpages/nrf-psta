@@ -89,6 +89,15 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
+  - infopic:
+      title: Lu Jiong
+      subtitle: 2024 YSA WINNER
+      id: infopic
+      description: Dean’s Chair Associate Professor, Department of Chemistry, National
+        University of Singapore
+      button: Button Text
+      url: /winners/2023/ysa/
+      alt: Image alt text
   - infobar:
       title: The PSTA is organised by the National Research Foundation
       id: infobar
