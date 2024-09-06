@@ -80,6 +80,15 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
+  - infopic:
+      title: Li Qianxiao
+      subtitle: 2024 YSA WINNER
+      id: infopic
+      description: Presidential Young Professor, Department of Mathematics, National
+        University of Singapore
+      button: READ MORE
+      url: /winners/2023/ysa/
+      alt: Image alt text
   - infobar:
       title: The PSTA is organised by the National Research Foundation
       id: infobar
