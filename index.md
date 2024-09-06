@@ -33,56 +33,53 @@ sections:
       description: Celebrate with us as we honour the extraordinary individuals
         propelling Singapore's progress
   - infopic:
-      title: Mr Quek Gim Pew
-      subtitle: 2023 PSTM WINNER
-      description: Associate Professor, Department of Electrical and Computer
-        Engineering Dean’s Chair Professor, National University of Singapore
+      title: Ho Teck Hua
+      subtitle: 2024 PSTM WINNER
+      description: President, Nanyang Technological University
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_1.png
-      alt: Mr Quek Gim Pew
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
-      title: '"It’s this very recognition that fuels my passion in mentoring young
-        researchers."'
-      subtitle: 2023 PSA WINNER
-      description: Associate Professor,<br>Department of Electrical and Computer
-        Engineering <br> Dean’s Chair Professor,<br> National University of
-        Singapore
-      alt: Assoc Prof Qiu Cheng-Wei
+      title: Richard Parker
+      subtitle: 2024 PSTM WINNER
+      description: Chairman, Singapore Aerospace Programme, Agency for Science,
+        Technology and Research
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_2.png
       url: /winners/2023/psa/
       button: Read more
   - infopic:
-      title: '"By shifting paradigms, we can unlock exciting possibilities that
-        quantum technologies bring."'
-      subtitle: 2023 YSA WINNER
-      description: Nanyang Assistant Professor, <br> School of Physical and
-        Mathematical Sciences<br> Nanyang Technological University
+      title: Liu Bin
+      subtitle: 2024 PSA WINNER
+      description: Tan Chin Tuan Centennial Professor,  National University of Singapore
       button: READ MORE
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_3__1_.png
-      alt: Dr Chang Guoqing
       url: /winners/2023/ysa/
   - infopic:
-      title: '"I am grateful to be recognised for my research efforts in AI for the
-        greater good."'
-      subtitle: 2023 YSA WINNER
-      description: Assistant Professor, <br>Information Systems Technology and
-        Design<br> Singapore University of Technology and Design
+      title: GROUP WINNER
+      subtitle: 2024 PTA WINNERS
+      description: Gurpreet Singh S/O Santokh Singh, Renzhe Bi, Malini Olivo, Augustine Tee
       button: READ MORE
       url: /winners/2023/ysa/
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_4.png
-      alt: Dr Soujanya Poria
   - infopic:
-      title: '"Science is about daring to try new ideas. You try, maybe fail, but then
-        you try again."'
-      subtitle: 2023 YSA winner
+      title: Daniel Ting Shu Wei
+      subtitle: 2024 YSA WINNER
       id: infopic
-      description: Assistant Professor,<br> Department of Biological Sciences
-        <br>National University of Singapore
+      description: Senior Consultant, Surgical Retina, Singapore National Eye Center,
+        and Director, AI Office, SingHealth
       button: READ MORE
       url: /winners/2023/ysa/
       image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_5__1_.png
-      alt: Dr Tan Yong Zi
+  - infopic:
+      title: Jonathan Göke
+      subtitle: 2024 YSA WINNER
+      id: infopic
+      description: Senior Principal Scientist I, Laboratory of Computational
+        Transcriptomics Genome Institute of Singapore, Agency for Science,
+        Technology and Research
+      button: READ MORE
+      url: /winners/2023/ysa/
+      alt: Image alt text
   - infobar:
       title: The PSTA is organised by the National Research Foundation
       id: infobar
