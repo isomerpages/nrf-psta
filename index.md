@@ -78,7 +78,7 @@ sections:
         Transcriptomics Genome Institute of Singapore, Agency for Science,
         Technology and Research
       button: READ MORE
-      url: /winners/2023/ysa/
+      url: /young-scientist-award-2024/
       alt: Image alt text
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_JonathanG_UNIFORM_13092024.png
   - infopic:
