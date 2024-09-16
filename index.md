@@ -68,7 +68,7 @@ sections:
       description: Senior Consultant, Surgical Retina, Singapore National Eye Center,
         and Director, AI Office, SingHealth
       button: READ MORE
-      url: /winners/2023/ysa/
+      url: /young-scientist-award-2024/
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_DanielTing_UNIFORM_13092024.png
   - infopic:
       title: Jonathan Göke
