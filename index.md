@@ -53,7 +53,7 @@ sections:
       description: Tan Chin Tuan Centennial Professor,  National University of Singapore
       button: READ MORE
       image: /images/Infopic/2024/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_13092024.png
-      url: /winners/2023/ysa/
+      url: /president-s-science-award-2024/
   - infopic:
       title: GROUP WINNER
       subtitle: 2024 PTA WINNERS
