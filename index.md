@@ -59,7 +59,7 @@ sections:
       subtitle: 2024 PTA WINNERS
       description: Gurpreet Singh S/O Santokh Singh, Renzhe Bi, Malini Olivo, Augustine Tee
       button: READ MORE
-      url: /winners/2023/ysa/
+      url: /president-s-technology-award-2024/
       image: /images/Infopic/2024/PSTA_Website_Profile_PTA_Group_UNIFORM_13092024.png
   - infopic:
       title: Daniel Ting Shu Wei
