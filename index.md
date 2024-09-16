@@ -38,7 +38,7 @@ sections:
       description: President, Nanyang Technological University
       image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
       button: Read more
-      url: /winners/2023/pstm/
+      url: /president-s-science-technology-medal-2024/
   - infopic:
       title: Richard Parker
       subtitle: 2024 PSTM WINNER
