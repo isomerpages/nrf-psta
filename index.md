@@ -36,7 +36,7 @@ sections:
       title: Ho Teck Hua
       subtitle: 2024 PSTM WINNER
       description: President, Nanyang Technological University
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_1.png
+      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
       button: Read more
       url: /winners/2023/pstm/
   - infopic:
@@ -44,7 +44,7 @@ sections:
       subtitle: 2024 PSTM WINNER
       description: Chairman, Singapore Aerospace Programme, Agency for Science,
         Technology and Research
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_2.png
+      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_13092024.png
       url: /winners/2023/psa/
       button: Read more
   - infopic:
@@ -52,7 +52,7 @@ sections:
       subtitle: 2024 PSA WINNER
       description: Tan Chin Tuan Centennial Professor,  National University of Singapore
       button: READ MORE
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_3__1_.png
+      image: /images/Infopic/2024/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_13092024.png
       url: /winners/2023/ysa/
   - infopic:
       title: GROUP WINNER
@@ -60,7 +60,7 @@ sections:
       description: Gurpreet Singh S/O Santokh Singh, Renzhe Bi, Malini Olivo, Augustine Tee
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_26082024_4.png
+      image: /images/Infopic/2024/PSTA_Website_Profile_PTA_Group_UNIFORM_13092024.png
   - infopic:
       title: Daniel Ting Shu Wei
       subtitle: 2024 YSA WINNER
@@ -69,7 +69,7 @@ sections:
         and Director, AI Office, SingHealth
       button: READ MORE
       url: /winners/2023/ysa/
-      image: /images/Infopic/PSTA_Application_Website_Profilesr_UNIFORM_20082024_5__1_.png
+      image: /images/Infopic/2024/PSTA_Website_Profile_YSA_DanielTing_UNIFORM_13092024.png
   - infopic:
       title: Jonathan Göke
       subtitle: 2024 YSA WINNER
@@ -80,6 +80,7 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
+      image: /images/Infopic/2024/PSTA_Website_Profile_YSA_JonathanG_UNIFORM_13092024.png
   - infopic:
       title: Li Qianxiao
       subtitle: 2024 YSA WINNER
@@ -89,6 +90,7 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
+      image: /images/Infopic/2024/PSTA_Website_Profile_YSA_LiQianXiao_UNIFORM_13092024.png
   - infopic:
       title: Lu Jiong
       subtitle: 2024 YSA WINNER
@@ -98,6 +100,7 @@ sections:
       button: READ MORE
       url: /winners/2023/ysa/
       alt: Image alt text
+      image: /images/Infopic/2024/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_13092024.png
   - infobar:
       title: The PSTA is organised by the National Research Foundation
       id: infobar
