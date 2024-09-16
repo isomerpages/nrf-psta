@@ -98,7 +98,7 @@ sections:
       description: Dean’s Chair Associate Professor, Department of Chemistry, National
         University of Singapore
       button: READ MORE
-      url: /winners/2023/ysa/
+      url: /young-scientist-award-2024/
       alt: Image alt text
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_13092024.png
   - infobar:
