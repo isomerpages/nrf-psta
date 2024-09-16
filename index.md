@@ -45,7 +45,7 @@ sections:
       description: Chairman, Singapore Aerospace Programme, Agency for Science,
         Technology and Research
       image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_13092024.png
-      url: /winners/2023/psa/
+      url: /president-s-science-technology-medal-2024/
       button: Read more
   - infopic:
       title: Liu Bin
