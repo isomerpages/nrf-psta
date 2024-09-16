@@ -17,10 +17,9 @@ third_nav_title: "2024"
 <br>Director
 <br>AI Office
 <br>SingHealth</p>
-<p>“For his significant contributions to AI in ophthalmology and healthcare,
-and his pioneering work in deep learning, generative AI, and trustworthy
-AI, advancing global ocular health.”</p>
-<p></p>
+<p><strong>“For his significant contributions to AI in ophthalmology and healthcare, and his pioneering work in deep learning, generative AI, and trustworthy AI, advancing global ocular health.”</strong>
+</p>
+<p>(Read the full citation here.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jonathan Göke" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_284_Edit_FINAL.jpg">
 </div>
@@ -29,7 +28,9 @@ AI, advancing global ocular health.”</p>
 <br>Laboratory of Computational Transcriptomics
 <br>Genome Institute of Singapore
 <br>Agency for Science, Technology and Research</p>
-<p></p>
+<p><strong>“For his pioneering work in developing computational methods for long read RNA sequencing data that have enabled the profiling of RNA transcription and modifications at unprecedented resolution and accuracy.”</strong>
+</p>
+<p>(Read the full citation here.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Li Qianxiao" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_143_Edit_Edit_FINAL.jpg">
 </div>
@@ -37,7 +38,9 @@ AI, advancing global ocular health.”</p>
 <p>Presidential Young Professor
 <br>Department of Mathematics
 <br>National University of Singapore</p>
-<p></p>
+<p><strong>“For his innovative work on the mathematical foundations of deep learning, its connections with dynamical systems, and applications in AI for science.”</strong>
+</p>
+<p>(Read the full citation here.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lu Jiong" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_398_Edit_Edit_FINAL.jpg">
 </div>
@@ -45,3 +48,6 @@ AI, advancing global ocular health.”</p>
 <p>Dean’s Chair Associate Professor
 <br>Department of Chemistry
 <br>National University of Singapore</p>
+<p><strong>“For his groundbreaking work in developing next-generation dynamic atomic-precision catalysts that are reshaping the current landscape of sustainable manufacturing processes in the fine chemicals and pharmaceutical industries.”</strong>
+</p>
+<p>(Read the full citation here.)</p>
