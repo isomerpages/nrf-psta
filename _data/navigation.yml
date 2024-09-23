@@ -1,0 +1,16 @@
+logo: /images/Logos/psta-logo-vfc.png
+links:
+  - title: About
+    collection: about
+  - title: How To Nominate
+    url: nominate
+  - title: Winners
+    collection: winners
+  - title: Gallery
+    collection: gallery
+  - title: Resources
+    resource_room: true
+  - title: FAQ
+    url: /faq/
+  - title: Contact
+    url: /contact-us/
