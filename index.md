@@ -49,7 +49,7 @@ sections:
       button: Read more
       alt: Richard Parker
   - infopic:
-      title:'"Original discoveries ignite science and transform innovation."'
+      title: '"Original discoveries ignite science and transform innovation."'
       subtitle: 2024 PSA WINNER
       description: Liu Bin<br>Tan Chin Tuan Centennial Professor<br>National University of Singapore
       button: READ MORE
