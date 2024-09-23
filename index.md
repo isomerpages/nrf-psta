@@ -33,9 +33,9 @@ sections:
       description: Celebrate with us as we honour the extraordinary individuals
         propelling Singapore's progress
   - infopic:
-      title: Ho Teck Hua
+      title: '"My dream is to produce some Nobel Prize and Turing Award winners for Singapore."'
       subtitle: 2024 PSTM WINNER
-      description: President, Nanyang Technological University
+      description: Ho Teck Hua<br>President,<br>Nanyang Technological University
       image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
       button: Read more
       url: /president-s-science-technology-medal-2024/
