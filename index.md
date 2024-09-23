@@ -39,67 +39,66 @@ sections:
       image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
       button: Read more
       url: /president-s-science-technology-medal-2024/
+      alt: Ho Teck Hua
   - infopic:
-      title: Richard Parker
+      title: '"Industry-academia partnerships drive innovation, turning research into real-world solutions."'
       subtitle: 2024 PSTM WINNER
-      description: Chairman, Singapore Aerospace Programme, Agency for Science,
-        Technology and Research
+      description: Richard Parker<br>Chairman<br>Singapore Aerospace Programme<br>Agency for Science, Technology and Research
       image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_13092024.png
       url: /president-s-science-technology-medal-2024/
       button: Read more
+      alt: Richard Parker
   - infopic:
-      title: Liu Bin
+      title:'"Original discoveries ignite science and transform innovation."'
       subtitle: 2024 PSA WINNER
-      description: Tan Chin Tuan Centennial Professor,  National University of Singapore
+      description: Liu Bin<br>Tan Chin Tuan Centennial Professor<br>National University of Singapore
       button: READ MORE
       image: /images/Infopic/2024/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_13092024.png
       url: /president-s-science-award-2024/
+      alt: Liu Bin
   - infopic:
-      title: GROUP WINNER
+      title: '"Clinical collaboration is the lifeline for scientific innovation in healthcare."'
       subtitle: 2024 PTA WINNERS
-      description: Gurpreet Singh S/O Santokh Singh, Renzhe Bi, Malini Olivo, Augustine Tee
+      description: Malini Olivo<br>Distinguished Principal Scientist<br>A*STAR Skin Research Labs
       button: READ MORE
       url: /president-s-technology-award-2024/
       image: /images/Infopic/2024/PSTA_Website_Profile_PTA_Group_UNIFORM_13092024.png
+      alt: Malini Olivo
   - infopic:
-      title: Daniel Ting Shu Wei
+      title: '"My mission is to leverage cutting-edge AI technology to prevent blindness worldwide."'
       subtitle: 2024 YSA WINNER
       id: infopic
-      description: Senior Consultant, Surgical Retina, Singapore National Eye Center,
-        and Director, AI Office, SingHealth
+      description: Daniel Ting Shu Wei<br>Senior Consultant (Surgical Retina)<br>Chief Data and Digital Officer<br>Singapore National Eye Centre<br>Director<br>AI Office<br>Singhealth
       button: READ MORE
       url: /young-scientist-award-2024/
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_DanielTing_UNIFORM_13092024.png
+      alt: Daniel Ting Shu Wei
   - infopic:
-      title: Jonathan Göke
+      title: '"Seeing my research enable new discoveries motivates me to push the boundaries of RNA profiling."'
       subtitle: 2024 YSA WINNER
       id: infopic
-      description: Senior Principal Scientist I, Laboratory of Computational
-        Transcriptomics Genome Institute of Singapore, Agency for Science,
-        Technology and Research
+      description: Jonathan Göke<br>Senior Principal Scientist<br>Laboratory of Computational Transcriptomics Genome Institute of Singapore<br>Agency for Science, Technology and Research
       button: READ MORE
       url: /young-scientist-award-2024/
-      alt: Image alt text
+      alt: Jonathan Göke
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_JonathanG_UNIFORM_13092024.png
   - infopic:
-      title: Li Qianxiao
+      title: '"Theory and algorithms I developed have been applied to improve AI models and accelerate scientific discovery."'
       subtitle: 2024 YSA WINNER
       id: infopic
-      description: Presidential Young Professor, Department of Mathematics, National
-        University of Singapore
+      description: Li Qianxiao<br>Presidential Young Professor<br>Department of Mathematics<br>National University of Singapore
       button: READ MORE
       url: /young-scientist-award-2024/
-      alt: Image alt text
+      alt: Li Qianxiao
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_LiQianXiao_UNIFORM_13092024.png
   - infopic:
-      title: Lu Jiong
+      title: '"Advances in atomic-precision chemistry can propel Singapore to be a leader in materials science."'
       subtitle: 2024 YSA WINNER
       id: infopic
-      description: Dean’s Chair Associate Professor, Department of Chemistry, National
-        University of Singapore
+      description: Lu Jiong<br>Dean’s Chair Associate Professor<br>Department of Chemistry<br>National University of Singapore
       button: READ MORE
       url: /young-scientist-award-2024/
-      alt: Image alt text
+      alt: Lu Jiong
       image: /images/Infopic/2024/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_13092024.png
   - infobar:
       title: The PSTA is organised by the National Research Foundation
