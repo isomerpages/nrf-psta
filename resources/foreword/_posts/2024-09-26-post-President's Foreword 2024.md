@@ -8,27 +8,33 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p>&lt;br&gt;</p>
-<p>Our largest global challenges, in addressing shifts in the earth’s environment
-and future pandemic risks, highlight the criticality of science and technology
-in finding effective solutions. Singapore’s future too will rest both on
-the advance of these global solutions, and on its own economic and social
-development being increasingly enabled by technological innovation.</p>
-<p>This year, the President's Science and Technology Awards (PSTA) honour
-individuals who have made exceptional contributions in the fields of material
-science, quantum mechanics and space technologies. From creating novel
-materials that could lead to cooler microelectronics and more energy efficient
-buildings, to enhancing Singapore’s capacity to design and manufacture
-satellites, these achievements can meaningfully enhance productivity, economic
-performance and sustainability.</p>
-<p>Our Young Scientist Awardees have also made significant research inroads
-in natural language processing, quantum materials and membrane proteins
-associated with human diseases. They point to a bright future for the advancement
-and use of science and technology in Singapore.</p>
-<p>My warmest congratulations to all the award recipients!</p>
 <p></p>
-<p>## <strong>Tharman Shanmugaratnam</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Presidents foreword/tharman-shanmugaratnam-photo.jpg">
+</div>
+<p>The President’s Science and Technology Awards recognises outstanding achievements
+in our scientific community, with the potential to tackle the challenges
+of our times and touch many lives. &nbsp;
+<br>
+<br>This year’s awardees once again exemplify the spirit of innovation. From
+shaping our R&amp;D landscape, to nurturing talent and fostering interdisciplinary
+collaborations. From transforming the management of cardio-respiratory
+diseases, to resolving a mystery in organic luminescent materials that
+have stumped scientists for decades, enabling the design of high-performance
+materials with important new applications.
+<br>
+<br>Our Young Scientist Award recipients themselves reflect the growing depth
+and diversity of Singapore’s R&amp;D talent pipeline. Their contributions
+span across advancing artificial intelligence, designing green catalysts
+for sustainable manufacturing, developing computational methods for ribonucleic
+acid research, and improving eye health. I look forward to seeing them
+and other young scientists make even greater impacts in the years to come.
+<br>
+<br>My warmest congratulations to each of this year’s recipients of the President’s
+Science and Technology Awards!</p>
+<p></p>
+<p><strong>Tharman Shanmugaratnam</strong>
 </p>
 <p>President of the Republic of Singapore</p>
-<p>&lt;br&gt;</p>
+<p></p>
 <p>&lt;br&gt;</p>
