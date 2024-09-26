@@ -32,6 +32,7 @@ and other young scientists make even greater impacts in the years to come.
 <br>
 <br>My warmest congratulations to each of this year’s recipients of the President’s
 Science and Technology Awards!</p>
-<p></p>
-<h4><strong>Tharman Shanmugaratnam</strong><br>President of the Republic of Singapore</h4>
+<h4></h4>
+<h4><strong>Tharman Shanmugaratnam</strong><br></h4>
+<p>President of the Republic of Singapore</p>
 <p></p>
