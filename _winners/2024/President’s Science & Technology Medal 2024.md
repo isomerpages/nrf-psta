@@ -14,8 +14,8 @@ third_nav_title: "2024"
 <br>Nanyang Technological University</p>
 <p><strong>"For his profound impact on the science and technology landscape in Singapore, especially in nurturing a pipeline of top talent, fostering interdisciplinary research, and building national R&amp;D ecosystems."</strong>
 </p>
-<p>(Read the full citation here.)</p>
-<p></p>
+<p><a href="/files/Citations/2024/2024_PSTM_Ho_Teck_Hua.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read the full citation here.</a>
+</p>
 <p></p>
 <h4><strong>Richard Parker</strong></h4>
 <p>Chairman
