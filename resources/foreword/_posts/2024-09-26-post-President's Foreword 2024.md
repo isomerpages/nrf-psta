@@ -34,7 +34,5 @@ and other young scientists make even greater impacts in the years to come.
 Science and Technology Awards!</p>
 <p></p>
 <p><strong>Tharman Shanmugaratnam</strong>
-</p>
-<p>President of the Republic of Singapore</p>
+<br>President of the Republic of Singapore</p>
 <p></p>
-<p>&lt;br&gt;</p>
