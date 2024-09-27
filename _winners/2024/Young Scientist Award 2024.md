@@ -7,17 +7,16 @@ third_nav_title: "2024"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Daniel Ting Shu Wei" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_098_Edit_FINAL.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Daniel Ting Shu Wei" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_098_Edit_FINAL.jpg">
 </div>
 <h4><strong>Daniel Ting Shu Wei</strong></h4>
-<p>Senior Consultant
-<br>Surgical Retina
+<p>Senior Consultant (Surgical Retina) Download Full Citation
 <br>Singapore National Eye Center
 <br>
 <br>Director
 <br>AI Office
 <br>SingHealth</p>
-<p><strong>“For his significant contributions to AI in ophthalmology and healthcare, and his pioneering work in deep learning, generative AI, and trustworthy AI, advancing global ocular health.”</strong>
+<p><strong>“For his significant contributions to AI in ophthalmology and healthcare, and his pioneering work in deep learning, generative AI, and trustworthy AI, advancing global ocular health.</strong>
 </p>
 <p>(Read the full citation here.)</p>
 <div class="isomer-image-wrapper">
@@ -48,6 +47,6 @@ third_nav_title: "2024"
 <p>Dean’s Chair Associate Professor
 <br>Department of Chemistry
 <br>National University of Singapore</p>
-<p><strong>“For his groundbreaking work in developing next-generation dynamic atomic-precision catalysts that are reshaping the current landscape of sustainable manufacturing processes in the fine chemicals and pharmaceutical industries.”</strong>
+<p><strong>“For his groundbreaking work in developing next-generation dynamic atomic-precision catalysts that are reshaping the current landscape of sustainable manufacturing processes in the fine chemicals and pharmaceutical industries.” </strong>
 </p>
 <p>(Read the full citation here.)</p>
