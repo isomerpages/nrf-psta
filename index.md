@@ -72,9 +72,6 @@ sections:
         boundaries of RNA profiling."'
       subtitle: 2024 YSA WINNER
       id: infopic
-      description: Jonathan Göke<br>Senior Principal Scientist<br>Laboratory of
-        Computational Transcriptomics Genome Institute of Singapore<br>Agency
-        for Science, Technology and Research
       button: READ MORE
       url: /young-scientist-award-2024/
       alt: Jonathan Göke
