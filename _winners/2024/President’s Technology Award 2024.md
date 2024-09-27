@@ -35,6 +35,6 @@ third_nav_title: "2024"
 <br>
 </p>
 <p><strong>“For their innovative integration of biophotonics, machine learning and clinical data to create Respiree, a healthcare solution which has demonstrated the potential to transform cardio-respiratory disease management in real-world settings.” </strong>
-<a href="/files/Citations/2024/2024_PTA_Malini_and_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a><strong> </strong>
+<a href="/files/Citations/2024/2024_PTA_Malini_and_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
