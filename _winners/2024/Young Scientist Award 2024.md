@@ -20,8 +20,9 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_YSA_Daniel_Ting.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Jonathan Göke" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_284_Edit_FINAL.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Jonathan Göke" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_284_Edit_FINAL.jpg">
 </div>
 <h4><strong>Jonathan Göke</strong></h4>
 <p>Senior Principal Scientist I
@@ -32,8 +33,9 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_YSA_Jonathan_Goke.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Li Qianxiao" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_143_Edit_Edit_FINAL.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Li Qianxiao" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_143_Edit_Edit_FINAL.jpg">
 </div>
 <h4><strong>Li Qianxiao</strong></h4>
 <p>Presidential Young Professor
@@ -43,8 +45,9 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_YSA_Li_Qianxiao.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Lu Jiong" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_398_Edit_Edit_FINAL.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Lu Jiong" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_398_Edit_Edit_FINAL.jpg">
 </div>
 <h4><strong>Lu Jiong</strong></h4>
 <p>Dean’s Chair Associate Professor
