@@ -16,6 +16,7 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_PSTM_Ho_Teck_Hua.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
