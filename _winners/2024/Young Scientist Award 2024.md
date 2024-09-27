@@ -11,6 +11,7 @@ third_nav_title: "2024"
 </div>
 <h4><strong>Daniel Ting Shu Wei</strong></h4>
 <p>Senior Consultant (Surgical Retina)
+<br>Chief Data and Digital Officer
 <br>Singapore National Eye Center
 <br>
 <br>Director
