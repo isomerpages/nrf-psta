@@ -7,7 +7,7 @@ third_nav_title: "2024"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Daniel Ting Shu Wei" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_098_Edit_FINAL.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Daniel Ting Shu Wei" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_098_Edit_FINAL.jpg">
 </div>
 <h4><strong>Daniel Ting Shu Wei</strong></h4>
 <p>Senior Consultant (Surgical Retina)
