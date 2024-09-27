@@ -17,6 +17,7 @@ third_nav_title: "2024"
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Winners/2024/Prof_Richard_Parker_for_media.jpg">
 </div>
