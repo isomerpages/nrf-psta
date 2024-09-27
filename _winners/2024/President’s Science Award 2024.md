@@ -7,7 +7,7 @@ third_nav_title: "2024"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Liu Bin" src="/images/Winners/2024/2MB_2C8A2740_FINAL.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Liu Bin" src="/images/Winners/2024/2MB_2C8A2740_FINAL.jpg">
 </div>
 <p></p>
 <h4><strong>Liu Bin</strong></h4>
