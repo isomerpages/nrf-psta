@@ -50,6 +50,7 @@ third_nav_title: "2024"
 <p>Dean’s Chair Associate Professor
 <br>Department of Chemistry
 <br>National University of Singapore</p>
-<p><strong>“For his groundbreaking work in developing next-generation dynamic atomic-precision catalysts that are reshaping the current landscape of sustainable manufacturing processes in the fine chemicals and pharmaceutical industries.”</strong>
+<p><strong>“For his groundbreaking work in developing next-generation dynamic atomic-precision catalysts that are reshaping the current landscape of sustainable manufacturing processes in the fine chemicals and pharmaceutical industries.” </strong>
+<a href="/files/Citations/2024/2024_YSA_Lu_Jiong.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p>(Read the full citation here.)</p>
