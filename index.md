@@ -7,8 +7,7 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
 image: /images/isomer-logo.svg
 permalink: /
 notification: Congratulations to our 2024 winners! Read more below and join us
-  in celebrating these extraordinary individuals propelling Singapore's
-  progress.
+  in celebrating extraordinary individuals propelling Singapore's progress.
 sections:
   - hero:
       title: President's Science and Technology Awards 2024
