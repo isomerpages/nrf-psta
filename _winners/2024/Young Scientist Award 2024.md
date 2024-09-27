@@ -21,6 +21,7 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_YSA_Daniel_Ting.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="Jonathan Göke" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_284_Edit_FINAL.jpg">
@@ -34,6 +35,7 @@ third_nav_title: "2024"
 <a href="/files/Citations/2024/2024_YSA_Jonathan_Goke.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="Li Qianxiao" src="/images/Winners/2024/2MB_070824_NRF_YSA_Portraits_143_Edit_Edit_FINAL.jpg">
@@ -45,6 +47,7 @@ third_nav_title: "2024"
 <p><strong>“For his innovative work on the mathematical foundations of deep learning, its connections with dynamical systems, and applications in AI for science.” </strong>
 <a href="/files/Citations/2024/2024_YSA_Li_Qianxiao.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
