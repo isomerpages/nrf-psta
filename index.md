@@ -39,7 +39,7 @@ sections:
       title: '"Industry-academia partnerships drive innovation, turning research into
         real-world solutions."'
       subtitle: 2024 PSTM WINNER
-      image: /images/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_23092024__1_.png
+      image: /images/Infopic/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_23092024__1_.png
       url: /president-s-science-technology-medal-2024/
       button: Read more
       alt: Richard Parker
