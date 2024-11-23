@@ -25,6 +25,7 @@ Portal.</p>
 <li>
 <p><a href="https://go.gov.sg/pta-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
 </p>
+<p></p>
 <p><em>Note: For the PSA and PTA forms, please ensure the nominees sign the </em><strong><em><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></em></strong><em> section in the forms. Two signatures are required and we accept digital or electronic signatures.</em>
 <br>
 </p>
@@ -51,9 +52,6 @@ out in:</p>
 </ul>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png"></a>
 <p></p>
 <p></p>
