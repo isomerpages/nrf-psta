@@ -16,12 +16,6 @@ Please download and complete the appropriate forms via the links below. You are 
 2. **SingPass login is required to access the Nomination Portal**<br>
 Should you encounter any issues, please email PSTA_secretariat@nrf.gov.sg. 
 <br>
-
-##### All set? Click below to submit your nomination. #####
-<p><a href="https://go.gov.sg/psta2024-nomination">
-<img src="/images/Nominate%20Button/nomination-button2-210x173px.png" alt="Nominate now" style="width:210px;">
-</a></p>
-<br>
 The consent to use personal data and the terms of participation is laid out in:
 
 * [Privacy Statement](/privacy/)<br>
