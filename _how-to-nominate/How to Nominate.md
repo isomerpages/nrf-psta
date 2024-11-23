@@ -15,15 +15,15 @@ Portal.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/pstm-nomination-form-2024" rel="noopener noreferrer nofollow" target="_blank">President's Science and Technology Medal (PSTM)</a>
+<p><a href="https://go.gov.sg/pstm-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science and Technology Medal (PSTM)</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/psa-nomination-form-2024" rel="noopener noreferrer nofollow" target="_blank">President's Science Award (PSA)</a>
+<p><a href="https://go.gov.sg/psa-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science Award (PSA)</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/pta-nomination-form-2024" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
+<p><a href="https://go.gov.sg/pta-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
 </p>
 </li>
 <li>
