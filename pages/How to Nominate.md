@@ -2,21 +2,56 @@
 title: How to Nominate
 permalink: /nominate/
 description: President's Science & Technology Awards (PSTA) How to Nominate
-variant: markdown
+variant: tiptap
 ---
-### Get Ready to Nominate:
-
-1. **Download and complete the soft copy documents**<br>
-Please download and complete the appropriate forms via the links below. You are required to upload the completed soft copy forms into the Nomination Portal.
-* [President's Science &amp; Technology Award (PSTM)](https://go.gov.sg/pstm-nomination-form-2025)
-* [President's Science Award (PSA)](https://go.gov.sg/psa-nomination-form-2025)
-* [President's Technology Award (PTA)](https://go.gov.sg/pta-nomination-form-2025)
-* *Note: For the PSA and PTA forms, please ensure the nominees sign the <b><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></b> section in the forms. Two signatures are required and we accept digital or electronic signatures.*<br><br>
-
-2. **SingPass login is required to access the Nomination Portal**<br>
-Should you encounter any issues, please email PSTA_secretariat@nrf.gov.sg. 
+<h3>Get Ready to Nominate:</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Download and complete the soft copy documents</strong>
+<br>Please download and complete the appropriate forms via the links below.
+You are required to upload the completed soft copy forms into the Nomination
+Portal.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/pstm-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science &amp; Technology Award (PSTM)</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/psa-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science Award (PSA)</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pta-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
+</p>
+</li>
+<li>
+<p><em>Note: For the PSA and PTA forms, please ensure the nominees sign the </em><strong><em><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></em></strong><em> section in the forms. Two signatures are required and we accept digital or electronic signatures.</em>
 <br>
-The consent to use personal data and the terms of participation is laid out in:
-
-* [Privacy Statement](/privacy/)<br>
-* [Terms of Participation](/terms-of-use/)
+<br>
+</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>SingPass login is required to access the Nomination Portal</strong>
+<br>Should you encounter any issues, please email PSTA_secretariat@nrf.gov.sg.
+<br>The consent to use personal data and the terms of participation is laid
+out in:</p>
+</li>
+</ol>
+<h3>All set? Click below to submit your nomination.</h3>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png"></a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">Terms of Participation</a>
+</p>
+</li>
+</ul>
+<p></p>
