@@ -52,6 +52,6 @@ out in:</p>
 </ul>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png"></a>
 <p></p>
 <p></p>
