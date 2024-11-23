@@ -22,7 +22,7 @@ sections:
       title: President's Foreword
       id: infopic
       description: Foreword by Mr Tharman Shanmugaratnam, President of The Republic of
-        Singapore
+        Singapore.
       image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
       button: Read Here
