@@ -15,7 +15,7 @@ Portal.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/pstm-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science and Technology Medal (PSTM)</a>
+<p><a href="https://go.gov.sg/pstm-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science &amp; Technology Award (PSTM)</a>
 </p>
 </li>
 <li>
@@ -25,10 +25,7 @@ Portal.</p>
 <li>
 <p><a href="https://go.gov.sg/pta-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
 </p>
-</li>
-<li>
 <p><em>Note: For the PSA and PTA forms, please ensure the nominees sign the </em><strong><em><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></em></strong><em> section in the forms. Two signatures are required and we accept digital or electronic signatures.</em>
-<br>
 <br>
 </p>
 </li>
@@ -36,20 +33,15 @@ Portal.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>SingPass login is required to access the Nomination Portal</strong>
-<br>Should you encounter any issues, please email us at <a href="mailto:PSTA_secretariat@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PSTA_secretariat@nrf.gov.sg</u></a>.
-<br>
-</p>
-</li>
-</ol>
-<h5>All set? Click below to submit your nomination.</h5>
-<p></p>
-<p>
+<br>Should you encounter any issues, please email <a href="mailto:PSTA_secretariat@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PSTA_secretariat@nrf.gov.sg</a>.
 <br>The consent to use personal data and the terms of participation is laid
 out in:</p>
+</li>
+</ol>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
-<br>
 </p>
 </li>
 <li>
@@ -57,4 +49,11 @@ out in:</p>
 </p>
 </li>
 </ul>
+<h3>All set? Click below to submit your nomination.</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png">
+</div>
+<p></p>
 <p></p>
