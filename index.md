@@ -17,7 +17,7 @@ sections:
       subtitle: Singapore's top award recognising excellence in research, innovation
         and enterprise
       button: PSTA 2025 NOMINATIONS NOW OPEN
-      url: https://www.psta.gov.sg/nominate/
+      url: /nominate/
   - infopic:
       title: President's Foreword
       id: infopic
