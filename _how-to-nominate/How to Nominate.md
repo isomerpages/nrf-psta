@@ -1,6 +1,6 @@
 ---
 title: How to Nominate
-permalink: /Nominate/
+permalink: /nominate/
 description: ""
 variant: tiptap
 ---
