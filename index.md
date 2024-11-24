@@ -6,23 +6,23 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Congratulations to our 2024 winners! Read more below and join us
-  in celebrating extraordinary individuals propelling Singapore's progress.
+notification: Nominations are now open for the PSTA 2025. Submit your
+  nominations at psta.gov.sg/nominate
 sections:
   - hero:
-      title: President's Science and Technology Awards 2024
+      title: President's Science and Technology Awards
       background: /images/Hero
         Background/PSTA_Application_Website_Hero_Banner_UNIFORM_20082024_2__1_.png
       variant: center
       subtitle: Singapore's top award recognising excellence in research, innovation
         and enterprise
-      button: EXPLORE PAST RECIPIENTS
-      url: https://www.psta.gov.sg/winners/2023/pstm/
+      button: PSTA 2025 NOMINATIONS NOW OPEN
+      url: https://www.psta.gov.sg/nominate/
   - infopic:
       title: President's Foreword
       id: infopic
       description: Foreword by Mr Tharman Shanmugaratnam, President of The Republic of
-        Singapore
+        Singapore.
       image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
       button: Read Here
