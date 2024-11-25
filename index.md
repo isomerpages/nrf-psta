@@ -6,8 +6,8 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Nominations for the PSTA 2025 are now open! Submit your
-  nominations at psta.gov.sg/nominate
+notification: Nominations for PSTA 2025 are now open! Submit your nominations at
+  psta.gov.sg/nominate
 sections:
   - hero:
       title: President's Science and Technology Awards
@@ -94,11 +94,15 @@ sections:
       url: /young-scientist-award-2024/
       alt: Lu Jiong
       image: /images/Infopic/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_23092024.png
-  - infobar:
-      title: The PSTA is organised by the National Research Foundation
-      id: infobar
-      button: learn more about Nrf here
+  - infopic:
+      title: NRF Singapore
+      subtitle: Organiser
+      id: infopic
+      description: The PSTA is organised by the National Research Foundation
+      button: Learn more about Nrf here
       url: https://www.nrf.gov.sg/
+      image: /images/Infopic/nrf.jpg
+      alt: Image alt text
   - resources:
       title: Media & Publications
       id: resources
