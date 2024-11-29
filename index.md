@@ -6,16 +6,18 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Nominations for PSTA 2025 are now open! Submit your nominations at
-  psta.gov.sg/nominate
+notification: Nominations are open for PSTA 2025! Join us in recognising
+  excellence in research, innovation and enterprise. Submit your nominations at
+  psta.gov.sg/nominate by 20 January 2025.
 sections:
   - hero:
       title: President's Science and Technology Awards
       background: /images/Hero
         Background/PSTA_Application_Website_Hero_Banner_UNIFORM_20082024_2__1_.png
       variant: center
-      subtitle: Singapore's top award recognising excellence in research, innovation
-        and enterprise
+      subtitle: Corporates, universities, research institutions and technology firms
+        encouraged to submit nominations for Singapore's top Science and
+        Technology Awards
       button: PSTA 2025 NOMINATIONS NOW OPEN
       url: /nominate/
   - infopic:
