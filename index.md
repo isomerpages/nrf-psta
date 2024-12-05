@@ -16,7 +16,7 @@ sections:
       subtitle: Corporates, universities, research institutions and technology firms
         encouraged to submit nominations for Singapore's top Science and
         Technology Awards
-      button: SUBMIT YOUR NOMINATIONS BY 20 JANUARY 2025
+      button: SUBMIT YOUR NOMINATIONS BY 5PM ON 20 JANUARY 2025
       url: /nominate/
   - infopic:
       title: President's Foreword
