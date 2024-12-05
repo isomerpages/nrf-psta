@@ -18,7 +18,8 @@ sections:
       subtitle: Corporates, universities, research institutions and technology firms
         encouraged to submit nominations for Singapore's top Science and
         Technology Awards
-      button: PSTA 2025 NOMINATIONS NOW OPEN
+      button: PSTA 2025 NOMINATIONS NOW OPEN UNTIL 20 JANUARY 2025 - CORPORATES,
+        UNIVERSITIES, RESEARCH INSTITUTIONS AND TECHNOLOGY
       url: /nominate/
   - infopic:
       title: President's Foreword
