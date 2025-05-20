@@ -13,19 +13,19 @@ third_nav_title: "2024"
 <p>Distinguished Principal Scientist
 <br>Translational Biophotonics Lab
 <br>A*STAR Skin Research Labs
-<br>Agency for Science, Technology and Research Skin Research Labs</p>
+<br>Agency for Science, Technology nd Research</p>
 <h4><strong>Gurpreet Singh S/O Santokh Singh</strong></h4>
 <p>CEO and Founder
 <br>Respiree Pte Ltd</p>
 <p>Principal Scientist
 <br>Translational Biophotonics Lab
 <br>A*STAR Skin Research Labs
-<br>Agency for Science, Technology and Research Skin Research Labs</p>
+<br>Agency for Science, Technology and Research</p>
 <h4><strong>Renzhe Bi</strong></h4>
 <p>Principal Scientist
 <br>Translational Biophotonics Lab
 <br>A*STAR Skin Research Labs
-<br>Agency for Science, Technology and Research Skin Research Labs</p>
+<br>Agency for Science, Technology and Research</p>
 <h4><strong>Augustine Tee</strong></h4>
 <p>Chairman
 <br>Division of Medicine and
