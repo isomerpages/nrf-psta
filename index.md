@@ -12,8 +12,7 @@ notification: Nominations for the President's Science and Technology Awards 2025
 sections:
   - hero:
       title: President's Science and Technology Awards
-      background: /images/Hero
-        Background/PSTA_Application_Website_Hero_Banner_UNIFORM_20082024_2__1_.png
+      background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
       subtitle: Singapore's top award recognising excellence in research, innovation
         and enterprise
