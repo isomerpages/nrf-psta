@@ -24,11 +24,11 @@ third_nav_title: "2025"
 <img style="width: 100%" height="auto" width="100%" alt="Lisa Ng" src="/images/Winners/2025/psa25_ln.jpg">
 </div>
 <h4><strong>Lisa Ng</strong></h4>
-<p>Executive Director</p>
-<p>A*STAR Infectious Diseases Labs</p>
-<p>Biomedical Research Council</p>
-<p>Agency for Science, Technology and Research</p>
-<p><strong>"For her pioneering contributions to viral infection immunology and advancing global pandemic management through groundbreaking research on Arboviruses, in particular, Chikungunya." </strong>
+<p>Executive Director
+<br>A*STAR Infectious Diseases Labs
+<br>Biomedical Research Council
+<br>Agency for Science, Technology and Research</p>
+<p><strong>"For her pioneering contributions to viral infection immunology and advancing global pandemic management through groundbreaking research on Arboviruses, in particular, Chikungunya."</strong>
 </p>
 <p><a href="/files/Citations/2024/2024_PSTM_Ho_Teck_Hua.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
