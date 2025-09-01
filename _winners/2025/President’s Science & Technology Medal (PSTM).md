@@ -10,7 +10,7 @@ third_nav_title: "2025"
 </div>
 <h4><strong>Tan Eng Chye</strong></h4>
 <p>President
-<br>Nanyang Technological University</p>
+<br>National University of Singapore</p>
 <p><strong>"For his transformative contributions in advancing Singapore’s research and innovation landscape through interdisciplinary education, international partnerships, and deep tech innovation and ecosystem building, nurturing future leaders and elevating Singapore’s global standing in science and technology."</strong>
 <br><a href="/files/Citations/2024/2024_PSTM_Ho_Teck_Hua.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
