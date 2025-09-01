@@ -2,7 +2,6 @@ collections:
   winners:
     output: true
     order:
-      - PSTM/.keep
       - 2025.md
       - 2024/.keep
       - 2024/President’s Science & Technology Medal 2024.md
