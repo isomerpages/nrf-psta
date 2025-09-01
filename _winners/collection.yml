@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2025/President’s Technology Award (PTA).md
       - 2025/President’s Science Award (PSA).md
       - 2025/President’s Science & Technology Medal (PSTM).md
       - 2025/.keep
