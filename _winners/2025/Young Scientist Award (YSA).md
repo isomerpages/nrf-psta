@@ -50,6 +50,7 @@ third_nav_title: "2025"
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Andy Tay Kah Ping" src="/images/Winners/2025/ysa25_atkp.jpg">
 </div>
