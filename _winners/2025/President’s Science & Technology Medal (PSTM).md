@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2025"
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Eng Chye" src="/images/Winners/pstm25_tec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tan Eng Chye" src="/images/Winners/2025/pstm25_tec.jpg">
 </div>
 <h4><strong>Tan Eng Chye</strong></h4>
 <p>President
