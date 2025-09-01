@@ -16,8 +16,40 @@ third_nav_title: "2025"
 <br><strong> </strong><a href="/files/Citations/2024/2024_PSTM_Ho_Teck_Hua.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
