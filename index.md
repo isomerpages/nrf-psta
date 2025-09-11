@@ -38,7 +38,7 @@ sections:
       title: '"Disease knows no boundaries; neither should science."'
       subtitle: 2025 PSA WINNER
       image: /images/Infopic/2025/psa25_infopic_lct.png
-      url: /president-s-science-technology-medal-2025/
+      url: /president-s-science-award-2025/
       button: Read more
       alt: Lim Chwee Teck
   - infopic:
@@ -46,19 +46,18 @@ sections:
       subtitle: 2025 PSA WINNER
       button: READ MORE
       image: /images/Infopic/2025/psa25_infopic_ln.png
-      url: /president-s-science-award-2024/
+      url: /president-s-science-award-2025/
       alt: Lisa Ng
   - infopic:
       title: "\"We have built more than technology; we've cultivated a t..."
-      subtitle: 2025 PTA WINNERS
+      subtitle: 2025 PTA WINNER
       button: READ MORE
       url: /president-s-technology-award-2025/
       image: /images/Infopic/2025/pta25_infopic_ngi.png
       alt: Ng Geok Ing
   - infopic:
-      title: '"My mission is to leverage cutting-edge AI technology to prevent
-        blindness worldwide."'
-      subtitle: 2024 YSA WINNER
+      title: '"Each discovery deepens our understanding of human biolo...'
+      subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
       url: /young-scientist-award-2024/
