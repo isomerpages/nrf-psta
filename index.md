@@ -28,8 +28,7 @@ sections:
       button: Read Here
       url: /resources/foreword2024/permalink/
   - infopic:
-      title: '"My dream is to produce some Nobel Prize and Turing Award winners for
-        Singapore."'
+      title: '"This journey reflects what we have built together as a un..'
       subtitle: 2024 PSTM WINNER
       image: /images/Infopic/pstm25_infopic_tec.png
       button: Read more
