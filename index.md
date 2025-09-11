@@ -49,9 +49,8 @@ sections:
       url: /president-s-science-award-2024/
       alt: Lisa Ng
   - infopic:
-      title: '"Clinical collaboration is the lifeline for scientific innovation in
-        healthcare."'
-      subtitle: 2024 PTA WINNERS
+      title: "\"We have built more than technology; we've cultivated a t..."
+      subtitle: 2025 PTA WINNERS
       button: READ MORE
       url: /president-s-technology-award-2024/
       image: /images/Infopic/PSTA_Website_Profile_PTA_Group_UNIFORM_23092024.png
