@@ -36,11 +36,11 @@ sections:
       alt: Tan Eng Chye
   - infopic:
       title: '"Disease knows no boundaries; neither should science."'
-      subtitle: 2024 PSTM WINNER
+      subtitle: 2025 PSA WINNER
       image: /images/Infopic/2025/psa25_infopic_lct.png
       url: /president-s-science-technology-medal-2024/
       button: Read more
-      alt: Richard Parker
+      alt: Lim Chwee Teck
   - infopic:
       title: '"Original discoveries ignite science and transform innovation."'
       subtitle: 2024 PSA WINNER
