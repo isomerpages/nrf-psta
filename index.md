@@ -64,14 +64,13 @@ sections:
       image: /images/Infopic/2025/ysa25_infopic_cyh.png
       alt: Chan Yi Hao
   - infopic:
-      title: '"Seeing my research enable new discoveries motivates me to push the
-        boundaries of RNA profiling."'
-      subtitle: 2024 YSA WINNER
+      title: '"These breakthroughs are more than just lab curiosit...'
+      subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
       url: /young-scientist-award-2024/
       alt: Jonathan Göke
-      image: /images/Infopic/PSTA_Website_Profile_YSA_JonathanG_UNIFORM_23092024.png
+      image: /images/Infopic/2025/ysa25_infopic_atkp.png
   - infopic:
       title: '"Theory and algorithms I developed have been applied to improve AI
         models and accelerate scientific discovery."'
