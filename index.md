@@ -60,9 +60,9 @@ sections:
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2024/
-      image: /images/Infopic/PSTA_Website_Profile_YSA_DanielTing_UNIFORM_23092024.png
-      alt: Daniel Ting Shu Wei
+      url: /young-scientist-award-2025/
+      image: /images/Infopic/2025/ysa25_infopic_cyh.png
+      alt: Chan Yi Hao
   - infopic:
       title: '"Seeing my research enable new discoveries motivates me to push the
         boundaries of RNA profiling."'
