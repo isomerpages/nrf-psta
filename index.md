@@ -32,7 +32,7 @@ sections:
       subtitle: 2025 PSTM WINNER
       image: /images/Infopic/pstm25_infopic_tec.png
       button: Read more
-      url: /president-s-science-technology-medal-2024/
+      url: /president-s-science-technology-medal-2025/
       alt: Tan Eng Chye
   - infopic:
       title: '"Disease knows no boundaries; neither should science."'
