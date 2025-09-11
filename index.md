@@ -81,12 +81,12 @@ sections:
       image: /images/Infopic/2025/ysa25_infopic_lz.png
   - infopic:
       title: '"Meaningful contributions often come from perseve...'
-      subtitle: 2024 YSA WINNER
+      subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2024/
-      alt: Lu Jiong
-      image: /images/Infopic/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_23092024.png
+      url: /young-scientist-award-2025/
+      alt: Wang Xinchao
+      image: /images/Infopic/2025/ysa25_infopic_wx.png
   - infopic:
       title: NRF Singapore
       subtitle: Organiser
