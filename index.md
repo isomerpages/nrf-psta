@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: '"This journey reflects what we have built together as a un..'
       subtitle: 2025 PSTM WINNER
-      image: /images/Infopic/pstm25_infopic_tec.png
+      image: /images/Infopic/2025/pstm25_infopic_tec.png
       button: Read more
       url: /president-s-science-technology-medal-2025/
       alt: Tan Eng Chye
