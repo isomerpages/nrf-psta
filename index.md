@@ -42,8 +42,8 @@ sections:
       button: Read more
       alt: Lim Chwee Teck
   - infopic:
-      title: '"Original discoveries ignite science and transform innovation."'
-      subtitle: 2024 PSA WINNER
+      title: "\"When pandemics hit, I saw how research isn't just acade..."
+      subtitle: 2025 PSA WINNER
       button: READ MORE
       image: /images/Infopic/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_23092024.png
       url: /president-s-science-award-2024/
