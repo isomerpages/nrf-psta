@@ -72,9 +72,8 @@ sections:
       alt: Andy tay Kah Ping
       image: /images/Infopic/2025/ysa25_infopic_atkp.png
   - infopic:
-      title: '"Theory and algorithms I developed have been applied to improve AI
-        models and accelerate scientific discovery."'
-      subtitle: 2024 YSA WINNER
+      title: "\"True innovation isn't just about smaller machines; it's ..."
+      subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
       url: /young-scientist-award-2024/
