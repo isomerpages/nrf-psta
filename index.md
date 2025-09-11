@@ -45,9 +45,9 @@ sections:
       title: "\"When pandemics hit, I saw how research isn't just acade..."
       subtitle: 2025 PSA WINNER
       button: READ MORE
-      image: /images/Infopic/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_23092024.png
+      image: /images/Infopic/2025/psa25_infopic_ln.png
       url: /president-s-science-award-2024/
-      alt: Liu Bin
+      alt: Lisa Ng
   - infopic:
       title: '"Clinical collaboration is the lifeline for scientific innovation in
         healthcare."'
