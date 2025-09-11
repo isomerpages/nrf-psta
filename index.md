@@ -29,11 +29,11 @@ sections:
       url: /resources/foreword2024/permalink/
   - infopic:
       title: '"This journey reflects what we have built together as a un..'
-      subtitle: 2024 PSTM WINNER
+      subtitle: 2025 PSTM WINNER
       image: /images/Infopic/pstm25_infopic_tec.png
       button: Read more
       url: /president-s-science-technology-medal-2024/
-      alt: Ho Teck Hua
+      alt: Tan Eng Chye
   - infopic:
       title: '"Industry-academia partnerships drive innovation, turning research into
         real-world solutions."'
