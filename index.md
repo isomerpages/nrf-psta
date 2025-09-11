@@ -52,9 +52,9 @@ sections:
       title: "\"We have built more than technology; we've cultivated a t..."
       subtitle: 2025 PTA WINNERS
       button: READ MORE
-      url: /president-s-technology-award-2024/
-      image: /images/Infopic/PSTA_Website_Profile_PTA_Group_UNIFORM_23092024.png
-      alt: Malini Olivo
+      url: /president-s-technology-award-2025/
+      image: /images/Infopic/2025/pta25_infopic_ngi.png
+      alt: Ng Geok Ing
   - infopic:
       title: '"My mission is to leverage cutting-edge AI technology to prevent
         blindness worldwide."'
