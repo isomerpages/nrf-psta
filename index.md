@@ -35,10 +35,9 @@ sections:
       url: /president-s-science-technology-medal-2024/
       alt: Tan Eng Chye
   - infopic:
-      title: '"Industry-academia partnerships drive innovation, turning research into
-        real-world solutions."'
+      title: '"Disease knows no boundaries; neither should science."'
       subtitle: 2024 PSTM WINNER
-      image: /images/Infopic/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_23092024__1_.png
+      image: /images/Infopic/2025/psa25_infopic_lct.png
       url: /president-s-science-technology-medal-2024/
       button: Read more
       alt: Richard Parker
