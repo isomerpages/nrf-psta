@@ -38,7 +38,7 @@ sections:
       title: '"Disease knows no boundaries; neither should science."'
       subtitle: 2025 PSA WINNER
       image: /images/Infopic/2025/psa25_infopic_lct.png
-      url: /president-s-science-technology-medal-2024/
+      url: /president-s-science-technology-medal-2025/
       button: Read more
       alt: Lim Chwee Teck
   - infopic:
