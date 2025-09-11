@@ -31,7 +31,7 @@ sections:
       title: '"My dream is to produce some Nobel Prize and Turing Award winners for
         Singapore."'
       subtitle: 2024 PSTM WINNER
-      image: /images/Infopic/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_23092024.png
+      image: /images/Infopic/pstm25_infopic_tec.png
       button: Read more
       url: /president-s-science-technology-medal-2024/
       alt: Ho Teck Hua
