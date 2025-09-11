@@ -68,8 +68,8 @@ sections:
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2024/
-      alt: Jonathan Göke
+      url: /young-scientist-award-2025/
+      alt: Andy tay Kah Ping
       image: /images/Infopic/2025/ysa25_infopic_atkp.png
   - infopic:
       title: '"Theory and algorithms I developed have been applied to improve AI
