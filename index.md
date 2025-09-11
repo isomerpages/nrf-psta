@@ -80,8 +80,7 @@ sections:
       alt: Liu Ziwei
       image: /images/Infopic/2025/ysa25_infopic_lz.png
   - infopic:
-      title: '"Advances in atomic-precision chemistry can propel Singapore to be a
-        leader in materials science."'
+      title: '"Meaningful contributions often come from perseve...'
       subtitle: 2024 YSA WINNER
       id: infopic
       button: READ MORE
