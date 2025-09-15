@@ -23,7 +23,7 @@ sections:
       image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
       button: Read Here
-      url: /resources/foreword2025/permalink/
+      url: https://staging-lite.d26qy9gg0rp50y.amplifyapp.com/president-s-foreword-2025/
   - infopic:
       title: '"This journey reflects what we have built together as a un..'
       subtitle: 2025 PSTM WINNER
