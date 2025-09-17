@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Who will spark the next wave of change?
+      title: Who will Spark the Next Wave of Change?
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
       subtitle: Winners will be unveiled on 3 October. Follow us on Facebook,
