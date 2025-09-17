@@ -12,8 +12,8 @@ sections:
       title: Who will spark the next wave of change?
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      subtitle: Find out on Friday, October 3. Follow us on Facebook, Instagram,
-        LinkedIn to stay up to date.
+      subtitle: Winners will be unveiled on 3 October. Follow us on Facebook,
+        Instagram and LinkedIn using the links at the bottom of this page.
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2024/
   - infopic:
       title: President's Foreword
