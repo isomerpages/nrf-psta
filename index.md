@@ -29,14 +29,14 @@ sections:
   - infopic:
       title: '"My dream is to produce some Nobel Prize and Turing Awar....'
       subtitle: 2024 PSTM WINNER
-      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
+      image: /images/Infopic/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_23092024.png
       button: Read more
       url: /president-s-science-technology-medal-2024/
       alt: Ho Teck Hua
   - infopic:
       title: '"Industry-academia partnerships drive innovat.......'
       subtitle: 2024 PSTM WINNER
-      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_13092024.png
+      image: /images/Infopic/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_23092024__1_.png
       url: /president-s-science-technology-medal-2024/
       button: Read more
       alt: Richard Parker
@@ -44,7 +44,7 @@ sections:
       title: '"Original discoveries ignite science and transform inno.....'
       subtitle: 2024 PSA WINNER
       button: READ MORE
-      image: /images/Infopic/2024/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_13092024.png
+      image: /images/Infopic/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_23092024.png
       url: /president-s-science-award-2024/
       alt: Liu Bin
   - infopic:
