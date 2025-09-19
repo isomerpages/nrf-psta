@@ -2,11 +2,6 @@ collections:
   winners:
     output: true
     order:
-      - 2008/.keep
-      - 2008/President’s Science & Technology Medal 2025.md
-      - 2008/President’s Science Award 2025.md
-      - 2008/President’s Technology Award 2025.md
-      - 2008/Young Scientist Award 2025.md
       - 2024/.keep
       - 2024/President’s Science & Technology Medal 2024.md
       - 2024/President’s Science Award 2024.md
@@ -54,23 +49,28 @@ collections:
       - 2014/President’s Science & Technology Medal (PSTM).md
       - 2014/President's Science Award (PSA).md
       - 2014/President's Technology Award (PTA).md
+      - 2013/.keep
       - 2013/President’s Science & Technology Medal (PSTM).md
       - 2013/President's Science Award (PSA).md
       - 2013/President's Technology Award (PTA).md
-      - 2013/.keep
+      - 2012/.keep
       - 2012/President’s Science & Technology Medal (PSTM).md
       - 2012/President's Science Award (PSA).md
       - 2012/President's Technology Award (PTA).md
-      - 2012/.keep
+      - 2011/.keep
       - 2011/President’s Science & Technology Medal (PSTM).md
       - 2011/President's Science Award (PSA).md
       - 2011/President's Technology Award (PTA).md
-      - 2011/.keep
+      - 2010/.keep
       - 2010/President’s Science & Technology Medal (PSTM).md
       - 2010/President's Science Award (PSA).md
       - 2010/President's Technology Award (PTA).md
-      - 2010/.keep
+      - 2009/.keep
       - 2009/President’s Science & Technology Medal (PSTM).md
       - 2009/President's Science Award (PSA).md
       - 2009/President's Technology Award (PTA).md
-      - 2009/.keep
+      - 2008/.keep
+      - 2008/President’s Science & Technology Medal 2025.md
+      - 2008/President’s Science Award 2025.md
+      - 2008/President’s Technology Award 2025.md
+      - 2008/Young Scientist Award 2025.md
