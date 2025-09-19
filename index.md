@@ -53,6 +53,7 @@ sections:
       button: READ MORE
       url: /president-s-technology-award-2024/
       image: /images/Infopic/PSTA_Website_Profile_PTA_Group_UNIFORM_23092024.png
+      alt: 2024 PTA Winners
   - infopic:
       title: '"My mission is to leverage cutting-edge AI technol.....'
       subtitle: 2024 YSA WINNER
