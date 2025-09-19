@@ -6,13 +6,15 @@ description: The President's Science & Technology Awards (PSTA) are Singapore's
   and inspiring the next generation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Nominations for the President's Science and Technology Awards 2025
+  are now closed. Follow NRF LinkedIn for updates on our evaluation and reveal
+  of the award recipients!
 sections:
   - hero:
       title: Who will Spark the Next Wave of Change?
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      subtitle: Winners will be unveiled on 3 October. Follow us on Facebook,
+      subtitle: Winners will be unveiled on 3 October 2025. Follow us on Facebook,
         Instagram and LinkedIn using the links at the bottom of this page.
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2024/
   - infopic:
@@ -23,67 +25,66 @@ sections:
       image: /images/Infopic/infopic23-president-tharman-shanmugaratnam.png
       alt: President of Singapore
       button: Read Here
-      url: /resources/foreword2025/permalink/
+      url: /resources/foreword2024/permalink/
   - infopic:
-      title: '"This journey reflects what we have built together as a un..'
-      subtitle: 2025 PSTM WINNER
-      image: /images/Infopic/2025/pstm25_infopic_tec.png
+      title: '"My dream is to produce some Nobel Prize and Turing Awar....'
+      subtitle: 2024 PSTM WINNER
+      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_HoTechHua_UNIFORM_13092024.png
       button: Read more
-      url: /president-s-science-technology-medal-2025/
-      alt: Tan Eng Chye
+      url: /president-s-science-technology-medal-2024/
+      alt: Ho Teck Hua
   - infopic:
-      title: '"Disease knows no boundaries; neither should science."'
-      subtitle: 2025 PSA WINNER
-      image: /images/Infopic/2025/psa25_infopic_lct.png
-      url: /president-s-science-award-2025/
+      title: '"Industry-academia partnerships drive innovat.......'
+      subtitle: 2024 PSTM WINNER
+      image: /images/Infopic/2024/PSTA_Website_Profile_PTSM_RichardParker_UNIFORM_13092024.png
+      url: /president-s-science-technology-medal-2024/
       button: Read more
-      alt: Lim Chwee Teck
+      alt: Richard Parker
   - infopic:
-      title: "\"When pandemics hit, I saw how research isn't just acade..."
-      subtitle: 2025 PSA WINNER
+      title: '"Original discoveries ignite science and transform inno.....'
+      subtitle: 2024 PSA WINNER
       button: READ MORE
-      image: /images/Infopic/2025/psa25_infopic_ln.png
-      url: /president-s-science-award-2025/
-      alt: Lisa Ng
+      image: /images/Infopic/2024/PSTA_Website_Profile_PSA_LiuBin_UNIFORM_13092024.png
+      url: /president-s-science-award-2024/
+      alt: Liu Bin
   - infopic:
-      title: "\"We have built more than technology; we've cultivated a t..."
-      subtitle: 2025 PTA WINNER
+      title: '"Clinical collaboration is the lifeline for scientif.....'
+      subtitle: 2024 PTA WINNER
       button: READ MORE
-      url: /president-s-technology-award-2025/
-      image: /images/Infopic/2025/pta25_infopic_ngi.png
-      alt: Ng Geok Ing
+      url: /president-s-technology-award-2024/
+      image: /images/Infopic/PSTA_Website_Profile_PTA_Group_UNIFORM_23092024.png
   - infopic:
-      title: '"Each discovery deepens our understanding of human biolo...'
-      subtitle: 2025 YSA WINNER
+      title: '"My mission is to leverage cutting-edge AI technol.....'
+      subtitle: 2024 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2025/
-      image: /images/Infopic/2025/ysa25_infopic_cyh.png
-      alt: Chan Yi Hao
+      url: /young-scientist-award-2024/
+      image: /images/Infopic/PSTA_Website_Profile_YSA_DanielTing_UNIFORM_23092024.png
+      alt: Daniel Ting Shu Wei
   - infopic:
-      title: '"These breakthroughs are more than just lab curiosit...'
-      subtitle: 2025 YSA WINNER
+      title: '"Seeing my research enable new discoveries motiv.....'
+      subtitle: 2024 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2025/
-      alt: Andy tay Kah Ping
-      image: /images/Infopic/2025/ysa25_infopic_atkp.png
+      url: /young-scientist-award-2024/
+      alt: Jonathan Goke
+      image: /images/Infopic/PSTA_Website_Profile_YSA_JonathanG_UNIFORM_23092024.png
   - infopic:
-      title: "\"True innovation isn't just about smaller machines; it's ..."
-      subtitle: 2025 YSA WINNER
+      title: '"Theory and algorithms I developed have been appli......'
+      subtitle: 2024 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2025/
-      alt: Liu Ziwei
-      image: /images/Infopic/2025/ysa25_infopic_lz.png
+      url: /young-scientist-award-2024/
+      alt: Li Qianxiao
+      image: /images/Infopic/PSTA_Website_Profile_YSA_LiQianXiao_UNIFORM_23092024.png
   - infopic:
-      title: '"Meaningful contributions often come from perseve...'
-      subtitle: 2025 YSA WINNER
+      title: '"Advances in atomic-precision chemistry can propel Singa....'
+      subtitle: 2024 YSA WINNER
       id: infopic
       button: READ MORE
-      url: /young-scientist-award-2025/
-      alt: Wang Xinchao
-      image: /images/Infopic/2025/ysa25_infopic_wx.png
+      url: /young-scientist-award-2024/
+      alt: Lu Jiong
+      image: /images/Infopic/PSTA_Website_Profile_YSA_LuJiong_UNIFORM_23092024.png
   - infopic:
       title: NRF Singapore
       subtitle: Organiser
