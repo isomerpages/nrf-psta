@@ -16,5 +16,5 @@ third_nav_title: "2025"
 <br>National Semiconductor Translation and Innovation Centre for Gallium Nitride</p>
 <p><strong>"For his groundbreaking work in advancing Singapore's capabilities in radio-frequency Gallium Nitride (GaN) – an advanced III-V compound semiconductor technology – particularly in defence and commercial applications, by enabling local manufacturing capabilities and nurturing talents in this strategic field."</strong>
 </p>
-<p><u>Download Full Citation</u>
+<p><a href="/files/Citations/2025/2025_PTA_Ng__Geok_Ing.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
 </p>
