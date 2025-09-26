@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2025.md
       - 2024/.keep
       - 2024/President’s Science & Technology Medal 2024.md
       - 2024/President’s Science Award 2024.md
