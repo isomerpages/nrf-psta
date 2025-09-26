@@ -9,11 +9,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Who will Spark the Next Wave of Change?
+      title: On Oct 3, Innovation Takes Centre Stage
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      subtitle: Winners will be unveiled on 3 October 2025. Follow us on Facebook,
-        Instagram and LinkedIn using the links at the bottom of this page.
+      subtitle: Unveiling the Catalysts of Innovation
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2024/
   - infopic:
       title: President's Foreword
