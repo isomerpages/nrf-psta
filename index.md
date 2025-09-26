@@ -9,11 +9,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: On Oct 3, Innovation Takes Centre Stage
+      title: Celebrate Singapore's Game-changing Laureates
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      subtitle: Unveiling the Catalysts of Innovation
-      url: https://www.psta.gov.sg/president-s-science-technology-medal-2024/
+      url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
+      button: Meet Our Winners
   - infopic:
       title: President's Foreword
       id: infopic
