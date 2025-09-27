@@ -9,11 +9,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Celebrate Singapore's Game-changing Laureates
+      title: Celebrate Ideas that Transform & Inspire
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
-      button: Meet Our Winners
+      subtitle: Meet our Game-Changing Laureates
   - infopic:
       title: President's Foreword
       id: infopic
