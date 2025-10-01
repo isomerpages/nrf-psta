@@ -2,7 +2,7 @@ collections:
   gallery:
     output: true
     order:
-      - Videos 2024/.keep
+      - 2024/.keep
       - 2023/.keep
       - 2023/Videos 2023.md
       - 2022/.keep
