@@ -15,7 +15,7 @@ third_nav_title: "2025"
 <br>Agency for Science, Technology and Research</p>
 <p><strong>"For his research on viral encephalitis, revealing how the brain defends itself from life-threatening viral infections."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_YSA_Chen_Yi_Hao.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_YSA_Chen_Yi_Hao.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -58,7 +58,7 @@ third_nav_title: "2025"
 <br>National University of Singapore</p>
 <p><strong>"For advancing biomaterial-based therapies that modulate immune responses to improve diabetic wound healing and enhance cancer immunotherapy outcomes."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_YSA_Andy_Tay_Kah_Ping.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_YSA_Andy_Tay_Kah_Ping.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -101,7 +101,7 @@ third_nav_title: "2025"
 <br>Nanyang Technological University, Singapore</p>
 <p><strong>"For his contributions to the field of generative AI, in particular, how it perceives, understands and recreates the visual world around us."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_YSA_Liu_Ziwei.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_YSA_Liu_Ziwei.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -144,5 +144,5 @@ third_nav_title: "2025"
 <br>National University of Singapore</p>
 <p><strong>"For advancing machine learning techniques that train compact AI models using limited resources, while achieving the capabilities of larger AI systems."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_YSA_Wang_Xinchao.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_YSA_Wang_Xinchao.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
