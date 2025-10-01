@@ -77,8 +77,8 @@ Richard Parker
 </tbody>
 </table>
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=xZ8hv06umTs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2024/PTA_2024.png"></a>
-<p>2024 President’s Technology Award winners – Gurpreet Singh S/O Santokh
-Singh, Renzhe Bi, Malini Olivo, Augustine Tee</p>
+<p>2024 President’s Technology Award winners – Malini Olivo, Gurpreet Singh
+S/O Santokh Singh, Renzhe Bi, Augustine Tee</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
