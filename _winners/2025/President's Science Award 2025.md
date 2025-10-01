@@ -15,9 +15,8 @@ third_nav_title: "2025"
 <br>National University of Singapore</p>
 <p><strong>"For his pioneering contributions to cancer research through innovative mechanobiology approaches, successfully bridging engineering, biological sciences and medicine to foster a deeper understanding of cancer metastasis."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_PSA_Lim__Chwee_Teck.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_PSA_Lim_Chwee_Teck.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -61,5 +60,5 @@ third_nav_title: "2025"
 <br>Agency for Science, Technology and Research</p>
 <p><strong>"For her pioneering contributions to viral infection immunology and advancing global pandemic management through groundbreaking research on Arboviruses, in particular, Chikungunya."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_PSA_Lisa_Ng.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Full Citation</a>
+<p><a href="/files/Citations/2025/2025_PSA_Lisa_Ng.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 </p>
