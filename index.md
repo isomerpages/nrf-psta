@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Celebrate Ideas that Transform & Inspire
+      title: Celebrating Ideas that Transform & Inspire
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
