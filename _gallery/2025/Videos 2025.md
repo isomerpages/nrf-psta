@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/PSTM_2025.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/a9KKPIuN4L4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/PSTM_2025.png"></a>
 <p>2025 President’s Science &amp; Technology Medal winner – Tan Eng Chye</p>
 <table style="minWidth: 75px">
 <colgroup>
