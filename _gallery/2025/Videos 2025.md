@@ -115,10 +115,12 @@ third_nav_title: "2025"
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/YSA_1_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/YSA_1___CYH___AT.png">
 </div>
-<p>2025 Young Scientist Award winners – Chan Yi Hao, Andy Tay Kah Ping</p>
+<p>2025 Young Scientist Award winners – Andy Tay Kah Ping, Chan Yi Hao</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/YSA_2_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video Thumbnails/2025/YSA_2___ZW___XC_V2.png">
 </div>
-<p>2025 Young Scientist Award winners – Liu Ziwei, Wang Xinchao</p>
+<p>
+<br>2025 Young Scientist Award winners – Wang Xinchao, Liu Ziwei</p>
