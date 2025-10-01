@@ -14,6 +14,6 @@ third_nav_title: "2025"
 <br>National University of Singapore</p>
 <p><strong>"For his transformative contributions in advancing Singapore’s research and innovation landscape through interdisciplinary education, international partnerships, and deep tech innovation and ecosystem building, nurturing future leaders and elevating Singapore’s global standing in science and technology."</strong>
 </p>
-<p><a href="/files/Citations/2025/2025_PSTM_Tan__Eng_Chye.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download Full Citation</u></a>
+<p><a href="/files/Citations/2025/2025_PSTM_Tan_Eng_Chye.pdf" rel="noopener nofollow" target="_blank">Download Full Citation</a>
 <br>
 </p>
