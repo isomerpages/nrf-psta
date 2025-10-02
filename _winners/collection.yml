@@ -1,0 +1,76 @@
+collections:
+  winners:
+    output: true
+    order:
+      - 2025/.keep
+      - 2025/President’s Science & Technology Medal 2025.md
+      - 2025/President's Science Award 2025.md
+      - 2025/President's Technology Award 2025.md
+      - 2025/Young Scientist Award 2025.md
+      - 2024/.keep
+      - 2024/President’s Science & Technology Medal 2024.md
+      - 2024/President’s Science Award 2024.md
+      - 2024/President’s Technology Award 2024.md
+      - 2024/Young Scientist Award 2024.md
+      - 2023/.keep
+      - 2023/President’s Science & Technology Medal (PSTM).md
+      - 2023/President's Science Award (PSA).md
+      - 2023/Young Scientist Awards (YSA).md
+      - 2022/.keep
+      - 2022/President’s Science & Technology Medal (PSTM).md
+      - 2022/President’s Technology Award (PTA).md
+      - 2022/Young Scientist Awards (YSA).md
+      - 2021/.keep
+      - 2021/President’s Science & Technology Medal (PSTM).md
+      - 2021/President's Science Award (PSA).md
+      - 2021/President's Technology Award (PTA).md
+      - 2021/Young Scientist Awards (YSA).md
+      - 2020/.keep
+      - 2020/President’s Science & Technology Medal (PSTM).md
+      - 2020/President's Science Award (PSA).md
+      - 2020/President's Technology Award (PTA).md
+      - 2020/Young Scientist Awards (YSA).md
+      - 2019/.keep
+      - 2019/President's Science Award (PSA).md
+      - 2019/President's Technology Award (PTA).md
+      - 2019/Young Scientist Awards (YSA).md
+      - 2018/.keep
+      - 2018/President’s Science & Technology Medal (PSTM).md
+      - 2018/President's Science Award (PSA).md
+      - 2018/President's Technology Award (PTA).md
+      - 2017/.keep
+      - 2017/President’s Science & Technology Medal (PSTM).md
+      - 2017/President's Science Award (PSA).md
+      - 2017/President's Technology Award (PTA).md
+      - 2016/.keep
+      - 2016/President’s Science & Technology Medal (PSTM).md
+      - 2016/President's Science Award (PSA).md
+      - 2016/President's Technology Award (PTA).md
+      - 2015/.keep
+      - 2015/President’s Science & Technology Medal (PSTM).md
+      - 2015/President's Science Award (PSA).md
+      - 2015/President's Technology Award (PTA).md
+      - 2014/.keep
+      - 2014/President’s Science & Technology Medal (PSTM).md
+      - 2014/President's Science Award (PSA).md
+      - 2014/President's Technology Award (PTA).md
+      - 2013/.keep
+      - 2013/President’s Science & Technology Medal (PSTM).md
+      - 2013/President's Science Award (PSA).md
+      - 2013/President's Technology Award (PTA).md
+      - 2012/.keep
+      - 2012/President’s Science & Technology Medal (PSTM).md
+      - 2012/President's Science Award (PSA).md
+      - 2012/President's Technology Award (PTA).md
+      - 2011/.keep
+      - 2011/President’s Science & Technology Medal (PSTM).md
+      - 2011/President's Science Award (PSA).md
+      - 2011/President's Technology Award (PTA).md
+      - 2010/.keep
+      - 2010/President’s Science & Technology Medal (PSTM).md
+      - 2010/President's Science Award (PSA).md
+      - 2010/President's Technology Award (PTA).md
+      - 2009/.keep
+      - 2009/President’s Science & Technology Medal (PSTM).md
+      - 2009/President's Science Award (PSA).md
+      - 2009/President's Technology Award (PTA).md

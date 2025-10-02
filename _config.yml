@@ -1,0 +1,62 @@
+title: President's Science & Technology Awards (PSTA)
+url: https://www.psta.gov.sg
+favicon: /images/Favicon/psta-favicon-svg.svg
+colors:
+  primary-color: "#09239f"
+  secondary-color: "#09239f"
+  media-colors:
+    - title: media-color-one
+      color: "#09239f"
+    - title: media-color-two
+      color: "#42bfff"
+    - title: media-color-three
+      color: "#016eff"
+    - title: media-color-four
+      color: "#22297a"
+    - title: media-color-five
+      color: "#3650a8"
+description: The President's Science & Technology Awards (PSTA) are Singapore's
+  top accolades for research and innovation, recognising top scientific talent
+  and inspiring the next generation.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d32jhm5ckwofyc.amplifyapp.com
+prod: https://master.d32jhm5ckwofyc.amplifyapp.com
+shareicon: /images/isomer-logo.svg
+is_government: true
+facebook-pixel: "6867974506605123"
+google_analytics: UA-253439107-1
+linkedin-insights: "5669724"
+resources_name: resources
+google_analytics_ga4: ""
