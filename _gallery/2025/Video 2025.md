@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2025"
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2uYy-_7IXjU?si=iKS1OIDDycSPvWge"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/2uYy-_7IXjU?si=iKS1OIDDycSPvWge"></iframe>
 </div>
 <p><strong>2025 President’s Science &amp; Technology Medal winner – Prof Tan Eng Chye</strong>
 </p>
@@ -79,7 +79,7 @@ third_nav_title: "2025"
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EsiUynzlwwM?si=Q9gVOCcG2S2Er4FL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/EsiUynzlwwM?si=Q9gVOCcG2S2Er4FL"></iframe>
 </div>
 <p><strong>2025 President’s Technology Award winner – Prof Ng Geok Ing</strong>
 </p>
