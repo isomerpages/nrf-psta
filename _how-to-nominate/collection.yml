@@ -2,4 +2,4 @@ collections:
   how-to-nominate:
     output: true
     order:
-      - Getting Ready.md
+      - How to Nominate.md
