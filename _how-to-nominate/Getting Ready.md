@@ -4,8 +4,7 @@ permalink: /nominate/
 description: ""
 variant: tiptap
 ---
-<h3>Get Ready to Nominate:</h3>
-<p>Nominate in 3 easy steps via our Nomination Portal.</p>
+<h3>Nominate in 3 easy steps via our Nomination Portal:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/psta2026￼2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
@@ -33,16 +32,9 @@ out in:</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
+<br><a href="/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">Terms of Participation</a>
 </p>
-</li>
-<li>
-<p><a href="/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">Terms of Participation</a>
-</p>
-</li>
-</ul>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
 <p></p>
