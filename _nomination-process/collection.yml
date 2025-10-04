@@ -1,5 +1,5 @@
 collections:
-  how-to-nominate:
+  nomination-process:
     output: true
     order:
       - How to Nominate.md

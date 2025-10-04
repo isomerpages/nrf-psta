@@ -9,11 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Celebrating Ideas that Transform & Inspire
+      title: Nominations for PSTA 2026 are now open!
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
-      subtitle: Meet our Game-Changing Laureates
+      url: /getting-ready-to-nominate/
+      subtitle: Celebrate research excellence and impactful innovation. Submit your
+        nominations today!
+      button: Nominate Here
   - infopic:
       title: President's Foreword
       id: infopic
@@ -24,7 +26,8 @@ sections:
       button: Read Here
       url: /president-s-foreword-2025/
   - infopic:
-      title: '"This journey reflects what we have built together as a university and as a country."'
+      title: '"This journey reflects what we have built together as a university and
+        as a country."'
       subtitle: 2025 PSTM WINNER
       image: /images/Infopic/2025/pstm25_infopic_tec.png
       button: Read more
@@ -38,21 +41,24 @@ sections:
       button: Read more
       alt: Lim Chwee Teck
   - infopic:
-      title: '“When pandemics hit, I saw how research isn’t just academic – it’s a national imperative.”'
+      title: “When pandemics hit, I saw how research isn’t just academic – it’s a
+        national imperative.”
       subtitle: 2025 PSA WINNER
       button: READ MORE
       image: /images/Infopic/2025/psa25_infopic_ln.png
       url: /president-s-science-award-2025/
       alt: Lisa Ng
   - infopic:
-      title: '“We have built more than technology; we’ve cultivated a thriving talent ecosystem."'
+      title: “We have built more than technology; we’ve cultivated a thriving talent
+        ecosystem."
       subtitle: 2025 PTA WINNER
       button: READ MORE
       url: /president-s-technology-award-2025/
       image: /images/Infopic/2025/pta25_infopic_ngi.png
       alt: Ng Geok Ing
   - infopic:
-      title: '“Each discovery deepens our understanding of human biology and brings hope to patients.”'
+      title: “Each discovery deepens our understanding of human biology and brings
+        hope to patients.”
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
@@ -60,7 +66,8 @@ sections:
       image: /images/Infopic/2025/ysa25_infopic_cyh.png
       alt: Chan Yi Hao
   - infopic:
-      title: '“These breakthroughs are more than just lab curiosities; they are designed for real world impact.”'
+      title: “These breakthroughs are more than just lab curiosities; they are
+        designed for real world impact.”
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
@@ -68,7 +75,8 @@ sections:
       alt: Andy Tay Kah Ping
       image: /images/Infopic/2025/ysa25_infopic_atkp.png
   - infopic:
-      title: '“True innovation isn’t just about smaller machines; it’s about empowering people.”'
+      title: “True innovation isn’t just about smaller machines; it’s about empowering
+        people.”
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
@@ -76,7 +84,7 @@ sections:
       alt: Liu Ziwei
       image: /images/Infopic/2025/ysa25_infopic_lz.png
   - infopic:
-      title: '“Meaningful contributions often come from perseverance, not perfection.”'
+      title: “Meaningful contributions often come from perseverance, not perfection.”
       subtitle: 2025 YSA WINNER
       id: infopic
       button: READ MORE
