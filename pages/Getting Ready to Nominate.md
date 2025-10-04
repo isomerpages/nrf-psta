@@ -4,7 +4,7 @@ permalink: /getting-ready-to-nominate/
 variant: tiptap
 description: ""
 ---
-<h3>Nominate in 3 easy steps via our Nomination Portal:</h3>
+<h3>Nominate in 3 easy steps:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/psta2026￼2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
