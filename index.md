@@ -15,6 +15,7 @@ sections:
       url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
       subtitle: Celebrate research excellence and impactful innovation. Submit your
         nominations today!
+      button: Meet our Game-Changing Laureates
   - infopic:
       title: President's Foreword
       id: infopic
