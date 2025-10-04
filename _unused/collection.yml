@@ -2,6 +2,5 @@ collections:
   unused:
     output: true
     order:
-      - How to Nominate.md
       - Privacy Statement dummy.md
       - Terms of Use dummy.md
