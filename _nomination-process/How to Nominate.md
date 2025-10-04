@@ -9,8 +9,6 @@ variant: tiptap
 <li>
 <p>Visit <a href="https://go.gov.sg/psta2026￼2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
 </li>
-</ol>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Check award categories for eligibility and criteria</p>
 </li>
@@ -43,4 +41,6 @@ out in:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nominate Button/QR_Code_for_Nominations.png">
 </div>
-<p></p>
+<p>
+<br>
+</p>
