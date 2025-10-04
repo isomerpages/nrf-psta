@@ -34,7 +34,7 @@ out in:</p>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nominate Button/PSTA_Nominate_Now_Button_100.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/68c132c50c031269b686cf52"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nominate Button/PSTA_Nominate_Now_Button_100.jpg"></a>
 <p>Or scan the QR code below to be redirected on your mobile devices.</p>
 <p></p>
 <div class="isomer-image-wrapper">
