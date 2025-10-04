@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: How to Nominate
-    url: /nominate/
+    collection: how-to-nominate
   - title: Winners
     collection: winners
   - title: Gallery
