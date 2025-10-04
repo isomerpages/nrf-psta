@@ -1,5 +1,4 @@
 collections:
   nomination-process:
     output: true
-    order:
-      - How to Nominate.md
+    order: []
