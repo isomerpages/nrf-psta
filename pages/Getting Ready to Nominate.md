@@ -7,7 +7,7 @@ description: ""
 <h3>Nominate in 3 easy steps:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a href="https://go.gov.sg/psta2026￼2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
+<p>Visit <a href="https://form.gov.sg/68c132c50c031269b686cf52" rel="noopener nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
 </li>
 <li>
 <p>Check award categories for eligibility and criteria</p>
