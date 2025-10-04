@@ -5,40 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3>Get Ready to Nominate:</h3>
+<p>Nominate in 3 easy steps via our Nomination Portal.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Download and complete the soft copy documents</strong>
-<br>Please download and complete the appropriate forms via the links below.
-You are required to upload the completed soft copy forms into the Nomination
-Portal.</p>
+<p>Visit <a href="https://go.gov.sg/psta2026￼2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
+<ol start="2" data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/pstm-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science &amp; Technology Award (PSTM)</a>
-</p>
+<p>Check award categories for criteria and
+<br>eligibility</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/psa-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Science Award (PSA)</a>
-</p>
+<p>Submit your nomination form online</p>
 </li>
-<li>
-<p><a href="https://go.gov.sg/pta-nomination-form-2025" rel="noopener noreferrer nofollow" target="_blank">President's Technology Award (PTA)</a>
-</p>
+</ol>
 <p></p>
 <p><em>Note: For the PSA and PTA forms, please ensure the nominees sign the </em><strong><em><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></em></strong><em> section in the forms. Two signatures are required and we accept digital or electronic signatures.</em>
 <br>
 </p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>SingPass login is required to access the Nomination Portal</strong>
 <br>Should you encounter any issues, please email <a href="mailto:PSTA_secretariat@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PSTA_secretariat@nrf.gov.sg</a>.
 <br>The consent to use personal data and the terms of participation is laid
 out in:</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,7 +45,8 @@ out in:</p>
 </ul>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nominate Button/nomination-button2-210x173px.png"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/psta2025-nomination"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Nominate Button/PSTA_Nominate_Now_Button_100.jpg"></a>
 <p>Or scan the QR code below to be redirected on your mobile devices.</p>
 <p></p>
 <div class="isomer-image-wrapper">
