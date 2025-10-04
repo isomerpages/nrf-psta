@@ -12,10 +12,10 @@ sections:
       title: Nominations for PSTA 2026 are now open!
       background: /images/Hero Background/psta_2025_hero_1920x720.jpg
       variant: center
-      url: https://www.psta.gov.sg/president-s-science-technology-medal-2025/
+      url: /nominate/
       subtitle: Celebrate research excellence and impactful innovation. Submit your
         nominations today!
-      button: Meet our Game-Changing Laureates
+      button: Nominate Here
   - infopic:
       title: President's Foreword
       id: infopic
