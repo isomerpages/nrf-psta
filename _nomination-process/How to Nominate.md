@@ -12,8 +12,7 @@ variant: tiptap
 </ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Check award categories for criteria and
-<br>eligibility</p>
+<p>Check award categories for eligibility and criteria</p>
 </li>
 <li>
 <p>Submit your nomination form online</p>
