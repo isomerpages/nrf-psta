@@ -1,5 +1,5 @@
 ---
-title: Video 2025
+title: Videos 2025
 permalink: /video-2025/
 variant: tiptap
 description: ""
