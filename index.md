@@ -25,6 +25,10 @@ sections:
       alt: President of Singapore
       button: Read Here
       url: /president-s-foreword-2025/
+  - infobar:
+      title: The visionaries pushing Singapore’s research frontiers
+      subtitle: Introducing
+      id: infobar
   - infopic:
       title: '"This journey reflects what we have built together as a university and
         as a country."'
