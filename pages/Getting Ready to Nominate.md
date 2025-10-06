@@ -4,22 +4,32 @@ permalink: /getting-ready-to-nominate/
 variant: tiptap
 description: ""
 ---
-<h3>Nominate in 3 easy steps:</h3>
+<h3>Nominate in 4 easy steps:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a href="https://form.gov.sg/68c132c50c031269b686cf52" rel="noopener nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
+<p>Visit <a href="https://form.gov.sg/68c132c50c031269b686cf52" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/psta2026</a>.</p>
 </li>
 <li>
-<p>Check award categories for eligibility and criteria</p>
+<p>Check the respective award categories for eligibility and criteria</p>
 </li>
 <li>
-<p>Submit your nomination form online</p>
+<p>Download and complete the offline forms</p>
+</li>
+<li>
+<p>Submit the nomination form online</p>
 </li>
 </ol>
 <p></p>
-<p><em>Note: For the PSA and PTA forms, please ensure the nominees sign the </em><strong><em><u>Declaration and Consent to the use of Personal Data and Terms of Participation</u></em></strong><em> section in the forms. Two signatures are required and we accept digital or electronic signatures.</em>
-</p>
+<p>To facilitate a seamless process, nominees are required to sign both the <strong>Declaration and Consent to the Use of Personal Data</strong>,
+as well as the <strong>Terms of Participation</strong> sections in the PSA
+and PTA forms. Please be advised that <strong>two signatures are required</strong>,
+and we accept them in digital/electronic formats.</p>
+<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong>The deadline for nominations is 15 December 2025.</strong>
+</p>
+</li>
 <li>
 <p><strong>SingPass login is required to access the Nomination Portal</strong>
 <br>Should you encounter any issues, please email <a href="mailto:PSTA_secretariat@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PSTA_secretariat@nrf.gov.sg</a>.
@@ -28,8 +38,7 @@ out in:</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
-<br><a href="/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">Terms of Participation</a>
+<p><strong><a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a><br><a href="/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">Terms of Participation</a></strong>
 </p>
 <h3>All set? Click below to submit your nomination.</h3>
 <p></p>
