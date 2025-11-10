@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Nominations for PSTA 2026 are now open!
-      background: /images/Hero Background/Background_Recolored_copy.jpg
+      background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
       url: /getting-ready-to-nominate/
       subtitle: Celebrate research excellence and impactful innovation. Submit your
