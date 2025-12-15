@@ -9,12 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Nominations for PSTA 2026 are closed.
+      title: Nominations for 2026 EXTENDED to 22 Dec
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
-      url: /president-s-science-technology-medal-2025/
-      subtitle: Thank you for your submissions
-      button: Meet our past laureates
+      url: /getting-ready-to-nominate/
+      subtitle: Celebrate research excellence and impactful innovation. Submit your
+        nominations today!
+      button: Nominate Here
   - infopic:
       title: President's Foreword
       id: infopic
