@@ -9,13 +9,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Nominations for 2026 close on 15 Dec 2025
+      title: Nominations for PSTA 2026 are closed.
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
-      url: /getting-ready-to-nominate/
-      subtitle: Celebrate research excellence and impactful innovation. Submit your
-        nominations today!
-      button: Nominate Here
+      url: /winners
+      subtitle: Thank you for your submisisons
+      button: Meet our past laureates
   - infopic:
       title: President's Foreword
       id: infopic
