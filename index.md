@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Nominations for 2026 EXTENDED to 22 Dec
+      title: Nominations for 2026 extended to 22 Dec
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
       url: /getting-ready-to-nominate/
