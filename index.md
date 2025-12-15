@@ -13,7 +13,7 @@ sections:
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
       url: /president-s-science-technology-medal-2025/
-      subtitle: Thank you for your submisisons
+      subtitle: Thank you for your submissions
       button: Meet our past laureates
   - infopic:
       title: President's Foreword
