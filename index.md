@@ -12,7 +12,7 @@ sections:
       title: Nominations for PSTA 2026 are closed.
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
-      url: /winners
+      url: /president-s-science-technology-medal-2025/
       subtitle: Thank you for your submisisons
       button: Meet our past laureates
   - infopic:
