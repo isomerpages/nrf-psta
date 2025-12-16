@@ -27,7 +27,7 @@ and we accept them in digital/electronic formats.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>The deadline for nominations is 15 December 2025.</strong>
+<p><strong>The deadline for nominations is extended to 22 December 2025.</strong>
 </p>
 </li>
 <li>
