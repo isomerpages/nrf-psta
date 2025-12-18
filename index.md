@@ -14,7 +14,7 @@ sections:
       variant: center
       url: /getting-ready-to-nominate/
       subtitle: Nominations for PSTA 2026 are closed.
-      button: Nominate Here
+      button: Meet our Game-Changing Laureates
   - infopic:
       title: President's Foreword
       id: infopic
