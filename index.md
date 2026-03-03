@@ -9,12 +9,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Thank you for your submissions.
+      title: Celebrating Scientific & Technological Excellence
       background: /images/Hero Background/psta_2025_hero_2515x1006.jpg
       variant: center
       url: /president-s-science-technology-medal-2025/
-      subtitle: Nominations for PSTA 2026 are closed.
-      button: Meet our Game-Changing Laureates
+      button: MEET THE DISTINGUISHED LAUREATES
   - infopic:
       title: President's Foreword
       id: infopic
